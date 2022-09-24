@@ -1,0 +1,19 @@
+Experiment_Title,R2_Score,RMSE,MAE
+XGB Regressor with default parameters + Lasso based Feature Selection + Normalized Features,0.7889182747057333,4.3475346491708,3.4571784530139333
+LGBM Regressor with default parameters + Lasso based Feature Selection + Normalized Features,0.7708155104579167,4.530126668484579,3.58521795714957
+CatBoost Regressor with default parameters + Lasso based Feature Selection + Normalized Features,0.7955235616293433,4.278971267193942,3.3985846137117512
+Support Vector Machine Regressor with default parameters + Lasso based Feature Selection + Normalized Features,0.6403508854894815,5.674887180920358,4.394875306804743
+"CatBoost Regressor with parameter tuning (learning_rate, border_count and depth) + Lasso based Feature Selection + Normalized Features",0.8010950254756848,4.2202731097598285,3.3499656005327707
+"XGB Regressor with parameter tuning (n_estimator, learning_rate, max_depth, lambda, alpha) + Lasso based Feature Selection + Normalized Features",0.7496134055425936,4.735035844305339,3.7147492176477996
+XGB Regressor with default parameters + Normalized Features,0.7890020880631184,4.3466714345726745,3.4556787552338366
+LGBM Regressor with default parameters + Normalized Features,0.7707316322952308,4.530955572617988,3.5832306297053846
+CatBoost Regressor with default parameters + Normalized Features,0.7957722821202022,4.2763680536471576,3.3942377564837574
+Support Vector Machine Regressor with default parameters + Normalized Features,0.6403508854894817,5.674887180920357,4.394875306804749
+"CatBoost Regressor with parameter tuning (learning_rate, border_count and depth) + Normalized Features",0.7956090878204538,4.2780762927089775,3.3972700030148504
+"XGB Regressor with parameter tuning (n_estimator, learning_rate, max_depth, lambda, alpha) + Normalized Features",0.7497660963903727,4.733591863454366,3.7126109183573233
+XGB Regressor with default parameters + PCA + Normalized Features,0.7889716619943706,4.34698482003537,3.4566229483396
+LGBM Regressor with default parameters + PCA + Normalized Features,0.7711952230436783,4.526372358606564,3.5866904375929263
+CatBoost Regressor with default parameters + PCA + Normalized Features,0.7964655560755134,4.269103577251585,3.3888122298250796
+Support Vector Machine Regressor with default parameters + PCA + Normalized Features,0.640350885489405,5.67488718092096,4.394875306805784
+"CatBoost Regressor with parameter tuning (learning_rate, border_count and depth) + PCA + Normalized Features",0.800297901466217,4.228721157191298,3.3565404451652134
+"XGB Regressor with parameter tuning (n_estimator, learning_rate, max_depth, lambda, alpha) + PCA + Normalized Features",0.74914743969067,4.739439713183612,3.7178789796190235

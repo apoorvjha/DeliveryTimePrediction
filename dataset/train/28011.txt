@@ -1,0 +1,21 @@
+ID                                      0x2bee
+Delivery_person_ID             COIMBRES16DEL01
+Delivery_person_Age                  24.000000
+Delivery_person_Ratings               4.400000
+Restaurant_latitude                  11.010375
+Restaurant_longitude                 76.952950
+Delivery_location_latitude           11.080375
+Delivery_location_longitude          77.022950
+Order_Date                          06-04-2022
+Time_Orderd                              20:40
+Time_Order_picked                        20:50
+Weather conditions                      Cloudy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                             Meal
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   2.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     38.000000
+Name: 28011, dtype: object

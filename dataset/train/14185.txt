@@ -1,0 +1,21 @@
+ID                                    0xda51
+Delivery_person_ID             DEHRES15DEL02
+Delivery_person_Age                    34.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        12-02-2022
+Time_Orderd                            19:20
+Time_Order_picked                      19:30
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                       49.00
+Name: 14185, dtype: object

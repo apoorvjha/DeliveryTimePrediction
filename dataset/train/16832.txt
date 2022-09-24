@@ -1,0 +1,21 @@
+ID                                     0x7aca
+Delivery_person_ID             VADRES010DEL02
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.390329
+Delivery_location_longitude         73.249083
+Order_Date                         25-03-2022
+Time_Orderd                             22:30
+Time_Order_picked                       22:45
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    13.000000
+Name: 16832, dtype: object

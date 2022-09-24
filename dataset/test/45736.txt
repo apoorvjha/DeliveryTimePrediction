@@ -1,0 +1,20 @@
+ID                                     0xc950
+Delivery_person_ID             AURGRES06DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 19.874449
+Restaurant_longitude                75.360232
+Delivery_location_latitude          19.964449
+Delivery_location_longitude         75.450232
+Order_Date                         18-02-2022
+Time_Orderd                             21:25
+Time_Order_picked                       21:40
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Name: 143, dtype: object

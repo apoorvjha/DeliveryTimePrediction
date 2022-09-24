@@ -1,0 +1,21 @@
+ID                                    0xd83f
+Delivery_person_ID             KNPRES20DEL01
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                    26.47
+Restaurant_longitude                   80.35
+Delivery_location_latitude             26.51
+Delivery_location_longitude            80.39
+Order_Date                        17-02-2022
+Time_Orderd                            12:55
+Time_Order_picked                      12:60
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       21.00
+Name: 19664, dtype: object

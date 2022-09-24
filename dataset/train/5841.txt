@@ -1,0 +1,21 @@
+ID                                       0xc58b
+Delivery_person_ID                ALHRES19DEL01
+Delivery_person_Age                   21.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   25.457116
+Restaurant_longitude                  81.859682
+Delivery_location_latitude            25.467116
+Delivery_location_longitude           81.869682
+Order_Date                           17-02-2022
+Time_Orderd                               11:35
+Time_Order_picked                         11:40
+Weather conditions                       Cloudy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      24.000000
+Name: 5841, dtype: object

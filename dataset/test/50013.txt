@@ -1,0 +1,20 @@
+ID                                    0x2093
+Delivery_person_ID             JAPRES17DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                26.892312
+Restaurant_longitude               75.806896
+Delivery_location_latitude         27.002312
+Delivery_location_longitude        75.916896
+Order_Date                        06-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 4420, dtype: object

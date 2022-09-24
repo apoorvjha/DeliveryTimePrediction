@@ -1,0 +1,20 @@
+ID                                       0xcc33
+Delivery_person_ID               LUDHRES03DEL02
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   30.887220
+Restaurant_longitude                  75.804893
+Delivery_location_latitude            30.907220
+Delivery_location_longitude           75.824893
+Order_Date                           13-02-2022
+Time_Orderd                                8:15
+Time_Order_picked                          8:20
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4336, dtype: object

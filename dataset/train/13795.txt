@@ -1,0 +1,21 @@
+ID                                     0x1c1b
+Delivery_person_ID             BANGRES03DEL02
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.979166
+Restaurant_longitude                77.640709
+Delivery_location_latitude          13.059166
+Delivery_location_longitude         77.720709
+Order_Date                         16-03-2022
+Time_Orderd                             19:15
+Time_Order_picked                       19:30
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    52.000000
+Name: 13795, dtype: object

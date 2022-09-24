@@ -1,0 +1,20 @@
+ID                                      0x2cec
+Delivery_person_ID             COIMBRES09DEL01
+Delivery_person_Age                  39.000000
+Delivery_person_Ratings               4.500000
+Restaurant_latitude                  11.008638
+Restaurant_longitude                 76.984311
+Delivery_location_latitude           11.078638
+Delivery_location_longitude          77.054311
+Order_Date                          25-03-2022
+Time_Orderd                              21:45
+Time_Order_picked                        21:50
+Weather conditions                  Sandstorms
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Name: 6715, dtype: object

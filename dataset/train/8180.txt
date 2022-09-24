@@ -1,0 +1,21 @@
+ID                                     0xda35
+Delivery_person_ID             AURGRES17DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.876994
+Restaurant_longitude                75.372353
+Delivery_location_latitude          19.896994
+Delivery_location_longitude         75.392353
+Order_Date                         15-02-2022
+Time_Orderd                             11:60
+Time_Order_picked                       12:05
+Weather conditions                     Stormy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    21.000000
+Name: 8180, dtype: object

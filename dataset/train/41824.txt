@@ -1,0 +1,21 @@
+ID                                    0x680a
+Delivery_person_ID             MUMRES17DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                19.121999
+Restaurant_longitude               72.908493
+Delivery_location_latitude         19.141999
+Delivery_location_longitude        72.928493
+Order_Date                        03-03-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:40
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 41824, dtype: object

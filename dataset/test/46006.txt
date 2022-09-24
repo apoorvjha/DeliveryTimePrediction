@@ -1,0 +1,20 @@
+ID                                       0x2cd2
+Delivery_person_ID                MUMRES08DEL01
+Delivery_person_Age                   23.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   19.065838
+Restaurant_longitude                  72.832658
+Delivery_location_latitude            19.175838
+Delivery_location_longitude           72.942658
+Order_Date                           12-03-2022
+Time_Orderd                               22:35
+Time_Order_picked                         22:40
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 413, dtype: object

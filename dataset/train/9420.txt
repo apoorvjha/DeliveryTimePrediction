@@ -1,0 +1,21 @@
+ID                                    0xc5f7
+Delivery_person_ID             ALHRES20DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.544697
+Delivery_location_longitude        81.924492
+Order_Date                        12-02-2022
+Time_Orderd                            18:60
+Time_Order_picked                      19:10
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 9420, dtype: object

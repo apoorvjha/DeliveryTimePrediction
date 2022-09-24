@@ -1,0 +1,21 @@
+ID                                     0xc0c2
+Delivery_person_ID             AURGRES03DEL03
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                -19.874733
+Restaurant_longitude                75.353942
+Delivery_location_latitude          19.904733
+Delivery_location_longitude         75.383942
+Order_Date                         15-02-2022
+Time_Orderd                             22:20
+Time_Order_picked                       22:35
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    15.000000
+Name: 9404, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xc287
+Delivery_person_ID             BHPRES20DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                23.235123
+Restaurant_longitude               77.398886
+Delivery_location_latitude         23.245123
+Delivery_location_longitude        77.408886
+Order_Date                        15-02-2022
+Time_Orderd                             8:50
+Time_Order_picked                       8:60
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 28856, dtype: object

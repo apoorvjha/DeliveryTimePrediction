@@ -1,0 +1,20 @@
+ID                                       0x5077
+Delivery_person_ID                JAPRES08DEL02
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   26.910262
+Restaurant_longitude                  75.783013
+Delivery_location_latitude            26.930262
+Delivery_location_longitude           75.803013
+Order_Date                           05-03-2022
+Time_Orderd                                8:50
+Time_Order_picked                          8:55
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 5717, dtype: object

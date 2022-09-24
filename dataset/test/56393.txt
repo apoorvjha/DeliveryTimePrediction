@@ -1,0 +1,20 @@
+ID                                    0xc8a0
+Delivery_person_ID             DEHRES12DEL03
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        11-02-2022
+Time_Orderd                            20:15
+Time_Order_picked                      20:20
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 10800, dtype: object

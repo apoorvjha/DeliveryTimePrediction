@@ -1,0 +1,20 @@
+ID                                    0x5aef
+Delivery_person_ID             MYSRES08DEL01
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.307954
+Delivery_location_longitude        76.675169
+Order_Date                        01-04-2022
+Time_Orderd                            10:10
+Time_Order_picked                      10:15
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 6244, dtype: object

@@ -1,0 +1,21 @@
+ID                                      0x6178
+Delivery_person_ID             COIMBRES03DEL03
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  11.025083
+Restaurant_longitude                 77.015393
+Delivery_location_latitude           11.055083
+Delivery_location_longitude          77.045393
+Order_Date                          03-03-2022
+Time_Orderd                                NaN
+Time_Order_picked                        17:15
+Weather conditions                       Sunny
+Road_traffic_density                    Medium
+Vehicle_condition                            1
+Type_of_order                           Buffet
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     16.000000
+Name: 41931, dtype: object

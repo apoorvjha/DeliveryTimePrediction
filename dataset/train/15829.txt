@@ -1,0 +1,21 @@
+ID                                     0xac52
+Delivery_person_ID             INDORES19DEL03
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.745536
+Restaurant_longitude                75.893106
+Delivery_location_latitude          22.775536
+Delivery_location_longitude         75.923106
+Order_Date                         01-03-2022
+Time_Orderd                             20:30
+Time_Order_picked                       20:40
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    23.000000
+Name: 15829, dtype: object

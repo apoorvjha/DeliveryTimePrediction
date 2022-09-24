@@ -1,0 +1,21 @@
+ID                                      0x508
+Delivery_person_ID             PUNERES12DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -18.520016
+Restaurant_longitude               -73.830547
+Delivery_location_latitude          18.570016
+Delivery_location_longitude         73.880547
+Order_Date                         13-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       23:50
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 18476, dtype: object

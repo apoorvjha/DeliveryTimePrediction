@@ -1,0 +1,21 @@
+ID                                    0xbb92
+Delivery_person_ID             VADRES01DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.387898
+Delivery_location_longitude        73.247788
+Order_Date                        18-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      20:05
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 18706, dtype: object

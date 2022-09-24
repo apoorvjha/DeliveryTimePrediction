@@ -1,0 +1,20 @@
+ID                                    0x4295
+Delivery_person_ID             VADRES13DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.360237
+Delivery_location_longitude        73.208921
+Order_Date                        24-03-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1248, dtype: object

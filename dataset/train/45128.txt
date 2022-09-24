@@ -1,0 +1,21 @@
+ID                                    0xd9c4
+Delivery_person_ID             BHPRES12DEL01
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        17-02-2022
+Time_Orderd                            13:60
+Time_Order_picked                      14:15
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       25.00
+Name: 45128, dtype: object

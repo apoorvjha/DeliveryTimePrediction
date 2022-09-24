@@ -1,0 +1,21 @@
+ID                                    0xde46
+Delivery_person_ID             KOLRES03DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.526461
+Restaurant_longitude               88.364453
+Delivery_location_latitude         22.596461
+Delivery_location_longitude        88.434453
+Order_Date                        14-02-2022
+Time_Orderd                            21:40
+Time_Order_picked                      21:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 4632, dtype: object

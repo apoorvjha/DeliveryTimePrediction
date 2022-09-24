@@ -1,0 +1,20 @@
+ID                                    0xc126
+Delivery_person_ID             ALHRES03DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                25.451517
+Restaurant_longitude               81.832616
+Delivery_location_latitude         25.481517
+Delivery_location_longitude        81.862616
+Order_Date                        13-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      22:30
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4077, dtype: object

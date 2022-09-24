@@ -1,0 +1,21 @@
+ID                                    0xcba5
+Delivery_person_ID             DEHRES08DEL03
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.499722
+Delivery_location_longitude        78.207079
+Order_Date                        14-02-2022
+Time_Orderd                            21:50
+Time_Order_picked                      21:60
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   44.000000
+Name: 543, dtype: object

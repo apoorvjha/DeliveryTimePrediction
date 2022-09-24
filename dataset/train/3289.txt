@@ -1,0 +1,21 @@
+ID                                    0xb420
+Delivery_person_ID             JAPRES08DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         27.040262
+Delivery_location_longitude        75.913013
+Order_Date                        23-03-2022
+Time_Orderd                            22:50
+Time_Order_picked                      22:60
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 3289, dtype: object

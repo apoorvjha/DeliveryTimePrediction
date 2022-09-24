@@ -1,0 +1,21 @@
+ID                                    0xca9b
+Delivery_person_ID             ALHRES09DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        14-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:35
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       24.00
+Name: 10552, dtype: object

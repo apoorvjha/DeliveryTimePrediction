@@ -1,0 +1,21 @@
+ID                                      0xb80
+Delivery_person_ID             INDORES04DEL01
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 22.753659
+Restaurant_longitude                75.903365
+Delivery_location_latitude          22.763659
+Delivery_location_longitude         75.913365
+Order_Date                         13-03-2022
+Time_Orderd                             10:25
+Time_Order_picked                       10:30
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    18.000000
+Name: 9219, dtype: object

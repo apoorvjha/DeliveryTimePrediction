@@ -1,0 +1,21 @@
+ID                                       0xc476
+Delivery_person_ID                KOLRES11DEL01
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   22.577821
+Restaurant_longitude                  88.400581
+Delivery_location_latitude            22.687821
+Delivery_location_longitude           88.510581
+Order_Date                           16-02-2022
+Time_Orderd                               18:15
+Time_Order_picked                         18:20
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      30.000000
+Name: 18336, dtype: object

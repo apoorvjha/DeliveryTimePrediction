@@ -1,0 +1,20 @@
+ID                                     0xe069
+Delivery_person_ID             LUDHRES07DEL02
+Delivery_person_Age                     39.00
+Delivery_person_Ratings                  4.80
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.02
+Delivery_location_longitude              0.02
+Order_Date                         11-02-2022
+Time_Orderd                              9:45
+Time_Order_picked                        9:60
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                      0.00
+Festival                                   No
+City                            Metropolitian
+Name: 4571, dtype: object

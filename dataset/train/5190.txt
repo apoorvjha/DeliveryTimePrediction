@@ -1,0 +1,21 @@
+ID                                       0x7abe
+Delivery_person_ID             RANCHIRES02DEL02
+Delivery_person_Age                       29.00
+Delivery_person_Ratings                    2.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.08
+Delivery_location_longitude                0.08
+Order_Date                           20-03-2022
+Time_Orderd                               23:45
+Time_Order_picked                         23:55
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        2.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          39.00
+Name: 5190, dtype: object

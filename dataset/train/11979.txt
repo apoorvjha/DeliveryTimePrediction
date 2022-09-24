@@ -1,0 +1,21 @@
+ID                                     0x2953
+Delivery_person_ID             CHENRES12DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 12.972793
+Restaurant_longitude                80.249982
+Delivery_location_latitude          13.042793
+Delivery_location_longitude         80.319982
+Order_Date                         08-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       23:20
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    15.000000
+Name: 11979, dtype: object

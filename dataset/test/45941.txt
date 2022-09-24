@@ -1,0 +1,20 @@
+ID                                    0x48f8
+Delivery_person_ID             VADRES08DEL02
+Delivery_person_Age                    35.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        30-03-2022
+Time_Orderd                             8:30
+Time_Order_picked                       8:35
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 348, dtype: object

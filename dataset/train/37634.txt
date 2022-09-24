@@ -1,0 +1,21 @@
+ID                                    0xc1e7
+Delivery_person_ID             KNPRES07DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.472001
+Restaurant_longitude               80.354002
+Delivery_location_latitude         26.542001
+Delivery_location_longitude        80.424002
+Order_Date                        18-02-2022
+Time_Orderd                            20:20
+Time_Order_picked                      20:30
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 37634, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x90c2
+Delivery_person_ID             PUNERES06DEL01
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.546258
+Restaurant_longitude                73.904337
+Delivery_location_latitude          18.556258
+Delivery_location_longitude         73.914337
+Order_Date                         01-04-2022
+Time_Orderd                              9:25
+Time_Order_picked                        9:35
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 4737, dtype: object

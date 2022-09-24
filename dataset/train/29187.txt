@@ -1,0 +1,21 @@
+ID                                     0x670e
+Delivery_person_ID             BANGRES20DEL03
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 12.972161
+Restaurant_longitude                77.596014
+Delivery_location_latitude          13.002161
+Delivery_location_longitude         77.626014
+Order_Date                         19-03-2022
+Time_Orderd                             17:45
+Time_Order_picked                       17:60
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    27.000000
+Name: 29187, dtype: object

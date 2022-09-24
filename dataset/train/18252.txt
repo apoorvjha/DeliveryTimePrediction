@@ -1,0 +1,21 @@
+ID                                    0x787a
+Delivery_person_ID             VADRES05DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             3.600000
+Restaurant_latitude                22.310526
+Restaurant_longitude               73.170937
+Delivery_location_latitude         22.370526
+Delivery_location_longitude        73.230937
+Order_Date                        19-03-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:15
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 3.000000
+Festival                                 Yes
+City                                   Urban
+Time_taken (min)                   54.000000
+Name: 18252, dtype: object

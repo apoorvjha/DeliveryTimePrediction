@@ -1,0 +1,21 @@
+ID                                     0x208e
+Delivery_person_ID             INDORES12DEL03
+Delivery_person_Age                  26.00000
+Delivery_person_Ratings               4.70000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.80806
+Delivery_location_longitude          75.95340
+Order_Date                         07-03-2022
+Time_Orderd                             22:60
+Time_Order_picked                       23:05
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                   0.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     19.00000
+Name: 28682, dtype: object

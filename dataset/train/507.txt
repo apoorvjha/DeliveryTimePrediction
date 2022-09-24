@@ -1,0 +1,21 @@
+ID                                     0x2492
+Delivery_person_ID             INDORES09DEL01
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.835835
+Delivery_location_longitude         75.997648
+Order_Date                         06-04-2022
+Time_Orderd                             23:25
+Time_Order_picked                       23:30
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    21.000000
+Name: 507, dtype: object

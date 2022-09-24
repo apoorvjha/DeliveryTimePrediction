@@ -1,0 +1,21 @@
+ID                                     0xc760
+Delivery_person_ID             AURGRES09DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 19.874103
+Restaurant_longitude                75.368419
+Delivery_location_latitude          19.914103
+Delivery_location_longitude         75.408419
+Order_Date                         11-02-2022
+Time_Orderd                             13:15
+Time_Order_picked                       13:20
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    29.000000
+Name: 37564, dtype: object

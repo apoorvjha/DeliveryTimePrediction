@@ -1,0 +1,21 @@
+ID                                    0xdfef
+Delivery_person_ID             AGRRES19DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        13-02-2022
+Time_Orderd                             8:50
+Time_Order_picked                       8:60
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       14.00
+Name: 19914, dtype: object

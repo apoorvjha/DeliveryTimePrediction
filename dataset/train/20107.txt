@@ -1,0 +1,21 @@
+ID                                    0xae95
+Delivery_person_ID             SURRES07DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.170798
+Restaurant_longitude               72.790489
+Delivery_location_latitude         21.210798
+Delivery_location_longitude        72.830489
+Order_Date                        26-03-2022
+Time_Orderd                            14:35
+Time_Order_picked                      14:50
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 20107, dtype: object

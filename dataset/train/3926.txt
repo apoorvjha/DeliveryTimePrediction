@@ -1,0 +1,21 @@
+ID                                    0xd36f
+Delivery_person_ID             KOLRES16DEL03
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.539129
+Restaurant_longitude               88.365507
+Delivery_location_latitude         22.569129
+Delivery_location_longitude        88.395507
+Order_Date                        13-02-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:30
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   13.000000
+Name: 3926, dtype: object

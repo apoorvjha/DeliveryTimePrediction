@@ -1,0 +1,21 @@
+ID                                     0x57b3
+Delivery_person_ID             INDORES11DEL03
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.811234
+Delivery_location_longitude         75.949490
+Order_Date                         05-04-2022
+Time_Orderd                             23:35
+Time_Order_picked                       23:40
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    28.000000
+Name: 19226, dtype: object

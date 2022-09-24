@@ -1,0 +1,20 @@
+ID                                       0x94d7
+Delivery_person_ID               BANGRES11DEL01
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   12.934365
+Restaurant_longitude                  77.616155
+Delivery_location_latitude            12.974365
+Delivery_location_longitude           77.656155
+Order_Date                           11-03-2022
+Time_Orderd                               13:55
+Time_Order_picked                         14:10
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 1075, dtype: object

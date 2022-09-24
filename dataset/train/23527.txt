@@ -1,0 +1,21 @@
+ID                                     0x96fe
+Delivery_person_ID             VADRES010DEL02
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.330329
+Delivery_location_longitude         73.189083
+Order_Date                         30-03-2022
+Time_Orderd                             11:40
+Time_Order_picked                       11:45
+Weather conditions                     Stormy
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    28.000000
+Name: 23527, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x1ec3
+Delivery_person_ID             PUNERES03DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.554382
+Restaurant_longitude                73.798206
+Delivery_location_latitude          18.664382
+Delivery_location_longitude         73.908206
+Order_Date                         04-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       17:35
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                                    Urban
+Name: 5614, dtype: object

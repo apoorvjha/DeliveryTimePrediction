@@ -1,0 +1,21 @@
+ID                                      0x4cb
+Delivery_person_ID             PUNERES04DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.514210
+Restaurant_longitude                73.838429
+Delivery_location_latitude          18.584210
+Delivery_location_longitude         73.908429
+Order_Date                         23-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       23:15
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 15519, dtype: object

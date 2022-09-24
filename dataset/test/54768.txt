@@ -1,0 +1,20 @@
+ID                                    0x3747
+Delivery_person_ID             HYDRES05DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.433809
+Restaurant_longitude               78.386744
+Delivery_location_latitude         17.503809
+Delivery_location_longitude        78.456744
+Order_Date                        18-03-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 9175, dtype: object

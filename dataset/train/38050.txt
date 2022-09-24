@@ -1,0 +1,21 @@
+ID                                    0x72a6
+Delivery_person_ID             HYDRES14DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                17.426228
+Restaurant_longitude               78.407495
+Delivery_location_latitude         17.516228
+Delivery_location_longitude        78.497495
+Order_Date                        14-03-2022
+Time_Orderd                            21:45
+Time_Order_picked                      21:60
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   44.000000
+Name: 38050, dtype: object

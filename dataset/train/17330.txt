@@ -1,0 +1,21 @@
+ID                                    0x82ef
+Delivery_person_ID             MYSRES19DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             3.600000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.404022
+Delivery_location_longitude        76.688203
+Order_Date                        06-04-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:15
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   39.000000
+Name: 17330, dtype: object

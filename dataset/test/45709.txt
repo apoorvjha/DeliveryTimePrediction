@@ -1,0 +1,20 @@
+ID                                    0x714d
+Delivery_person_ID             MYSRES09DEL02
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.323194
+Restaurant_longitude               76.630583
+Delivery_location_latitude         12.343194
+Delivery_location_longitude        76.650583
+Order_Date                        19-03-2022
+Time_Orderd                            10:25
+Time_Order_picked                      10:30
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 116, dtype: object

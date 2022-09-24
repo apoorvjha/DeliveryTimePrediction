@@ -1,0 +1,21 @@
+ID                                    0x3619
+Delivery_person_ID             MYSRES19DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.444022
+Delivery_location_longitude        76.728203
+Order_Date                        27-03-2022
+Time_Orderd                            23:25
+Time_Order_picked                      23:40
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 6626, dtype: object

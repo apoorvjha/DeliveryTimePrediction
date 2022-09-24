@@ -1,0 +1,21 @@
+ID                                    0xcdab
+Delivery_person_ID             KOCRES04DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                 9.966783
+Restaurant_longitude               76.242981
+Delivery_location_latitude         10.016783
+Delivery_location_longitude        76.292981
+Order_Date                        15-02-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:30
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   10.000000
+Name: 9085, dtype: object

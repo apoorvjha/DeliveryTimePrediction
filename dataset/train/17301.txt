@@ -1,0 +1,21 @@
+ID                                    0x880e
+Delivery_person_ID             MYSRES08DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.367954
+Delivery_location_longitude        76.735169
+Order_Date                        02-03-2022
+Time_Orderd                            17:10
+Time_Order_picked                      17:20
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 17301, dtype: object

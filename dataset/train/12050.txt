@@ -1,0 +1,21 @@
+ID                                    0x119c
+Delivery_person_ID             SURRES12DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                21.183434
+Restaurant_longitude               72.814492
+Delivery_location_latitude         21.253434
+Delivery_location_longitude        72.884492
+Order_Date                        23-03-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:15
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 12050, dtype: object

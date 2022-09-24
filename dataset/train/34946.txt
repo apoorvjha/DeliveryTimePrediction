@@ -1,0 +1,21 @@
+ID                                    0x4455
+Delivery_person_ID             HYDRES13DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.441477
+Delivery_location_longitude        78.410350
+Order_Date                        05-04-2022
+Time_Orderd                            10:20
+Time_Order_picked                      10:25
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 34946, dtype: object

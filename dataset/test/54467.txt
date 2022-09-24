@@ -1,0 +1,20 @@
+ID                                    0xdc5e
+Delivery_person_ID             DEHRES19DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.372202
+Restaurant_longitude               78.077151
+Delivery_location_latitude         30.462202
+Delivery_location_longitude        78.167151
+Order_Date                        16-02-2022
+Time_Orderd                            23:50
+Time_Order_picked                      23:55
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8874, dtype: object

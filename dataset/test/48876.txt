@@ -1,0 +1,20 @@
+ID                                     0xdf35
+Delivery_person_ID             LUDHRES01DEL01
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 30.873988
+Restaurant_longitude                75.842739
+Delivery_location_latitude          30.943988
+Delivery_location_longitude         75.912739
+Order_Date                         18-02-2022
+Time_Orderd                             17:50
+Time_Order_picked                       18:05
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 3283, dtype: object

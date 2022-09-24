@@ -1,0 +1,21 @@
+ID                                        0x491
+Delivery_person_ID               CHENRES01DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   13.005801
+Restaurant_longitude                  80.250744
+Delivery_location_latitude            13.135801
+Delivery_location_longitude           80.380744
+Order_Date                           12-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         19:55
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      27.000000
+Name: 26533, dtype: object

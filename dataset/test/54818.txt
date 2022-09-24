@@ -1,0 +1,20 @@
+ID                                    0xe183
+Delivery_person_ID             ALHRES20DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.514697
+Delivery_location_longitude        81.894492
+Order_Date                        11-02-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:25
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9225, dtype: object

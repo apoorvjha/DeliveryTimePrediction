@@ -1,0 +1,20 @@
+ID                                       0x6da3
+Delivery_person_ID                SURRES12DEL03
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                   21.183434
+Restaurant_longitude                  72.814492
+Delivery_location_latitude            21.243434
+Delivery_location_longitude           72.874492
+Order_Date                           07-03-2022
+Time_Orderd                               18:60
+Time_Order_picked                         19:05
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 4226, dtype: object

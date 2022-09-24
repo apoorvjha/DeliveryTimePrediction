@@ -1,0 +1,20 @@
+ID                                     0x9191
+Delivery_person_ID             INDORES11DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.861234
+Delivery_location_longitude         75.999490
+Order_Date                         02-04-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:55
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 8491, dtype: object

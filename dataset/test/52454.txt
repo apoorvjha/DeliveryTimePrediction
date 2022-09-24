@@ -1,0 +1,20 @@
+ID                                     0xac37
+Delivery_person_ID             INDORES18DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.753839
+Restaurant_longitude                75.897429
+Delivery_location_latitude          22.803839
+Delivery_location_longitude         75.947429
+Order_Date                         17-03-2022
+Time_Orderd                             19:30
+Time_Order_picked                       19:35
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 6861, dtype: object

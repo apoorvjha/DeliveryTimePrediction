@@ -1,0 +1,21 @@
+ID                                     0x22eb
+Delivery_person_ID             PUNERES03DEL01
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.554382
+Restaurant_longitude                73.798206
+Delivery_location_latitude          18.624382
+Delivery_location_longitude         73.868206
+Order_Date                         02-03-2022
+Time_Orderd                             19:60
+Time_Order_picked                       20:10
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    25.000000
+Name: 34211, dtype: object

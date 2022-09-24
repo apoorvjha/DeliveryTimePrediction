@@ -1,0 +1,20 @@
+ID                                      0x4af
+Delivery_person_ID             PUNERES20DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -18.592718
+Restaurant_longitude               -73.773572
+Delivery_location_latitude          18.602718
+Delivery_location_longitude         73.783572
+Order_Date                         24-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                        9:45
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 3576, dtype: object

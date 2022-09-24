@@ -1,0 +1,21 @@
+ID                                    0xacbc
+Delivery_person_ID             MYSRES08DEL02
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.427954
+Delivery_location_longitude        76.795169
+Order_Date                        27-03-2022
+Time_Orderd                            19:55
+Time_Order_picked                      20:10
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   30.000000
+Name: 34629, dtype: object

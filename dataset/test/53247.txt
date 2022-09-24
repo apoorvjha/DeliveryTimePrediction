@@ -1,0 +1,20 @@
+ID                                      0x5b4
+Delivery_person_ID             BANGRES04DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 12.980410
+Restaurant_longitude                77.640489
+Delivery_location_latitude          13.070410
+Delivery_location_longitude         77.730489
+Order_Date                         31-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       18:60
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                       bicycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7654, dtype: object

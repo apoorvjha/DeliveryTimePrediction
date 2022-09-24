@@ -1,0 +1,21 @@
+ID                                    0x6549
+Delivery_person_ID             JAPRES08DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         27.020262
+Delivery_location_longitude        75.893013
+Order_Date                        04-03-2022
+Time_Orderd                            21:35
+Time_Order_picked                      21:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   31.000000
+Name: 3418, dtype: object

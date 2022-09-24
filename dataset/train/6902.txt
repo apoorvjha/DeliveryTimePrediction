@@ -1,0 +1,21 @@
+ID                                    0x9bee
+Delivery_person_ID             MYSRES02DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.304569
+Restaurant_longitude               76.643622
+Delivery_location_latitude         12.344569
+Delivery_location_longitude        76.683622
+Order_Date                        05-04-2022
+Time_Orderd                            15:60
+Time_Order_picked                      16:15
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 6902, dtype: object

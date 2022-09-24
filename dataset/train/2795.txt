@@ -1,0 +1,21 @@
+ID                                    0x160c
+Delivery_person_ID             MYSRES16DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                12.316967
+Restaurant_longitude               76.603067
+Delivery_location_latitude         12.386967
+Delivery_location_longitude        76.673067
+Order_Date                        06-03-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   36.000000
+Name: 2795, dtype: object

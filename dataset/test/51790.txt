@@ -1,0 +1,20 @@
+ID                                     0x9486
+Delivery_person_ID             PUNERES17DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.530963
+Restaurant_longitude                73.828972
+Delivery_location_latitude          18.620963
+Delivery_location_longitude         73.918972
+Order_Date                         12-03-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:55
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 6197, dtype: object

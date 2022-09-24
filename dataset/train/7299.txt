@@ -1,0 +1,21 @@
+ID                                    0x3bfc
+Delivery_person_ID             VADRES08DEL01
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        15-03-2022
+Time_Orderd                            10:40
+Time_Order_picked                      10:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       16.00
+Name: 7299, dtype: object

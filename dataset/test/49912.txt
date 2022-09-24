@@ -1,0 +1,20 @@
+ID                                       0x4d2a
+Delivery_person_ID               PUNERES17DEL03
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   18.530963
+Restaurant_longitude                  73.828972
+Delivery_location_latitude            18.620963
+Delivery_location_longitude           73.918972
+Order_Date                           10-03-2022
+Time_Orderd                               18:10
+Time_Order_picked                         18:15
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 4319, dtype: object

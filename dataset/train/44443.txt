@@ -1,0 +1,21 @@
+ID                                    0x7160
+Delivery_person_ID             VADRES17DEL01
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        01-04-2022
+Time_Orderd                            12:25
+Time_Order_picked                      12:40
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       27.00
+Name: 44443, dtype: object

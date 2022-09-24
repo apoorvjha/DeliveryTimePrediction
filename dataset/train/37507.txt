@@ -1,0 +1,21 @@
+ID                                    0x3105
+Delivery_person_ID             MUMRES01DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.126630
+Restaurant_longitude               72.829976
+Delivery_location_latitude         19.166630
+Delivery_location_longitude        72.869976
+Order_Date                        19-03-2022
+Time_Orderd                            13:40
+Time_Order_picked                      13:45
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   16.000000
+Name: 37507, dtype: object

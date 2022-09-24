@@ -1,0 +1,21 @@
+ID                                     0xe165
+Delivery_person_ID             LUDHRES01DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 30.873988
+Restaurant_longitude                75.842739
+Delivery_location_latitude          30.893988
+Delivery_location_longitude         75.862739
+Order_Date                         15-02-2022
+Time_Orderd                              8:60
+Time_Order_picked                        9:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    10.000000
+Name: 9068, dtype: object

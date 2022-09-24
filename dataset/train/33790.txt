@@ -1,0 +1,21 @@
+ID                                     0x46ae
+Delivery_person_ID             INDORES15DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.810072
+Delivery_location_longitude         75.942574
+Order_Date                         01-04-2022
+Time_Orderd                             20:30
+Time_Order_picked                       20:45
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    15.000000
+Name: 33790, dtype: object

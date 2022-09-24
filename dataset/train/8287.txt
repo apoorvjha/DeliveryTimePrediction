@@ -1,0 +1,21 @@
+ID                                     0x5d3a
+Delivery_person_ID             BANGRES12DEL03
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.939496
+Restaurant_longitude                77.625999
+Delivery_location_latitude          12.969496
+Delivery_location_longitude         77.655999
+Order_Date                         05-03-2022
+Time_Orderd                             20:10
+Time_Order_picked                       20:15
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    12.000000
+Name: 8287, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x9506
+Delivery_person_ID             INDORES16DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.824648
+Delivery_location_longitude         75.974377
+Order_Date                         06-04-2022
+Time_Orderd                             20:30
+Time_Order_picked                       20:45
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Name: 1967, dtype: object

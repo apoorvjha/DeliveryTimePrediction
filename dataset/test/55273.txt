@@ -1,0 +1,20 @@
+ID                                    0xc860
+Delivery_person_ID             DEHRES08DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.419722
+Delivery_location_longitude        78.127079
+Order_Date                        17-02-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9680, dtype: object

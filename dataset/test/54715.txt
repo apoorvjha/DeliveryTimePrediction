@@ -1,0 +1,20 @@
+ID                                    0x43c1
+Delivery_person_ID             SURRES12DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.183434
+Restaurant_longitude               72.814492
+Delivery_location_latitude         21.213434
+Delivery_location_longitude        72.844492
+Order_Date                        11-03-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 9122, dtype: object

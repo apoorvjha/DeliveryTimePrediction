@@ -1,0 +1,21 @@
+ID                                    0x3d36
+Delivery_person_ID             SURRES14DEL01
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                21.157729
+Restaurant_longitude               72.768726
+Delivery_location_latitude         21.197729
+Delivery_location_longitude        72.808726
+Order_Date                        19-03-2022
+Time_Orderd                            14:45
+Time_Order_picked                      14:50
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 36317, dtype: object

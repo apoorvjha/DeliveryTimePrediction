@@ -1,0 +1,21 @@
+ID                                       0xdbf7
+Delivery_person_ID                KNPRES13DEL03
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   26.481547
+Restaurant_longitude                  80.299775
+Delivery_location_latitude            26.541547
+Delivery_location_longitude           80.359775
+Order_Date                           11-02-2022
+Time_Orderd                               18:55
+Time_Order_picked                         19:10
+Weather conditions                       Cloudy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      15.000000
+Name: 41614, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x807e
+Delivery_person_ID             INDORES01DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 22.695207
+Restaurant_longitude                75.866059
+Delivery_location_latitude          22.745207
+Delivery_location_longitude         75.916059
+Order_Date                         09-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:05
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 8875, dtype: object

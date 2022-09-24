@@ -1,0 +1,21 @@
+ID                                     0x41ca
+Delivery_person_ID             INDORES09DEL03
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.785835
+Delivery_location_longitude         75.947648
+Order_Date                         15-03-2022
+Time_Orderd                             17:25
+Time_Order_picked                       17:40
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    13.000000
+Name: 12188, dtype: object

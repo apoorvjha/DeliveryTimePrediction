@@ -1,0 +1,21 @@
+ID                                    0xc35b
+Delivery_person_ID             KOCRES05DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.970717
+Restaurant_longitude               76.285447
+Delivery_location_latitude         10.010717
+Delivery_location_longitude        76.325447
+Order_Date                        13-02-2022
+Time_Orderd                            14:10
+Time_Order_picked                      14:20
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 32775, dtype: object

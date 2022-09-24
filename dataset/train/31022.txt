@@ -1,0 +1,21 @@
+ID                                     0x4929
+Delivery_person_ID             CHENRES05DEL03
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 13.058616
+Restaurant_longitude                80.264151
+Delivery_location_latitude          13.118616
+Delivery_location_longitude         80.324151
+Order_Date                         01-04-2022
+Time_Orderd                             19:15
+Time_Order_picked                       19:25
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    25.000000
+Name: 31022, dtype: object

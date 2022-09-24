@@ -1,0 +1,21 @@
+ID                                    0x15ff
+Delivery_person_ID             VADRES02DEL02
+Delivery_person_Age                    35.00
+Delivery_person_Ratings                 4.30
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        14-03-2022
+Time_Orderd                            18:25
+Time_Order_picked                      18:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       38.00
+Name: 37802, dtype: object

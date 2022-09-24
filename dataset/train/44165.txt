@@ -1,0 +1,21 @@
+ID                                       0xe10b
+Delivery_person_ID                ALHRES19DEL01
+Delivery_person_Age                   37.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   25.457116
+Restaurant_longitude                  81.859682
+Delivery_location_latitude            25.497116
+Delivery_location_longitude           81.899682
+Order_Date                           13-02-2022
+Time_Orderd                               13:35
+Time_Order_picked                         13:40
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      25.000000
+Name: 44165, dtype: object

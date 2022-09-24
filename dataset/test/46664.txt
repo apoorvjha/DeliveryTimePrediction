@@ -1,0 +1,20 @@
+ID                                       0xc332
+Delivery_person_ID               AURGRES18DEL03
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                4.300000
+Restaurant_latitude                   19.888716
+Restaurant_longitude                  75.321461
+Delivery_location_latitude            19.918716
+Delivery_location_longitude           75.351461
+Order_Date                           17-02-2022
+Time_Orderd                               20:45
+Time_Order_picked                         20:55
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 1071, dtype: object

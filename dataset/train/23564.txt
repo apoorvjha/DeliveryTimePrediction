@@ -1,0 +1,21 @@
+ID                                       0xd03c
+Delivery_person_ID                DEHRES01DEL01
+Delivery_person_Age                       34.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           15-02-2022
+Time_Orderd                               10:45
+Time_Order_picked                         10:60
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          18.00
+Name: 23564, dtype: object

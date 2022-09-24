@@ -1,0 +1,21 @@
+ID                                     0x2707
+Delivery_person_ID             PUNERES12DEL02
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.520016
+Restaurant_longitude                73.830547
+Delivery_location_latitude          18.570016
+Delivery_location_longitude         73.880547
+Order_Date                         21-03-2022
+Time_Orderd                             22:55
+Time_Order_picked                       23:10
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 32837, dtype: object

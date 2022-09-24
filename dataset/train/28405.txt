@@ -1,0 +1,21 @@
+ID                                    0xcde1
+Delivery_person_ID             KNPRES17DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                26.483042
+Restaurant_longitude               80.317833
+Delivery_location_latitude         26.573042
+Delivery_location_longitude        80.407833
+Order_Date                        16-02-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   38.000000
+Name: 28405, dtype: object

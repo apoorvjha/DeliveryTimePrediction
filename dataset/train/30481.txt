@@ -1,0 +1,21 @@
+ID                                     0xbf22
+Delivery_person_ID             BHPRES010DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 23.266261
+Restaurant_longitude                77.379605
+Delivery_location_latitude          23.326261
+Delivery_location_longitude         77.439605
+Order_Date                         15-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       20:55
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    24.000000
+Name: 30481, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x609b
+Delivery_person_ID             RANCHIRES18DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   23.351489
+Restaurant_longitude                  85.324253
+Delivery_location_latitude            23.421489
+Delivery_location_longitude           85.394253
+Order_Date                           18-03-2022
+Time_Orderd                               19:55
+Time_Order_picked                         19:60
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             1
+Type_of_order                            Buffet
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      36.000000
+Name: 26170, dtype: object

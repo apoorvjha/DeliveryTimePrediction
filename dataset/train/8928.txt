@@ -1,0 +1,21 @@
+ID                                    0x2314
+Delivery_person_ID             VADRES04DEL01
+Delivery_person_Age                    15.00
+Delivery_person_Ratings                 1.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        14-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      17:40
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       34.00
+Name: 8928, dtype: object

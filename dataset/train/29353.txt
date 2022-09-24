@@ -1,0 +1,21 @@
+ID                                       0x354c
+Delivery_person_ID               CHENRES19DEL03
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   12.986047
+Restaurant_longitude                  80.218114
+Delivery_location_latitude            13.046047
+Delivery_location_longitude           80.278114
+Order_Date                           28-03-2022
+Time_Orderd                               21:25
+Time_Order_picked                         21:30
+Weather conditions                       Stormy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      28.000000
+Name: 29353, dtype: object

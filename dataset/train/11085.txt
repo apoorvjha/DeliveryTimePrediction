@@ -1,0 +1,21 @@
+ID                                     0x20d3
+Delivery_person_ID             INDORES20DEL03
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.732225
+Restaurant_longitude                75.874765
+Delivery_location_latitude          22.792225
+Delivery_location_longitude         75.934765
+Order_Date                         05-03-2022
+Time_Orderd                             21:10
+Time_Order_picked                       21:20
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    18.000000
+Name: 11085, dtype: object

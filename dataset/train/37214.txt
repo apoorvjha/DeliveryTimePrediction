@@ -1,0 +1,21 @@
+ID                                    0xafa4
+Delivery_person_ID             SURRES13DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                21.170096
+Restaurant_longitude               72.789122
+Delivery_location_latitude         21.180096
+Delivery_location_longitude        72.799122
+Order_Date                        26-03-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:55
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 37214, dtype: object

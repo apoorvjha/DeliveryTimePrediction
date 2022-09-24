@@ -1,0 +1,21 @@
+ID                                       0xe120
+Delivery_person_ID                KOCRES12DEL01
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.100000
+Restaurant_latitude                    9.988483
+Restaurant_longitude                  76.295211
+Delivery_location_latitude            10.098483
+Delivery_location_longitude           76.405211
+Order_Date                           14-02-2022
+Time_Orderd                               20:10
+Time_Order_picked                         20:25
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      48.000000
+Name: 129, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x58fb
+Delivery_person_ID             JAPRES04DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.902328
+Restaurant_longitude               75.794257
+Delivery_location_latitude         26.932328
+Delivery_location_longitude        75.824257
+Order_Date                        09-03-2022
+Time_Orderd                            21:35
+Time_Order_picked                      21:50
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 8287, dtype: object

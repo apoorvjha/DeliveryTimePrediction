@@ -1,0 +1,20 @@
+ID                                    0xc21e
+Delivery_person_ID             GOARES06DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                15.561550
+Restaurant_longitude               73.749092
+Delivery_location_latitude         15.631550
+Delivery_location_longitude        73.819092
+Order_Date                        14-02-2022
+Time_Orderd                            21:40
+Time_Order_picked                      21:45
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 8126, dtype: object

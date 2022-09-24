@@ -1,0 +1,21 @@
+ID                                     0xb7b2
+Delivery_person_ID             PUNERES01DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.569156
+Restaurant_longitude                73.774723
+Delivery_location_latitude          18.699156
+Delivery_location_longitude         73.904723
+Order_Date                         02-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:10
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    21.000000
+Name: 43352, dtype: object

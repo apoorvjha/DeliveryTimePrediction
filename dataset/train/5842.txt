@@ -1,0 +1,21 @@
+ID                                     0xa744
+Delivery_person_ID             CHENRES14DEL03
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 13.026279
+Restaurant_longitude                80.174568
+Delivery_location_latitude          13.086279
+Delivery_location_longitude         80.234568
+Order_Date                         21-03-2022
+Time_Orderd                             19:15
+Time_Order_picked                       19:25
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    20.000000
+Name: 5842, dtype: object

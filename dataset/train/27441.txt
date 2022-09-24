@@ -1,0 +1,21 @@
+ID                                      0x3fb
+Delivery_person_ID             INDORES02DEL03
+Delivery_person_Age                 50.000000
+Delivery_person_Ratings              6.000000
+Restaurant_latitude                -22.651847
+Restaurant_longitude               -75.881991
+Delivery_location_latitude          22.711847
+Delivery_location_longitude         75.941991
+Order_Date                         05-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       19:30
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                          Drinks
+Type_of_vehicle                       bicycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 27441, dtype: object

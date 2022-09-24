@@ -1,0 +1,21 @@
+ID                                     0x4c7e
+Delivery_person_ID             CHENRES02DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 13.086438
+Restaurant_longitude                80.220672
+Delivery_location_latitude          13.106438
+Delivery_location_longitude         80.240672
+Order_Date                         05-03-2022
+Time_Orderd                             11:45
+Time_Order_picked                       11:60
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    16.000000
+Name: 33228, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x6c1f
+Delivery_person_ID             BANGRES09DEL02
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 12.934179
+Restaurant_longitude                77.615797
+Delivery_location_latitude          13.014179
+Delivery_location_longitude         77.695797
+Order_Date                         12-03-2022
+Time_Orderd                             17:35
+Time_Order_picked                       17:45
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 5615, dtype: object

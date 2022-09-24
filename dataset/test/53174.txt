@@ -1,0 +1,20 @@
+ID                                     0x16b5
+Delivery_person_ID             PUNERES17DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.530963
+Restaurant_longitude                73.828972
+Delivery_location_latitude          18.580963
+Delivery_location_longitude         73.878972
+Order_Date                         03-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       19:15
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7581, dtype: object

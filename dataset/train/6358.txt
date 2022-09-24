@@ -1,0 +1,21 @@
+ID                                    0xc638
+Delivery_person_ID             KOCRES17DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                 9.959778
+Restaurant_longitude               76.296106
+Delivery_location_latitude         10.029778
+Delivery_location_longitude        76.366106
+Order_Date                        14-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 6358, dtype: object

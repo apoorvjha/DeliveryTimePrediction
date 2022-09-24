@@ -1,0 +1,21 @@
+ID                                     0x5a57
+Delivery_person_ID             VADRES010DEL02
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.360329
+Delivery_location_longitude         73.219083
+Order_Date                         01-03-2022
+Time_Orderd                             17:45
+Time_Order_picked                       17:60
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    26.000000
+Name: 25266, dtype: object

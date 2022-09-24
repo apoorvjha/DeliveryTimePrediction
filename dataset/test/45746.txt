@@ -1,0 +1,20 @@
+ID                                    0xc94a
+Delivery_person_ID             DEHRES17DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                30.327968
+Restaurant_longitude               78.046106
+Delivery_location_latitude         30.347968
+Delivery_location_longitude        78.066106
+Order_Date                        17-02-2022
+Time_Orderd                             8:55
+Time_Order_picked                       9:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 153, dtype: object

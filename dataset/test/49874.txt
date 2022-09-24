@@ -1,0 +1,20 @@
+ID                                       0x311a
+Delivery_person_ID                MYSRES11DEL02
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   12.323225
+Restaurant_longitude                  76.630028
+Delivery_location_latitude            12.373225
+Delivery_location_longitude           76.680028
+Order_Date                           03-04-2022
+Time_Orderd                               21:10
+Time_Order_picked                         21:25
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4281, dtype: object

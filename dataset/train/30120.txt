@@ -1,0 +1,21 @@
+ID                                       0xdc42
+Delivery_person_ID               AURGRES12DEL03
+Delivery_person_Age                   37.000000
+Delivery_person_Ratings                3.700000
+Restaurant_latitude                   19.879631
+Restaurant_longitude                  75.323403
+Delivery_location_latitude            19.969631
+Delivery_location_longitude           75.413403
+Order_Date                           16-02-2022
+Time_Orderd                               18:50
+Time_Order_picked                         18:55
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      33.000000
+Name: 30120, dtype: object

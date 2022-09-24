@@ -1,0 +1,20 @@
+ID                                       0x5cfa
+Delivery_person_ID                JAPRES18DEL01
+Delivery_person_Age                   21.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   26.913987
+Restaurant_longitude                  75.752891
+Delivery_location_latitude            27.023987
+Delivery_location_longitude           75.862891
+Order_Date                           06-03-2022
+Time_Orderd                               23:40
+Time_Order_picked                         23:50
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 7399, dtype: object

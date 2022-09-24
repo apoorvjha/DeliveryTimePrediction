@@ -1,0 +1,21 @@
+ID                                    0x9d3c
+Delivery_person_ID             MUMRES12DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                19.207222
+Restaurant_longitude               72.972281
+Delivery_location_latitude         19.227222
+Delivery_location_longitude        72.992281
+Order_Date                        05-04-2022
+Time_Orderd                            11:10
+Time_Order_picked                      11:20
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 13394, dtype: object

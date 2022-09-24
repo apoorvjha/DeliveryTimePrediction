@@ -1,0 +1,20 @@
+ID                                       0x8122
+Delivery_person_ID             RANCHIRES04DEL01
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   23.359033
+Restaurant_longitude                  85.325347
+Delivery_location_latitude            23.369033
+Delivery_location_longitude           85.335347
+Order_Date                           26-03-2022
+Time_Orderd                               11:20
+Time_Order_picked                         11:25
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 2621, dtype: object

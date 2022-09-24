@@ -1,0 +1,20 @@
+ID                                    0x164b
+Delivery_person_ID             VADRES12DEL01
+Delivery_person_Age                    35.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        01-03-2022
+Time_Orderd                            12:60
+Time_Order_picked                      13:10
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 10981, dtype: object

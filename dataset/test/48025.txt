@@ -1,0 +1,20 @@
+ID                                    0x8f8c
+Delivery_person_ID             HYDRES14DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                17.426228
+Restaurant_longitude               78.407495
+Delivery_location_latitude         17.476228
+Delivery_location_longitude        78.457495
+Order_Date                        24-03-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:35
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 2432, dtype: object

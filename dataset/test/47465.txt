@@ -1,0 +1,20 @@
+ID                                     0x66d8
+Delivery_person_ID             BANGRES03DEL02
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.979166
+Restaurant_longitude                77.640709
+Delivery_location_latitude          13.029166
+Delivery_location_longitude         77.690709
+Order_Date                         11-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:10
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 1872, dtype: object

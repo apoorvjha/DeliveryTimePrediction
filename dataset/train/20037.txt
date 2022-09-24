@@ -1,0 +1,21 @@
+ID                                     0x545
+Delivery_person_ID             VADRES05DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -22.310526
+Restaurant_longitude               73.170937
+Delivery_location_latitude         22.330526
+Delivery_location_longitude        73.190937
+Order_Date                        17-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                       8:40
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 20037, dtype: object

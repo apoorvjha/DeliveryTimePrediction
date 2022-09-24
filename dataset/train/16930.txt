@@ -1,0 +1,21 @@
+ID                                    0x5487
+Delivery_person_ID             VADRES15DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        18-03-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:25
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       36.00
+Name: 16930, dtype: object

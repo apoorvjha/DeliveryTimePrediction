@@ -1,0 +1,21 @@
+ID                                    0xd0a0
+Delivery_person_ID             AGRRES06DEL03
+Delivery_person_Age                    37.00
+Delivery_person_Ratings                 4.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        11-02-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:50
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       34.00
+Name: 15203, dtype: object

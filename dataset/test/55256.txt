@@ -1,0 +1,20 @@
+ID                                    0x9c83
+Delivery_person_ID             VADRES19DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.311844
+Restaurant_longitude               73.165081
+Delivery_location_latitude         22.361844
+Delivery_location_longitude        73.215081
+Order_Date                        19-03-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:20
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9663, dtype: object

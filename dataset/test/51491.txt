@@ -1,0 +1,20 @@
+ID                                     0x5d60
+Delivery_person_ID             CHENRES03DEL02
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 13.091809
+Restaurant_longitude                80.219104
+Delivery_location_latitude          13.171809
+Delivery_location_longitude         80.299104
+Order_Date                         25-03-2022
+Time_Orderd                             20:20
+Time_Order_picked                       20:35
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 5898, dtype: object

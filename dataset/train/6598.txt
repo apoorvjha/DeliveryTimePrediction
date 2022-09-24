@@ -1,0 +1,21 @@
+ID                                     0x8bca
+Delivery_person_ID             INDORES16DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.804648
+Delivery_location_longitude         75.954377
+Order_Date                         11-03-2022
+Time_Orderd                             22:60
+Time_Order_picked                       23:05
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    11.000000
+Name: 6598, dtype: object

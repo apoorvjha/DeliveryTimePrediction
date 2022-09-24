@@ -1,0 +1,21 @@
+ID                                       0xe195
+Delivery_person_ID                GOARES14DEL02
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   15.157944
+Restaurant_longitude                  73.950889
+Delivery_location_latitude            15.177944
+Delivery_location_longitude           73.970889
+Order_Date                           15-02-2022
+Time_Orderd                               10:30
+Time_Order_picked                         10:40
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      26.000000
+Name: 21989, dtype: object

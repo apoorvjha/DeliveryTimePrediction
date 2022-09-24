@@ -1,0 +1,20 @@
+ID                                      0x5f3
+Delivery_person_ID             BANGRES06DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -12.979096
+Restaurant_longitude                77.640625
+Delivery_location_latitude          13.059096
+Delivery_location_longitude         77.720625
+Order_Date                         06-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       17:55
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 9822, dtype: object

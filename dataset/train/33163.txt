@@ -1,0 +1,21 @@
+ID                                    0x4846
+Delivery_person_ID             HYDRES09DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.491668
+Delivery_location_longitude        78.468321
+Order_Date                        01-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:55
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 33163, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xae1d
+Delivery_person_ID             PUNERES12DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.520016
+Restaurant_longitude                73.830547
+Delivery_location_latitude          18.580016
+Delivery_location_longitude         73.890547
+Order_Date                         05-04-2022
+Time_Orderd                             18:10
+Time_Order_picked                       18:15
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    28.000000
+Name: 45516, dtype: object

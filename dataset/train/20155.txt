@@ -1,0 +1,21 @@
+ID                                       0xcb71
+Delivery_person_ID                KOCRES09DEL03
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   10.000706
+Restaurant_longitude                  76.349516
+Delivery_location_latitude            10.030706
+Delivery_location_longitude           76.379516
+Order_Date                           11-02-2022
+Time_Orderd                               22:45
+Time_Order_picked                         22:60
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      21.000000
+Name: 20155, dtype: object

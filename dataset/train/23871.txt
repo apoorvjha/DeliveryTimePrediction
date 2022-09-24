@@ -1,0 +1,21 @@
+ID                                    0x43a2
+Delivery_person_ID             JAPRES05DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.905287
+Restaurant_longitude               75.794592
+Delivery_location_latitude         26.965287
+Delivery_location_longitude        75.854592
+Order_Date                        05-03-2022
+Time_Orderd                            22:15
+Time_Order_picked                      22:25
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 23871, dtype: object

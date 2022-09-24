@@ -1,0 +1,21 @@
+ID                                    0x1401
+Delivery_person_ID             HYDRES06DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.455894
+Restaurant_longitude               78.375467
+Delivery_location_latitude         17.545894
+Delivery_location_longitude        78.465467
+Order_Date                        06-03-2022
+Time_Orderd                            22:15
+Time_Order_picked                      22:25
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   38.000000
+Name: 14741, dtype: object

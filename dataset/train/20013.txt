@@ -1,0 +1,21 @@
+ID                                    0x615a
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        03-03-2022
+Time_Orderd                             8:20
+Time_Order_picked                       8:30
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       19.00
+Name: 20013, dtype: object

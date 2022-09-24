@@ -1,0 +1,20 @@
+ID                                    0x2966
+Delivery_person_ID             HYDRES08DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.438263
+Restaurant_longitude               78.397865
+Delivery_location_latitude         17.498263
+Delivery_location_longitude        78.457865
+Order_Date                        19-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1108, dtype: object

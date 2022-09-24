@@ -1,0 +1,21 @@
+ID                                    0xe205
+Delivery_person_ID             KOCRES02DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                10.028047
+Restaurant_longitude               76.310019
+Delivery_location_latitude         10.108047
+Delivery_location_longitude        76.390019
+Order_Date                        18-02-2022
+Time_Orderd                            18:20
+Time_Order_picked                      18:30
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 9528, dtype: object

@@ -1,0 +1,20 @@
+ID                                       0x2399
+Delivery_person_ID                JAPRES02DEL01
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.300000
+Restaurant_latitude                   26.914142
+Restaurant_longitude                  75.805704
+Delivery_location_latitude            27.024142
+Delivery_location_longitude           75.915704
+Order_Date                           06-04-2022
+Time_Orderd                               22:35
+Time_Order_picked                         22:40
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 9188, dtype: object

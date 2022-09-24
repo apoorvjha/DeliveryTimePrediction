@@ -1,0 +1,21 @@
+ID                                    0x385d
+Delivery_person_ID             HYDRES16DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.440827
+Restaurant_longitude               78.393391
+Delivery_location_latitude         17.500827
+Delivery_location_longitude        78.453391
+Order_Date                        11-03-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 31202, dtype: object

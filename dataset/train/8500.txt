@@ -1,0 +1,21 @@
+ID                                     0x1504
+Delivery_person_ID             INDORES14DEL03
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.761593
+Restaurant_longitude                75.886362
+Delivery_location_latitude          22.851593
+Delivery_location_longitude         75.976362
+Order_Date                         02-04-2022
+Time_Orderd                             17:45
+Time_Order_picked                       17:55
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    38.000000
+Name: 8500, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xcc80
+Delivery_person_ID             LUDHRES16DEL02
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.895817
+Restaurant_longitude                75.813112
+Delivery_location_latitude          30.945817
+Delivery_location_longitude         75.863112
+Order_Date                         17-02-2022
+Time_Orderd                             21:60
+Time_Order_picked                       22:05
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 36070, dtype: object

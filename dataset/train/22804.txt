@@ -1,0 +1,21 @@
+ID                                    0x5226
+Delivery_person_ID             HYDRES13DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.451477
+Delivery_location_longitude        78.420350
+Order_Date                        19-03-2022
+Time_Orderd                            10:25
+Time_Order_picked                      10:30
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 22804, dtype: object

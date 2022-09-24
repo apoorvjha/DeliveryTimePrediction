@@ -1,0 +1,20 @@
+ID                                        0x692
+Delivery_person_ID             RANCHIRES12DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           12-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:55
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             0
+Type_of_order                             Snack
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Name: 6459, dtype: object

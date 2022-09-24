@@ -1,0 +1,21 @@
+ID                                    0x45b8
+Delivery_person_ID             HYDRES18DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                17.450851
+Restaurant_longitude               78.379347
+Delivery_location_latitude         17.510851
+Delivery_location_longitude        78.439347
+Order_Date                        15-03-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:40
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   27.000000
+Name: 39807, dtype: object

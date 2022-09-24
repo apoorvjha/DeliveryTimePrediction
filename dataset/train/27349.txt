@@ -1,0 +1,21 @@
+ID                                    0xb234
+Delivery_person_ID             SURRES07DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.170798
+Restaurant_longitude               72.790489
+Delivery_location_latitude         21.280798
+Delivery_location_longitude        72.900489
+Order_Date                        04-03-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:20
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 27349, dtype: object

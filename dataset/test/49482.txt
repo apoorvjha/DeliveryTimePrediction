@@ -1,0 +1,20 @@
+ID                                    0x43cb
+Delivery_person_ID             VADRES20DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.311358
+Restaurant_longitude               73.164798
+Delivery_location_latitude         22.391358
+Delivery_location_longitude        73.244798
+Order_Date                        20-03-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:30
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 3889, dtype: object

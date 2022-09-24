@@ -1,0 +1,21 @@
+ID                                     0x3353
+Delivery_person_ID             PUNERES13DEL03
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.562450
+Restaurant_longitude                73.916619
+Delivery_location_latitude          18.592450
+Delivery_location_longitude         73.946619
+Order_Date                         15-03-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:15
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    29.000000
+Name: 19502, dtype: object

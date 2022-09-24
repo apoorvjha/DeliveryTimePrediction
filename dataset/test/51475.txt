@@ -1,0 +1,20 @@
+ID                                    0xbf09
+Delivery_person_ID             KOCRES20DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                -9.979186
+Restaurant_longitude              -76.317361
+Delivery_location_latitude         10.069186
+Delivery_location_longitude        76.407361
+Order_Date                        16-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:55
+Weather conditions                       NaN
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5882, dtype: object

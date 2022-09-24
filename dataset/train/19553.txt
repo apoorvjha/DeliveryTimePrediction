@@ -1,0 +1,21 @@
+ID                                    0x69cb
+Delivery_person_ID             VADRES07DEL02
+Delivery_person_Age                    33.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        23-03-2022
+Time_Orderd                            17:55
+Time_Order_picked                      18:10
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       28.00
+Name: 19553, dtype: object

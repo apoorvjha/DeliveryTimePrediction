@@ -1,0 +1,21 @@
+ID                                    0x79ab
+Delivery_person_ID             MUMRES09DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                18.994049
+Restaurant_longitude               72.825203
+Delivery_location_latitude         19.124049
+Delivery_location_longitude        72.955203
+Order_Date                        10-03-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:50
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 798, dtype: object

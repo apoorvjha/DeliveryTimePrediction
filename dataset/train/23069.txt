@@ -1,0 +1,21 @@
+ID                                     0x698
+Delivery_person_ID             MYSRES15DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.352058
+Restaurant_longitude               76.606650
+Delivery_location_latitude         12.402058
+Delivery_location_longitude        76.656650
+Order_Date                        03-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:20
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 23069, dtype: object

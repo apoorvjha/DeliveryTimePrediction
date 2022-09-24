@@ -1,0 +1,21 @@
+ID                                    0xcbb6
+Delivery_person_ID             KNPRES05DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.479108
+Restaurant_longitude               80.315042
+Delivery_location_latitude         26.559108
+Delivery_location_longitude        80.395042
+Order_Date                        12-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:25
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   25.000000
+Name: 32568, dtype: object

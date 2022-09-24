@@ -1,0 +1,21 @@
+ID                                    0xb788
+Delivery_person_ID             HYDRES13DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.521477
+Delivery_location_longitude        78.490350
+Order_Date                        25-03-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:45
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   33.000000
+Name: 13320, dtype: object

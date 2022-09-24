@@ -1,0 +1,21 @@
+ID                                    0x6486
+Delivery_person_ID             MYSRES03DEL02
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.299524
+Restaurant_longitude               76.642620
+Delivery_location_latitude         12.429524
+Delivery_location_longitude        76.772620
+Order_Date                        12-03-2022
+Time_Orderd                            19:15
+Time_Order_picked                      19:30
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 41001, dtype: object

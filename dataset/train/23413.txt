@@ -1,0 +1,21 @@
+ID                                      0x421
+Delivery_person_ID             CHENRES19DEL01
+Delivery_person_Age                 50.000000
+Delivery_person_Ratings              6.000000
+Restaurant_latitude                 12.986047
+Restaurant_longitude                80.218114
+Delivery_location_latitude          12.996047
+Delivery_location_longitude         80.228114
+Order_Date                         17-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                        9:35
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                          Drinks
+Type_of_vehicle                       bicycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    12.000000
+Name: 23413, dtype: object

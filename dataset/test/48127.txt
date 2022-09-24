@@ -1,0 +1,20 @@
+ID                                    0x8157
+Delivery_person_ID             VADRES01DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.347898
+Delivery_location_longitude        73.207788
+Order_Date                        01-04-2022
+Time_Orderd                            13:20
+Time_Order_picked                      13:35
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 2534, dtype: object

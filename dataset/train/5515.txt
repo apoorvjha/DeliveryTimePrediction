@@ -1,0 +1,21 @@
+ID                                    0xc576
+Delivery_person_ID             DEHRES04DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.340722
+Restaurant_longitude               78.060221
+Delivery_location_latitude         30.430722
+Delivery_location_longitude        78.150221
+Order_Date                        12-02-2022
+Time_Orderd                            17:50
+Time_Order_picked                      18:05
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 5515, dtype: object

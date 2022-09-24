@@ -1,0 +1,21 @@
+ID                                      0x8723
+Delivery_person_ID             COIMBRES05DEL03
+Delivery_person_Age                  31.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.022169
+Restaurant_longitude                 76.999594
+Delivery_location_latitude           11.052169
+Delivery_location_longitude          77.029594
+Order_Date                          17-03-2022
+Time_Orderd                              20:55
+Time_Order_picked                        21:05
+Weather conditions                      Stormy
+Road_traffic_density                       Jam
+Vehicle_condition                            0
+Type_of_order                            Snack
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     36.000000
+Name: 44224, dtype: object

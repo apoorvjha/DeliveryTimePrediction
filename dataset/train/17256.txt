@@ -1,0 +1,21 @@
+ID                                    0x7f76
+Delivery_person_ID             VADRES19DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.311844
+Restaurant_longitude               73.165081
+Delivery_location_latitude         22.401844
+Delivery_location_longitude        73.255081
+Order_Date                        10-03-2022
+Time_Orderd                            20:30
+Time_Order_picked                      20:35
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   38.000000
+Name: 17256, dtype: object

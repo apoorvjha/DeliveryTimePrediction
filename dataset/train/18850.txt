@@ -1,0 +1,21 @@
+ID                                    0x3396
+Delivery_person_ID             MUMRES06DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.055831
+Restaurant_longitude               72.833984
+Delivery_location_latitude         19.135831
+Delivery_location_longitude        72.913984
+Order_Date                        02-04-2022
+Time_Orderd                            20:40
+Time_Order_picked                      20:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 18850, dtype: object

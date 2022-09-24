@@ -1,0 +1,21 @@
+ID                                    0xc618
+Delivery_person_ID             KOLRES16DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.539129
+Restaurant_longitude               88.365507
+Delivery_location_latitude         22.549129
+Delivery_location_longitude        88.375507
+Order_Date                        17-02-2022
+Time_Orderd                            10:60
+Time_Order_picked                      11:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 23548, dtype: object

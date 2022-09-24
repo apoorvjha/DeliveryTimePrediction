@@ -1,0 +1,21 @@
+ID                                    0x16bf
+Delivery_person_ID             VADRES03DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.39
+Delivery_location_longitude            73.24
+Order_Date                        06-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       17.00
+Name: 37619, dtype: object

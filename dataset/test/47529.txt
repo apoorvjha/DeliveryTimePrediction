@@ -1,0 +1,20 @@
+ID                                     0x2930
+Delivery_person_ID             CHENRES18DEL01
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.981615
+Restaurant_longitude                80.231598
+Delivery_location_latitude          13.051615
+Delivery_location_longitude         80.301598
+Order_Date                         14-03-2022
+Time_Orderd                             19:50
+Time_Order_picked                       19:55
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 1936, dtype: object

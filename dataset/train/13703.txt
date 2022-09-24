@@ -1,0 +1,21 @@
+ID                                    0x1581
+Delivery_person_ID             JAPRES15DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.891191
+Restaurant_longitude               75.802083
+Delivery_location_latitude         26.961191
+Delivery_location_longitude        75.872083
+Order_Date                        12-03-2022
+Time_Orderd                            22:30
+Time_Order_picked                      22:40
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 13703, dtype: object

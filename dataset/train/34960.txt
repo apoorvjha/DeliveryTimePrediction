@@ -1,0 +1,21 @@
+ID                                    0xde52
+Delivery_person_ID             GOARES05DEL03
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        15-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       13.00
+Name: 34960, dtype: object

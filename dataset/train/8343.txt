@@ -1,0 +1,21 @@
+ID                                    0xc94c
+Delivery_person_ID             KOCRES05DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                 9.970717
+Restaurant_longitude               76.285447
+Delivery_location_latitude         10.020717
+Delivery_location_longitude        76.335447
+Order_Date                        13-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:55
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 8343, dtype: object

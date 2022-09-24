@@ -1,0 +1,20 @@
+ID                                       0x6652
+Delivery_person_ID              COIMBRES16DEL01
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   11.010375
+Restaurant_longitude                  76.952950
+Delivery_location_latitude            11.020375
+Delivery_location_longitude           76.962950
+Order_Date                           01-03-2022
+Time_Orderd                                8:60
+Time_Order_picked                          9:05
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 9082, dtype: object

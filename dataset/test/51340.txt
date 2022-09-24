@@ -1,0 +1,20 @@
+ID                                       0x752b
+Delivery_person_ID                HYDRES04DEL03
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   17.411028
+Restaurant_longitude                  78.329645
+Delivery_location_latitude            17.471028
+Delivery_location_longitude           78.389645
+Order_Date                           03-03-2022
+Time_Orderd                               18:10
+Time_Order_picked                         18:25
+Weather conditions                       Stormy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 5747, dtype: object

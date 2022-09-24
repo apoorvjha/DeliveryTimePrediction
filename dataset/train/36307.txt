@@ -1,0 +1,21 @@
+ID                                     0x7e59
+Delivery_person_ID             INDORES20DEL03
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 22.732225
+Restaurant_longitude                75.874765
+Delivery_location_latitude          22.762225
+Delivery_location_longitude         75.904765
+Order_Date                         28-03-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:55
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    27.000000
+Name: 36307, dtype: object

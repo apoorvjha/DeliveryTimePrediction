@@ -1,0 +1,20 @@
+ID                                    0xd11a
+Delivery_person_ID             BHPRES20DEL03
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                23.235123
+Restaurant_longitude               77.398886
+Delivery_location_latitude         23.325123
+Delivery_location_longitude        77.488886
+Order_Date                        18-02-2022
+Time_Orderd                            22:45
+Time_Order_picked                      22:50
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 6822, dtype: object

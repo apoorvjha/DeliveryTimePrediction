@@ -1,0 +1,21 @@
+ID                                     0xd3bc
+Delivery_person_ID             AGRRES010DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 27.163303
+Restaurant_longitude                78.057044
+Delivery_location_latitude          27.243303
+Delivery_location_longitude         78.137044
+Order_Date                         18-02-2022
+Time_Orderd                             21:60
+Time_Order_picked                       22:10
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    39.000000
+Name: 10259, dtype: object

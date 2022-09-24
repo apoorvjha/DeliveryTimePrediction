@@ -1,0 +1,21 @@
+ID                                     0x967d
+Delivery_person_ID             INDORES14DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.761593
+Restaurant_longitude                75.886362
+Delivery_location_latitude          22.891593
+Delivery_location_longitude         76.016362
+Order_Date                         20-03-2022
+Time_Orderd                             23:55
+Time_Order_picked                       24:05
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    29.000000
+Name: 40483, dtype: object

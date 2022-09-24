@@ -1,0 +1,21 @@
+ID                                       0x6793
+Delivery_person_ID                SURRES15DEL03
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   21.160522
+Restaurant_longitude                  72.771477
+Delivery_location_latitude            21.220522
+Delivery_location_longitude           72.831477
+Order_Date                           24-03-2022
+Time_Orderd                               21:45
+Time_Order_picked                         21:60
+Weather conditions                       Stormy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      30.000000
+Name: 39881, dtype: object

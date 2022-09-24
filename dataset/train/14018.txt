@@ -1,0 +1,21 @@
+ID                                    0x2321
+Delivery_person_ID             MUMRES03DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                19.223840
+Restaurant_longitude               72.841347
+Delivery_location_latitude         19.333840
+Delivery_location_longitude        72.951347
+Order_Date                        10-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:60
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   22.000000
+Name: 14018, dtype: object

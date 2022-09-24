@@ -1,0 +1,20 @@
+ID                                    0x2562
+Delivery_person_ID             MYSRES20DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.337978
+Restaurant_longitude               76.616792
+Delivery_location_latitude         12.357978
+Delivery_location_longitude        76.636792
+Order_Date                        03-03-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:45
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9547, dtype: object

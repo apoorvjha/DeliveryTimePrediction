@@ -1,0 +1,21 @@
+ID                                    0xc36c
+Delivery_person_ID             KOLRES03DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.526461
+Restaurant_longitude               88.364453
+Delivery_location_latitude         22.586461
+Delivery_location_longitude        88.424453
+Order_Date                        13-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:30
+Weather conditions                       NaN
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   22.000000
+Name: 39160, dtype: object

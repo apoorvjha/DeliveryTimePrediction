@@ -1,0 +1,21 @@
+ID                                    0x40a2
+Delivery_person_ID             HYDRES02DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                17.412330
+Restaurant_longitude               78.449654
+Delivery_location_latitude         17.442330
+Delivery_location_longitude        78.479654
+Order_Date                        13-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:10
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                 NaN
+City                           Metropolitian
+Time_taken (min)                   10.000000
+Name: 20109, dtype: object

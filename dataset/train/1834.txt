@@ -1,0 +1,21 @@
+ID                                    0xcdf9
+Delivery_person_ID             AGRRES17DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.157772
+Restaurant_longitude               78.047250
+Delivery_location_latitude         27.187772
+Delivery_location_longitude        78.077250
+Order_Date                        15-02-2022
+Time_Orderd                            20:20
+Time_Order_picked                      20:35
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 1834, dtype: object

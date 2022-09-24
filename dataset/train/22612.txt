@@ -1,0 +1,21 @@
+ID                                    0x3044
+Delivery_person_ID             HYDRES11DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.430448
+Restaurant_longitude               78.418213
+Delivery_location_latitude         17.450448
+Delivery_location_longitude        78.438213
+Order_Date                        01-04-2022
+Time_Orderd                             9:60
+Time_Order_picked                      10:05
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 22612, dtype: object

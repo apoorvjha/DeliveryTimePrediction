@@ -1,0 +1,20 @@
+ID                                    0x18e1
+Delivery_person_ID             VADRES07DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        07-03-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:20
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     2.00
+Festival                                  No
+City                           Metropolitian
+Name: 5362, dtype: object

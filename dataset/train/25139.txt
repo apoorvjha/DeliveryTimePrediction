@@ -1,0 +1,21 @@
+ID                                    0xcd09
+Delivery_person_ID             ALHRES07DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.449659
+Restaurant_longitude               81.839744
+Delivery_location_latitude         25.519659
+Delivery_location_longitude        81.909744
+Order_Date                        14-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 25139, dtype: object

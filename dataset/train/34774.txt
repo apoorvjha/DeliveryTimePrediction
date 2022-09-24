@@ -1,0 +1,21 @@
+ID                                    0x82a9
+Delivery_person_ID             JAPRES03DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.913483
+Restaurant_longitude               75.803139
+Delivery_location_latitude         26.963483
+Delivery_location_longitude        75.853139
+Order_Date                        26-03-2022
+Time_Orderd                            20:30
+Time_Order_picked                      20:35
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 34774, dtype: object

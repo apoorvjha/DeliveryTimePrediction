@@ -1,0 +1,20 @@
+ID                                     0x8bb0
+Delivery_person_ID             CHENRES17DEL01
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 13.045479
+Restaurant_longitude                80.233110
+Delivery_location_latitude          13.085479
+Delivery_location_longitude         80.273110
+Order_Date                         03-04-2022
+Time_Orderd                             12:20
+Time_Order_picked                       12:35
+Weather conditions                        Fog
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Name: 2764, dtype: object

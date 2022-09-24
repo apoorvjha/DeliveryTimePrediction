@@ -1,0 +1,21 @@
+ID                                    0xd75b
+Delivery_person_ID             ALHRES05DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                25.457687
+Restaurant_longitude               81.835585
+Delivery_location_latitude         25.507687
+Delivery_location_longitude        81.885585
+Order_Date                        15-02-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 19996, dtype: object

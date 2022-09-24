@@ -1,0 +1,21 @@
+ID                                     0x4826
+Delivery_person_ID             CHENRES02DEL03
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.086438
+Restaurant_longitude                80.220672
+Delivery_location_latitude          13.116438
+Delivery_location_longitude         80.250672
+Order_Date                         19-03-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:55
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    34.000000
+Name: 21241, dtype: object

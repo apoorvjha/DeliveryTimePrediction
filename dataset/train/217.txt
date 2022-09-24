@@ -1,0 +1,21 @@
+ID                                     0xb385
+Delivery_person_ID             INDORES20DEL01
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 22.732225
+Restaurant_longitude                75.874765
+Delivery_location_latitude          22.772225
+Delivery_location_longitude         75.914765
+Order_Date                         05-03-2022
+Time_Orderd                             14:60
+Time_Order_picked                       15:15
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    39.000000
+Name: 217, dtype: object

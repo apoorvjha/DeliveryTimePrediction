@@ -1,0 +1,21 @@
+ID                                    0xc10b
+Delivery_person_ID             KOLRES01DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.514688
+Restaurant_longitude               88.393294
+Delivery_location_latitude         22.584688
+Delivery_location_longitude        88.463294
+Order_Date                        16-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:05
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 3.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   47.000000
+Name: 9494, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xe26c
+Delivery_person_ID             KOLRES09DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                22.515082
+Restaurant_longitude               88.367830
+Delivery_location_latitude         22.625082
+Delivery_location_longitude        88.477830
+Order_Date                        12-02-2022
+Time_Orderd                            20:55
+Time_Order_picked                      21:05
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   32.000000
+Name: 19002, dtype: object

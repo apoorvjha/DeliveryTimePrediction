@@ -1,0 +1,20 @@
+ID                                    0xd079
+Delivery_person_ID             ALHRES02DEL03
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.453436
+Restaurant_longitude               81.833167
+Delivery_location_latitude         25.483436
+Delivery_location_longitude        81.863167
+Order_Date                        11-02-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:50
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 6045, dtype: object

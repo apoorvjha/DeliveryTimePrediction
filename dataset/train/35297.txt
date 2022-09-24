@@ -1,0 +1,21 @@
+ID                                        0xaa6
+Delivery_person_ID             RANCHIRES01DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.416792
+Restaurant_longitude                  85.316842
+Delivery_location_latitude            23.486792
+Delivery_location_longitude           85.386842
+Order_Date                           27-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         17:45
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             1
+Type_of_order                            Drinks
+Type_of_vehicle                         scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      22.000000
+Name: 35297, dtype: object

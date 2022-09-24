@@ -1,0 +1,21 @@
+ID                                    0xe17d
+Delivery_person_ID             DEHRES20DEL03
+Delivery_person_Age                    25.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        11-02-2022
+Time_Orderd                            22:45
+Time_Order_picked                      22:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       10.00
+Name: 15758, dtype: object

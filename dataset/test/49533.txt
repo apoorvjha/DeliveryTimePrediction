@@ -1,0 +1,20 @@
+ID                                    0x9638
+Delivery_person_ID             MYSRES16DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.316967
+Restaurant_longitude               76.603067
+Delivery_location_latitude         12.426967
+Delivery_location_longitude        76.713067
+Order_Date                        04-04-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3940, dtype: object

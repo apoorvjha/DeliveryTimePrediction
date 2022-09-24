@@ -1,0 +1,20 @@
+ID                                    0xc588
+Delivery_person_ID             DEHRES08DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.379722
+Delivery_location_longitude        78.087079
+Order_Date                        11-02-2022
+Time_Orderd                            11:20
+Time_Order_picked                      11:25
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 7695, dtype: object

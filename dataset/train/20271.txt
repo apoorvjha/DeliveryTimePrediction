@@ -1,0 +1,21 @@
+ID                                       0x372a
+Delivery_person_ID             RANCHIRES20DEL03
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   23.399250
+Restaurant_longitude                  85.390464
+Delivery_location_latitude            23.459250
+Delivery_location_longitude           85.450464
+Order_Date                           05-04-2022
+Time_Orderd                               23:25
+Time_Order_picked                         23:40
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             1
+Type_of_order                             Snack
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      19.000000
+Name: 20271, dtype: object

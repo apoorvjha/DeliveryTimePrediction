@@ -1,0 +1,20 @@
+ID                                    0x233e
+Delivery_person_ID             HYDRES15DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.569710
+Delivery_location_longitude        78.478855
+Order_Date                        02-04-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:35
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 10210, dtype: object

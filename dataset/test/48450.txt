@@ -1,0 +1,20 @@
+ID                                     0xc1f7
+Delivery_person_ID             LUDHRES15DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 30.899584
+Restaurant_longitude                75.809346
+Delivery_location_latitude          31.009584
+Delivery_location_longitude         75.919346
+Order_Date                         12-02-2022
+Time_Orderd                             19:25
+Time_Order_picked                       19:35
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 2857, dtype: object

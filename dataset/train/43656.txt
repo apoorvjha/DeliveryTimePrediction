@@ -1,0 +1,21 @@
+ID                                       0x53ac
+Delivery_person_ID                MUMRES12DEL03
+Delivery_person_Age                   25.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   19.207222
+Restaurant_longitude                  72.972281
+Delivery_location_latitude            19.267222
+Delivery_location_longitude           73.032281
+Order_Date                           09-03-2022
+Time_Orderd                               17:35
+Time_Order_picked                         17:50
+Weather conditions                          Fog
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      12.000000
+Name: 43656, dtype: object

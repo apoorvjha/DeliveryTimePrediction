@@ -1,0 +1,21 @@
+ID                                     0x79f9
+Delivery_person_ID             INDORES17DEL02
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.761226
+Restaurant_longitude                75.887522
+Delivery_location_latitude          22.781226
+Delivery_location_longitude         75.907522
+Order_Date                         30-03-2022
+Time_Orderd                             11:45
+Time_Order_picked                       11:60
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    27.000000
+Name: 38533, dtype: object

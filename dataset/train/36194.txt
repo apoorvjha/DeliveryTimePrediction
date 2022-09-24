@@ -1,0 +1,21 @@
+ID                                    0xa3c7
+Delivery_person_ID             VADRES14DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.361603
+Delivery_location_longitude        73.215012
+Order_Date                        05-04-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 36194, dtype: object

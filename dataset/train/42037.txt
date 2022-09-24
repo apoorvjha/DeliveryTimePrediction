@@ -1,0 +1,21 @@
+ID                                    0x3f15
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 3.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        25-03-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       35.00
+Name: 42037, dtype: object

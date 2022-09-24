@@ -1,0 +1,21 @@
+ID                                     0x5e2
+Delivery_person_ID             MYSRES05DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -12.323978
+Restaurant_longitude               76.627961
+Delivery_location_latitude         12.343978
+Delivery_location_longitude        76.647961
+Order_Date                        01-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                       9:15
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      bicycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   18.000000
+Name: 16984, dtype: object

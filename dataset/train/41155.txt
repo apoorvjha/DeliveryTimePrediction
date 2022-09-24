@@ -1,0 +1,21 @@
+ID                                    0x5530
+Delivery_person_ID             JAPRES15DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.891191
+Restaurant_longitude               75.802083
+Delivery_location_latitude         27.021191
+Delivery_location_longitude        75.932083
+Order_Date                        12-03-2022
+Time_Orderd                            22:35
+Time_Order_picked                      22:45
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 41155, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x30ca
+Delivery_person_ID             JAPRES16DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.849596
+Restaurant_longitude               75.800512
+Delivery_location_latitude         26.869596
+Delivery_location_longitude        75.820512
+Order_Date                        26-03-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:55
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 15745, dtype: object

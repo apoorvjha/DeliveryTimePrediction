@@ -1,0 +1,21 @@
+ID                                    0xbf39
+Delivery_person_ID             BHPRES12DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        13-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      12:50
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Buffet
+Type_of_vehicle                      bicycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       47.00
+Name: 11762, dtype: object

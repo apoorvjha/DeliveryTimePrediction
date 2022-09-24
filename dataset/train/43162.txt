@@ -1,0 +1,21 @@
+ID                                     0xd8c6
+Delivery_person_ID             LUDHRES09DEL01
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 30.885814
+Restaurant_longitude                75.786976
+Delivery_location_latitude          30.895814
+Delivery_location_longitude         75.796976
+Order_Date                         17-02-2022
+Time_Orderd                              9:15
+Time_Order_picked                        9:20
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    24.000000
+Name: 43162, dtype: object

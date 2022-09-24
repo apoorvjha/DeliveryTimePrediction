@@ -1,0 +1,21 @@
+ID                                     0xd946
+Delivery_person_ID             LUDHRES15DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.899584
+Restaurant_longitude                75.809346
+Delivery_location_latitude          30.979584
+Delivery_location_longitude         75.889346
+Order_Date                         18-02-2022
+Time_Orderd                             20:35
+Time_Order_picked                       20:40
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    16.000000
+Name: 238, dtype: object

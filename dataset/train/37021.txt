@@ -1,0 +1,21 @@
+ID                                     0x4e9a
+Delivery_person_ID             INDORES02DEL02
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.651847
+Restaurant_longitude                75.881991
+Delivery_location_latitude          22.671847
+Delivery_location_longitude         75.901991
+Order_Date                         03-03-2022
+Time_Orderd                             11:50
+Time_Order_picked                       11:55
+Weather conditions                 Sandstorms
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    34.000000
+Name: 37021, dtype: object

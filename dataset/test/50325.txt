@@ -1,0 +1,20 @@
+ID                                    0xd5f0
+Delivery_person_ID             BHPRES11DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.233219
+Restaurant_longitude               77.433571
+Delivery_location_latitude         23.273219
+Delivery_location_longitude        77.473571
+Order_Date                        13-02-2022
+Time_Orderd                            14:35
+Time_Order_picked                      14:50
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 4732, dtype: object

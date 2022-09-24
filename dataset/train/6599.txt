@@ -1,0 +1,21 @@
+ID                                     0xbf57
+Delivery_person_ID             AURGRES15DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 19.878028
+Restaurant_longitude                75.317475
+Delivery_location_latitude          19.988028
+Delivery_location_longitude         75.427475
+Order_Date                         12-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       22:10
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    41.000000
+Name: 6599, dtype: object

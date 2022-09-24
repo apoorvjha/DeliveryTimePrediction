@@ -1,0 +1,21 @@
+ID                                      0x671c
+Delivery_person_ID             COIMBRES09DEL02
+Delivery_person_Age                  34.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.008638
+Restaurant_longitude                 76.984311
+Delivery_location_latitude           11.088638
+Delivery_location_longitude          77.064311
+Order_Date                          04-04-2022
+Time_Orderd                              20:10
+Time_Order_picked                        20:15
+Weather conditions                         Fog
+Road_traffic_density                       Jam
+Vehicle_condition                            2
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     39.000000
+Name: 40189, dtype: object

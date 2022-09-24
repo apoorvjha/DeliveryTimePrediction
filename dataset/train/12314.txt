@@ -1,0 +1,21 @@
+ID                                     0x1b33
+Delivery_person_ID             INDORES01DEL03
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.695207
+Restaurant_longitude                75.866059
+Delivery_location_latitude          22.725207
+Delivery_location_longitude         75.896059
+Order_Date                         13-03-2022
+Time_Orderd                             19:50
+Time_Order_picked                       20:05
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    17.000000
+Name: 12314, dtype: object

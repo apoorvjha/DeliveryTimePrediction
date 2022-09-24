@@ -1,0 +1,21 @@
+ID                                       0xbb7a
+Delivery_person_ID               VADRES010DEL01
+Delivery_person_Age                   25.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   22.310329
+Restaurant_longitude                  73.169083
+Delivery_location_latitude            22.350329
+Delivery_location_longitude           73.209083
+Order_Date                           11-03-2022
+Time_Orderd                               15:45
+Time_Order_picked                         15:60
+Weather conditions                          Fog
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      16.000000
+Name: 38199, dtype: object

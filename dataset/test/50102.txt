@@ -1,0 +1,20 @@
+ID                                     0x658f
+Delivery_person_ID             INDORES12DEL02
+Delivery_person_Age                  35.00000
+Delivery_person_Ratings               4.30000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.87806
+Delivery_location_longitude          76.02340
+Order_Date                         06-04-2022
+Time_Orderd                             17:30
+Time_Order_picked                       17:35
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   0.00000
+Festival                                   No
+City                            Metropolitian
+Name: 4509, dtype: object

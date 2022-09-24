@@ -1,0 +1,20 @@
+ID                                       0x198c
+Delivery_person_ID               JAPRES010DEL01
+Delivery_person_Age                   20.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   26.921411
+Restaurant_longitude                  75.793604
+Delivery_location_latitude            26.991411
+Delivery_location_longitude           75.863604
+Order_Date                           29-03-2022
+Time_Orderd                               23:30
+Time_Order_picked                         23:40
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 9944, dtype: object

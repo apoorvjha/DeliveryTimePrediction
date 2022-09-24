@@ -1,0 +1,21 @@
+ID                                    0xc99c
+Delivery_person_ID             DEHRES20DEL02
+Delivery_person_Age                    36.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        17-02-2022
+Time_Orderd                            10:45
+Time_Order_picked                      10:55
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       26.00
+Name: 44668, dtype: object

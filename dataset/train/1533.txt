@@ -1,0 +1,21 @@
+ID                                    0xbfeb
+Delivery_person_ID             KOCRES12DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                 9.988483
+Restaurant_longitude               76.295211
+Delivery_location_latitude          9.998483
+Delivery_location_longitude        76.305211
+Order_Date                        13-02-2022
+Time_Orderd                            11:45
+Time_Order_picked                      11:55
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                 Yes
+City                                   Urban
+Time_taken (min)                   48.000000
+Name: 1533, dtype: object

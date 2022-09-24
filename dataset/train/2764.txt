@@ -1,0 +1,21 @@
+ID                                    0xd154
+Delivery_person_ID             DEHRES14DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                30.319528
+Restaurant_longitude               78.040267
+Delivery_location_latitude         30.349528
+Delivery_location_longitude        78.070267
+Order_Date                        13-02-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 2764, dtype: object

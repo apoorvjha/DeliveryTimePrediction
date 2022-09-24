@@ -1,0 +1,21 @@
+ID                                    0x8830
+Delivery_person_ID             HYDRES06DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                17.455894
+Restaurant_longitude               78.375467
+Delivery_location_latitude         17.505894
+Delivery_location_longitude        78.425467
+Order_Date                        19-03-2022
+Time_Orderd                            19:55
+Time_Order_picked                      19:60
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   32.000000
+Name: 25502, dtype: object

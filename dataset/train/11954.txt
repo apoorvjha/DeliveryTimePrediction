@@ -1,0 +1,21 @@
+ID                                     0x6927
+Delivery_person_ID             PUNERES06DEL03
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.546258
+Restaurant_longitude                73.904337
+Delivery_location_latitude          18.636258
+Delivery_location_longitude         73.994337
+Order_Date                         10-03-2022
+Time_Orderd                             21:35
+Time_Order_picked                       21:50
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    19.000000
+Name: 11954, dtype: object

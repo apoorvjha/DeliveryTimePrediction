@@ -1,0 +1,21 @@
+ID                                    0x261f
+Delivery_person_ID             VADRES16DEL01
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        03-03-2022
+Time_Orderd                             8:20
+Time_Order_picked                       8:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       11.00
+Name: 19709, dtype: object

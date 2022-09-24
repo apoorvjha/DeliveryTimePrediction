@@ -1,0 +1,21 @@
+ID                                    0xd274
+Delivery_person_ID             AGRRES11DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                27.163303
+Restaurant_longitude               78.057044
+Delivery_location_latitude         27.273303
+Delivery_location_longitude        78.167044
+Order_Date                        16-02-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   47.000000
+Name: 23088, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x2122
+Delivery_person_ID             INDORES05DEL02
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.727021
+Restaurant_longitude                75.884167
+Delivery_location_latitude          22.807021
+Delivery_location_longitude         75.964167
+Order_Date                         20-03-2022
+Time_Orderd                             18:55
+Time_Order_picked                       18:60
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    26.000000
+Name: 24972, dtype: object

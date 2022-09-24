@@ -1,0 +1,20 @@
+ID                                     0x5bf0
+Delivery_person_ID             VADRES010DEL01
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.000000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.420329
+Delivery_location_longitude         73.279083
+Order_Date                         25-03-2022
+Time_Orderd                             20:20
+Time_Order_picked                       20:30
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                  Yes
+City                            Metropolitian
+Name: 11116, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xba62
+Delivery_person_ID             MYSRES15DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.352058
+Restaurant_longitude               76.606650
+Delivery_location_latitude         12.392058
+Delivery_location_longitude        76.646650
+Order_Date                        05-03-2022
+Time_Orderd                            12:60
+Time_Order_picked                      13:05
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 44268, dtype: object

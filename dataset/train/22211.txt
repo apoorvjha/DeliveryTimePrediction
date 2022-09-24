@@ -1,0 +1,21 @@
+ID                                       0x7bf8
+Delivery_person_ID             RANCHIRES06DEL01
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   23.357804
+Restaurant_longitude                  85.325146
+Delivery_location_latitude            23.397804
+Delivery_location_longitude           85.365146
+Order_Date                           13-03-2022
+Time_Orderd                               16:10
+Time_Order_picked                         16:20
+Weather conditions                        Windy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      27.000000
+Name: 22211, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x2774
+Delivery_person_ID             MYSRES01DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.421072
+Delivery_location_longitude        76.764878
+Order_Date                        27-03-2022
+Time_Orderd                            22:25
+Time_Order_picked                      22:40
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7375, dtype: object

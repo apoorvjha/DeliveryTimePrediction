@@ -1,0 +1,21 @@
+ID                                    0x9243
+Delivery_person_ID             HYDRES19DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                17.458998
+Restaurant_longitude               78.500366
+Delivery_location_latitude         17.498998
+Delivery_location_longitude        78.540366
+Order_Date                        01-04-2022
+Time_Orderd                            14:50
+Time_Order_picked                      14:60
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   33.000000
+Name: 22376, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xd985
+Delivery_person_ID             DEHRES19DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                30.372202
+Restaurant_longitude               78.077151
+Delivery_location_latitude         30.422202
+Delivery_location_longitude        78.127151
+Order_Date                        11-02-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:20
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                 NaN
+City                                   Urban
+Name: 5053, dtype: object

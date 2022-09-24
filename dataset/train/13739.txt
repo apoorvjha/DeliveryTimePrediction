@@ -1,0 +1,21 @@
+ID                                    0xd6dd
+Delivery_person_ID             BHPRES13DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.230791
+Restaurant_longitude               77.437020
+Delivery_location_latitude         23.260791
+Delivery_location_longitude        77.467020
+Order_Date                        11-02-2022
+Time_Orderd                            18:50
+Time_Order_picked                      18:60
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 13739, dtype: object

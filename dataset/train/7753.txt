@@ -1,0 +1,21 @@
+ID                                    0xc2ab
+Delivery_person_ID             KOLRES01DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.514688
+Restaurant_longitude               88.393294
+Delivery_location_latitude         22.554688
+Delivery_location_longitude        88.433294
+Order_Date                        13-02-2022
+Time_Orderd                            15:15
+Time_Order_picked                      15:25
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   34.000000
+Name: 7753, dtype: object

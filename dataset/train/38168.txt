@@ -1,0 +1,21 @@
+ID                                     0x7930
+Delivery_person_ID             VADRES010DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.350329
+Delivery_location_longitude         73.209083
+Order_Date                         05-04-2022
+Time_Orderd                             14:20
+Time_Order_picked                       14:35
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    18.000000
+Name: 38168, dtype: object

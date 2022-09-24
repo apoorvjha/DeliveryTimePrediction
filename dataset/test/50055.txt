@@ -1,0 +1,20 @@
+ID                                    0xc670
+Delivery_person_ID             DEHRES17DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.327968
+Restaurant_longitude               78.046106
+Delivery_location_latitude         30.377968
+Delivery_location_longitude        78.096106
+Order_Date                        13-02-2022
+Time_Orderd                            20:60
+Time_Order_picked                      21:05
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4462, dtype: object

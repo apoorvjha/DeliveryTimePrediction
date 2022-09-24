@@ -1,0 +1,21 @@
+ID                                    0xca61
+Delivery_person_ID             AGRRES07DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                27.160934
+Restaurant_longitude               78.044095
+Delivery_location_latitude         27.210934
+Delivery_location_longitude        78.094095
+Order_Date                        11-02-2022
+Time_Orderd                            21:55
+Time_Order_picked                      21:60
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   27.000000
+Name: 449, dtype: object

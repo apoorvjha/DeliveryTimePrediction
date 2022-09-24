@@ -1,0 +1,21 @@
+ID                                    0x4b07
+Delivery_person_ID             VADRES09DEL03
+Delivery_person_Age                    33.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        08-03-2022
+Time_Orderd                            21:50
+Time_Order_picked                      21:60
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       36.00
+Name: 15293, dtype: object

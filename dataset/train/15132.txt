@@ -1,0 +1,21 @@
+ID                                    0xdbc2
+Delivery_person_ID             KOCRES19DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.960846
+Restaurant_longitude               76.293936
+Delivery_location_latitude         10.020846
+Delivery_location_longitude        76.353936
+Order_Date                        13-02-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   28.000000
+Name: 15132, dtype: object

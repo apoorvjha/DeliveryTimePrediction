@@ -1,0 +1,21 @@
+ID                                       0x7468
+Delivery_person_ID             RANCHIRES12DEL02
+Delivery_person_Age                       34.00
+Delivery_person_Ratings                    4.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.13
+Delivery_location_longitude                0.13
+Order_Date                           02-03-2022
+Time_Orderd                               20:50
+Time_Order_picked                         21:05
+Weather conditions                       Stormy
+Road_traffic_density                        Jam
+Vehicle_condition                             0
+Type_of_order                            Buffet
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        2.00
+Festival                                    Yes
+City                              Metropolitian
+Time_taken (min)                          54.00
+Name: 2628, dtype: object

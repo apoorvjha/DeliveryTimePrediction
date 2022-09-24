@@ -1,0 +1,21 @@
+ID                                    0xc015
+Delivery_person_ID             ALHRES17DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -25.452350
+Restaurant_longitude              -81.841889
+Delivery_location_latitude         25.492350
+Delivery_location_longitude        81.881889
+Order_Date                        15-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      12:35
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 14220, dtype: object

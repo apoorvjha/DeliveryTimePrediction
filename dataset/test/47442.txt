@@ -1,0 +1,20 @@
+ID                                       0x66cb
+Delivery_person_ID               CHENRES17DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                3.900000
+Restaurant_latitude                   13.045479
+Restaurant_longitude                  80.233110
+Delivery_location_latitude            13.155479
+Delivery_location_longitude           80.343110
+Order_Date                           08-03-2022
+Time_Orderd                               17:30
+Time_Order_picked                         17:40
+Weather conditions                       Stormy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 1849, dtype: object

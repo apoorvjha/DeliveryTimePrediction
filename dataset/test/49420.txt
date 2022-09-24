@@ -1,0 +1,20 @@
+ID                                     0xeae
+Delivery_person_ID             JAPRES08DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         26.970262
+Delivery_location_longitude        75.843013
+Order_Date                        01-04-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3827, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x93a9
+Delivery_person_ID             MUMRES12DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                19.207222
+Restaurant_longitude               72.972281
+Delivery_location_latitude         19.247222
+Delivery_location_longitude        73.012281
+Order_Date                        11-03-2022
+Time_Orderd                            12:50
+Time_Order_picked                      12:60
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 43999, dtype: object

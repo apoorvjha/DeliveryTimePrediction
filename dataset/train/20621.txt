@@ -1,0 +1,21 @@
+ID                                    0xd921
+Delivery_person_ID             DEHRES04DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                30.340722
+Restaurant_longitude               78.060221
+Delivery_location_latitude         30.400722
+Delivery_location_longitude        78.120221
+Order_Date                        11-02-2022
+Time_Orderd                            18:60
+Time_Order_picked                      19:10
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 20621, dtype: object

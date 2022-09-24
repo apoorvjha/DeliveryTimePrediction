@@ -1,0 +1,20 @@
+ID                                    0xb259
+Delivery_person_ID             SURRES18DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.149834
+Restaurant_longitude               72.778666
+Delivery_location_latitude         21.189834
+Delivery_location_longitude        72.818666
+Order_Date                        05-03-2022
+Time_Orderd                            13:10
+Time_Order_picked                      13:25
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 6663, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x748
+Delivery_person_ID             VADRES16DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        06-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      22:30
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       36.00
+Name: 38785, dtype: object

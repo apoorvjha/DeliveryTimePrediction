@@ -1,0 +1,20 @@
+ID                                     0x5d23
+Delivery_person_ID             VADRES010DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.330329
+Delivery_location_longitude         73.189083
+Order_Date                         26-03-2022
+Time_Orderd                              8:20
+Time_Order_picked                        8:25
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Name: 5145, dtype: object

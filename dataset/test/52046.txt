@@ -1,0 +1,20 @@
+ID                                    0x8c93
+Delivery_person_ID             HYDRES02DEL03
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.412330
+Restaurant_longitude               78.449654
+Delivery_location_latitude         17.502330
+Delivery_location_longitude        78.539654
+Order_Date                        25-03-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 6453, dtype: object

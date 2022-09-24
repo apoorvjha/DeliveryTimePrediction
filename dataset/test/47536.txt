@@ -1,0 +1,20 @@
+ID                                    0x52b9
+Delivery_person_ID             JAPRES18DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.913987
+Restaurant_longitude               75.752891
+Delivery_location_latitude         26.953987
+Delivery_location_longitude        75.792891
+Order_Date                        01-04-2022
+Time_Orderd                            15:20
+Time_Order_picked                      15:35
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1943, dtype: object

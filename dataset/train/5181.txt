@@ -1,0 +1,21 @@
+ID                                    0xdc92
+Delivery_person_ID             ALHRES05DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                25.457687
+Restaurant_longitude               81.835585
+Delivery_location_latitude         25.517687
+Delivery_location_longitude        81.895585
+Order_Date                        13-02-2022
+Time_Orderd                            23:55
+Time_Order_picked                      24:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 5181, dtype: object

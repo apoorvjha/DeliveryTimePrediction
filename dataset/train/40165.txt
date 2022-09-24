@@ -1,0 +1,21 @@
+ID                                    0xaf9a
+Delivery_person_ID             MUMRES18DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                19.109300
+Restaurant_longitude               72.825451
+Delivery_location_latitude         19.219300
+Delivery_location_longitude        72.935451
+Order_Date                        02-04-2022
+Time_Orderd                            18:15
+Time_Order_picked                      18:25
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 40165, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xbd4b
+Delivery_person_ID             MUMRES04DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                19.254567
+Restaurant_longitude               72.848923
+Delivery_location_latitude         19.284567
+Delivery_location_longitude        72.878923
+Order_Date                        28-03-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 13720, dtype: object

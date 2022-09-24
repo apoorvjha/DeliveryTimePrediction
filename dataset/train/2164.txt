@@ -1,0 +1,21 @@
+ID                                      0x814
+Delivery_person_ID             PUNERES17DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.530963
+Restaurant_longitude                73.828972
+Delivery_location_latitude          18.620963
+Delivery_location_longitude         73.918972
+Order_Date                         14-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       18:45
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                            Meal
+Type_of_vehicle                       bicycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    17.000000
+Name: 2164, dtype: object

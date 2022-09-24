@@ -1,0 +1,21 @@
+ID                                      0x18d6
+Delivery_person_ID             COIMBRES08DEL02
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  11.001852
+Restaurant_longitude                 76.976268
+Delivery_location_latitude           11.131852
+Delivery_location_longitude          77.106268
+Order_Date                          16-03-2022
+Time_Orderd                                NaN
+Time_Order_picked                        23:30
+Weather conditions                         Fog
+Road_traffic_density                       Low
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     22.000000
+Name: 12053, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xdd2d
+Delivery_person_ID             AGRRES19DEL02
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        14-02-2022
+Time_Orderd                            21:60
+Time_Order_picked                      22:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 2324, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xddcc
+Delivery_person_ID             KNPRES20DEL02
+Delivery_person_Age                    25.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                    26.47
+Restaurant_longitude                   80.35
+Delivery_location_latitude             26.55
+Delivery_location_longitude            80.43
+Order_Date                        12-02-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:45
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 8675, dtype: object

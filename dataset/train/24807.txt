@@ -1,0 +1,21 @@
+ID                                    0xca26
+Delivery_person_ID             AGRRES14DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                27.161850
+Restaurant_longitude               78.040165
+Delivery_location_latitude         27.271850
+Delivery_location_longitude        78.150165
+Order_Date                        16-02-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   30.000000
+Name: 24807, dtype: object

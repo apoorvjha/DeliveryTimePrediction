@@ -1,0 +1,21 @@
+ID                                     0xd0c2
+Delivery_person_ID             AURGRES05DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 19.875522
+Restaurant_longitude                75.367127
+Delivery_location_latitude          19.905522
+Delivery_location_longitude         75.397127
+Order_Date                         15-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       20:55
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 20932, dtype: object

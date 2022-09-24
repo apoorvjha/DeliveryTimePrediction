@@ -1,0 +1,21 @@
+ID                                    0xcc87
+Delivery_person_ID             AGRRES17DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                27.157772
+Restaurant_longitude               78.047250
+Delivery_location_latitude         27.237772
+Delivery_location_longitude        78.127250
+Order_Date                        18-02-2022
+Time_Orderd                            21:50
+Time_Order_picked                      21:55
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   39.000000
+Name: 41062, dtype: object

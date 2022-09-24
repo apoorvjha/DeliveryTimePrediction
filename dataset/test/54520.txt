@@ -1,0 +1,20 @@
+ID                                    0xd41b
+Delivery_person_ID             KNPRES04DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.471529
+Restaurant_longitude               80.313458
+Delivery_location_latitude         26.601529
+Delivery_location_longitude        80.443458
+Order_Date                        16-02-2022
+Time_Orderd                            17:20
+Time_Order_picked                      17:35
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8927, dtype: object

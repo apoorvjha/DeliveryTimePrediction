@@ -1,0 +1,21 @@
+ID                                    0xbf8f
+Delivery_person_ID             ALHRES03DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                25.451517
+Restaurant_longitude               81.832616
+Delivery_location_latitude         25.561517
+Delivery_location_longitude        81.942616
+Order_Date                        18-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   42.000000
+Name: 36472, dtype: object

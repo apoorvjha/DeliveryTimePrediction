@@ -1,0 +1,21 @@
+ID                                     0x58ab
+Delivery_person_ID             INDORES11DEL03
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.841234
+Delivery_location_longitude         75.979490
+Order_Date                         02-03-2022
+Time_Orderd                             21:10
+Time_Order_picked                       21:25
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    31.000000
+Name: 45074, dtype: object

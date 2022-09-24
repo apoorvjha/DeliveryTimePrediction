@@ -1,0 +1,21 @@
+ID                                       0xbf7d
+Delivery_person_ID                GOARES05DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           14-02-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         22:05
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          39.00
+Name: 40503, dtype: object

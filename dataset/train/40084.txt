@@ -1,0 +1,21 @@
+ID                                     0x52b8
+Delivery_person_ID             PUNERES12DEL03
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.520016
+Restaurant_longitude                73.830547
+Delivery_location_latitude          18.610016
+Delivery_location_longitude         73.920547
+Order_Date                         20-03-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:15
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    43.000000
+Name: 40084, dtype: object

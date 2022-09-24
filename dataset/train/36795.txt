@@ -1,0 +1,21 @@
+ID                                    0x314c
+Delivery_person_ID             MUMRES20DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                19.103249
+Restaurant_longitude               72.846749
+Delivery_location_latitude         19.143249
+Delivery_location_longitude        72.886749
+Order_Date                        17-03-2022
+Time_Orderd                            15:20
+Time_Order_picked                      15:25
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 36795, dtype: object

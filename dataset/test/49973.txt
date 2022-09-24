@@ -1,0 +1,20 @@
+ID                                        0x66e
+Delivery_person_ID               PUNERES04DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   18.514210
+Restaurant_longitude                  73.838429
+Delivery_location_latitude            18.524210
+Delivery_location_longitude           73.848429
+Order_Date                           01-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                          9:60
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4380, dtype: object

@@ -1,0 +1,21 @@
+ID                                      0x69b
+Delivery_person_ID             CHENRES16DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 13.049645
+Restaurant_longitude                80.242268
+Delivery_location_latitude          13.059645
+Delivery_location_longitude         80.252268
+Order_Date                         01-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                        9:35
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    10.000000
+Name: 38998, dtype: object

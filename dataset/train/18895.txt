@@ -1,0 +1,21 @@
+ID                                    0xd65e
+Delivery_person_ID             DEHRES12DEL02
+Delivery_person_Age                    32.00
+Delivery_person_Ratings                 4.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        12-02-2022
+Time_Orderd                            23:35
+Time_Order_picked                      23:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       35.00
+Name: 18895, dtype: object

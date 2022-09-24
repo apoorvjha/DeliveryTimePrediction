@@ -1,0 +1,21 @@
+ID                                    0x7273
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    28.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        01-04-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:55
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       23.00
+Name: 20435, dtype: object

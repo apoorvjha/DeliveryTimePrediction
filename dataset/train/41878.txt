@@ -1,0 +1,21 @@
+ID                                    0xd47f
+Delivery_person_ID             BHPRES07DEL01
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        11-02-2022
+Time_Orderd                            12:25
+Time_Order_picked                      12:30
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       25.00
+Name: 41878, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xd2ba
+Delivery_person_ID             LUDHRES03DEL03
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.887220
+Restaurant_longitude                75.804893
+Delivery_location_latitude          31.027220
+Delivery_location_longitude         75.944893
+Order_Date                         12-02-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:50
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  3.000000
+Festival                                  Yes
+City                            Metropolitian
+Name: 2575, dtype: object

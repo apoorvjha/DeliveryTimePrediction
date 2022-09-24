@@ -1,0 +1,21 @@
+ID                                    0x4d3c
+Delivery_person_ID             VADRES12DEL03
+Delivery_person_Age                    33.00
+Delivery_person_Ratings                 4.20
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        15-03-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:40
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       34.00
+Name: 14936, dtype: object

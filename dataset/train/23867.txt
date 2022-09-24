@@ -1,0 +1,21 @@
+ID                                       0xc90
+Delivery_person_ID             COIMBRES18DEL01
+Delivery_person_Age                  24.000000
+Delivery_person_Ratings               4.500000
+Restaurant_latitude                  11.020910
+Restaurant_longitude                 76.940432
+Delivery_location_latitude           11.030910
+Delivery_location_longitude          76.950432
+Order_Date                          17-03-2022
+Time_Orderd                               8:50
+Time_Order_picked                         9:05
+Weather conditions                  Sandstorms
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     28.000000
+Name: 23867, dtype: object

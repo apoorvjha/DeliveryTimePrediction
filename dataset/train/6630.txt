@@ -1,0 +1,21 @@
+ID                                      0x6c60
+Delivery_person_ID             COIMBRES11DEL01
+Delivery_person_Age                  22.000000
+Delivery_person_Ratings               4.700000
+Restaurant_latitude                  11.001753
+Restaurant_longitude                 76.986241
+Delivery_location_latitude           11.011753
+Delivery_location_longitude          76.996241
+Order_Date                          15-03-2022
+Time_Orderd                               9:55
+Time_Order_picked                        10:10
+Weather conditions                       Sunny
+Road_traffic_density                       Low
+Vehicle_condition                            2
+Type_of_order                           Buffet
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     18.000000
+Name: 6630, dtype: object

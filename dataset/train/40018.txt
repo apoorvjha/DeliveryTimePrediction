@@ -1,0 +1,21 @@
+ID                                    0xdd6a
+Delivery_person_ID             KNPRES01DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.483672
+Restaurant_longitude               80.320708
+Delivery_location_latitude         26.563672
+Delivery_location_longitude        80.400708
+Order_Date                        12-02-2022
+Time_Orderd                            19:15
+Time_Order_picked                      19:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 40018, dtype: object

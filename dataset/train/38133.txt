@@ -1,0 +1,21 @@
+ID                                    0x2155
+Delivery_person_ID             MYSRES20DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.337978
+Restaurant_longitude               76.616792
+Delivery_location_latitude         12.467978
+Delivery_location_longitude        76.746792
+Order_Date                        12-03-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:20
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   13.000000
+Name: 38133, dtype: object

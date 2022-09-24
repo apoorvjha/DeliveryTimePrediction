@@ -1,0 +1,21 @@
+ID                                    0x3521
+Delivery_person_ID             VADRES01DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.377898
+Delivery_location_longitude        73.237788
+Order_Date                        04-04-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:15
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   40.000000
+Name: 36804, dtype: object

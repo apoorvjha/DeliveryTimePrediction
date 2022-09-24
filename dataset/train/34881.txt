@@ -1,0 +1,21 @@
+ID                                    0x70be
+Delivery_person_ID             VADRES01DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.357898
+Delivery_location_longitude        73.217788
+Order_Date                        26-03-2022
+Time_Orderd                            20:20
+Time_Order_picked                      20:25
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   30.000000
+Name: 34881, dtype: object

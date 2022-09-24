@@ -1,0 +1,20 @@
+ID                                        0x92d
+Delivery_person_ID               BANGRES18DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   12.913041
+Restaurant_longitude                  77.683237
+Delivery_location_latitude            13.043041
+Delivery_location_longitude           77.813237
+Order_Date                           02-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         20:55
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                                      Urban
+Name: 1399, dtype: object

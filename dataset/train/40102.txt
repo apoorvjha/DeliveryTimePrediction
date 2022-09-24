@@ -1,0 +1,21 @@
+ID                                     0xbe18
+Delivery_person_ID             PUNERES11DEL01
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 18.533811
+Restaurant_longitude                73.899315
+Delivery_location_latitude          18.543811
+Delivery_location_longitude         73.909315
+Order_Date                         26-03-2022
+Time_Orderd                             10:30
+Time_Order_picked                       10:35
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    22.000000
+Name: 40102, dtype: object

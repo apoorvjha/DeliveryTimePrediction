@@ -1,0 +1,20 @@
+ID                                     0x1efa
+Delivery_person_ID             PUNERES07DEL03
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.546947
+Restaurant_longitude                73.900626
+Delivery_location_latitude          18.636947
+Delivery_location_longitude         73.990626
+Order_Date                         14-03-2022
+Time_Orderd                             17:40
+Time_Order_picked                       17:50
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 6286, dtype: object

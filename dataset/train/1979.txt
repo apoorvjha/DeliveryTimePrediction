@@ -1,0 +1,21 @@
+ID                                    0xdea2
+Delivery_person_ID             DEHRES16DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.342509
+Restaurant_longitude               78.061187
+Delivery_location_latitude         30.472509
+Delivery_location_longitude        78.191187
+Order_Date                        14-02-2022
+Time_Orderd                            17:20
+Time_Order_picked                      17:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 1979, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xde23
+Delivery_person_ID             AGRRES20DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.158822
+Restaurant_longitude               78.045359
+Delivery_location_latitude         27.228822
+Delivery_location_longitude        78.115359
+Order_Date                        18-02-2022
+Time_Orderd                            21:60
+Time_Order_picked                      22:10
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 1274, dtype: object

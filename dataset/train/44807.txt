@@ -1,0 +1,21 @@
+ID                                    0xcf53
+Delivery_person_ID             AGRRES04DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.195928
+Restaurant_longitude               77.998092
+Delivery_location_latitude         27.335928
+Delivery_location_longitude        78.138092
+Order_Date                        16-02-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:30
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 44807, dtype: object

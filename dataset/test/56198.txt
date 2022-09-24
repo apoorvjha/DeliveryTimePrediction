@@ -1,0 +1,20 @@
+ID                                     0xd13e
+Delivery_person_ID             LUDHRES03DEL03
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 30.887220
+Restaurant_longitude                75.804893
+Delivery_location_latitude          30.947220
+Delivery_location_longitude         75.864893
+Order_Date                         13-02-2022
+Time_Orderd                             23:55
+Time_Order_picked                       24:10
+Weather conditions                      Sunny
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 10605, dtype: object

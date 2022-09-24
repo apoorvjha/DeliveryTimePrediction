@@ -1,0 +1,21 @@
+ID                                     0x72e6
+Delivery_person_ID             INDORES06DEL03
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.728163
+Restaurant_longitude                75.884212
+Delivery_location_latitude          22.818163
+Delivery_location_longitude         75.974212
+Order_Date                         08-03-2022
+Time_Orderd                             18:60
+Time_Order_picked                       19:10
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    27.000000
+Name: 16572, dtype: object

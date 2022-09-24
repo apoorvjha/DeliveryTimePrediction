@@ -1,0 +1,21 @@
+ID                                     0x99a8
+Delivery_person_ID             PUNERES20DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.592718
+Restaurant_longitude                73.773572
+Delivery_location_latitude          18.612718
+Delivery_location_longitude         73.793572
+Order_Date                         30-03-2022
+Time_Orderd                              8:50
+Time_Order_picked                        9:05
+Weather conditions                      Sunny
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 25209, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x6796
+Delivery_person_ID               PUNERES17DEL02
+Delivery_person_Age                   21.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   18.530963
+Restaurant_longitude                  73.828972
+Delivery_location_latitude            18.610963
+Delivery_location_longitude           73.908972
+Order_Date                           04-04-2022
+Time_Orderd                               22:60
+Time_Order_picked                         23:10
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      20.000000
+Name: 41386, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xce2d
+Delivery_person_ID             KOLRES08DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.537960
+Restaurant_longitude               88.349843
+Delivery_location_latitude         22.627960
+Delivery_location_longitude        88.439843
+Order_Date                        12-02-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:50
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 6012, dtype: object

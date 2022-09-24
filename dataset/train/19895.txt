@@ -1,0 +1,21 @@
+ID                                    0x7066
+Delivery_person_ID             HYDRES11DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                17.430448
+Restaurant_longitude               78.418213
+Delivery_location_latitude         17.520448
+Delivery_location_longitude        78.508213
+Order_Date                        02-03-2022
+Time_Orderd                            21:40
+Time_Order_picked                      21:45
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   44.000000
+Name: 19895, dtype: object

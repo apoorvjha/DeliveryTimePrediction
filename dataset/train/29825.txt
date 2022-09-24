@@ -1,0 +1,21 @@
+ID                                     0xd63b
+Delivery_person_ID             LUDHRES08DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.899992
+Restaurant_longitude                75.831338
+Delivery_location_latitude          31.029992
+Delivery_location_longitude         75.961338
+Order_Date                         16-02-2022
+Time_Orderd                             23:30
+Time_Order_picked                       23:40
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    23.000000
+Name: 29825, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xb5c9
+Delivery_person_ID             JAPRES14DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.958420
+Delivery_location_longitude        75.870689
+Order_Date                        29-03-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 9891, dtype: object

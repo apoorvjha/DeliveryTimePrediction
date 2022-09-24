@@ -1,0 +1,21 @@
+ID                                    0x9c57
+Delivery_person_ID             HYDRES08DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                17.438263
+Restaurant_longitude               78.397865
+Delivery_location_latitude         17.508263
+Delivery_location_longitude        78.467865
+Order_Date                        25-03-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 32992, dtype: object

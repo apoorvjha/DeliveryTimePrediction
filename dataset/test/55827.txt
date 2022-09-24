@@ -1,0 +1,20 @@
+ID                                    0x3a5d
+Delivery_person_ID             MYSRES01DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.391072
+Delivery_location_longitude        76.734878
+Order_Date                        04-03-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:55
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 10234, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xa4ee
+Delivery_person_ID             INDORES15DEL01
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.770072
+Delivery_location_longitude         75.902574
+Order_Date                         13-03-2022
+Time_Orderd                              8:35
+Time_Order_picked                        8:50
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    29.000000
+Name: 12020, dtype: object

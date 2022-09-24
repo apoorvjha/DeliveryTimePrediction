@@ -1,0 +1,21 @@
+ID                                    0x56e9
+Delivery_person_ID             MYSRES16DEL03
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.316967
+Restaurant_longitude               76.603067
+Delivery_location_latitude         12.406967
+Delivery_location_longitude        76.693067
+Order_Date                        06-03-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   45.000000
+Name: 31296, dtype: object

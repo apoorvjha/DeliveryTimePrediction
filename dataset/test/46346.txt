@@ -1,0 +1,20 @@
+ID                                       0x6557
+Delivery_person_ID             RANCHIRES07DEL02
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.000000
+Restaurant_latitude                   23.359407
+Restaurant_longitude                  85.325055
+Delivery_location_latitude            23.489407
+Delivery_location_longitude           85.455055
+Order_Date                           10-03-2022
+Time_Orderd                               21:25
+Time_Order_picked                         21:40
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                 Semi-Urban
+Name: 753, dtype: object

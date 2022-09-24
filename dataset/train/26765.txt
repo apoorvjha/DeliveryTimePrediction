@@ -1,0 +1,21 @@
+ID                                    0x21ae
+Delivery_person_ID             JAPRES20DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.956431
+Restaurant_longitude               75.776649
+Delivery_location_latitude         27.086431
+Delivery_location_longitude        75.906649
+Order_Date                        02-04-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:50
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   46.000000
+Name: 26765, dtype: object

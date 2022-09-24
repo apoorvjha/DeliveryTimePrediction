@@ -1,0 +1,21 @@
+ID                                     0x881
+Delivery_person_ID             JAPRES11DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.902940
+Restaurant_longitude               75.793007
+Delivery_location_latitude         26.992940
+Delivery_location_longitude        75.883007
+Order_Date                        20-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      21:45
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   44.000000
+Name: 43037, dtype: object

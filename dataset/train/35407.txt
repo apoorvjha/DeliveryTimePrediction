@@ -1,0 +1,21 @@
+ID                                    0x4d38
+Delivery_person_ID             HYDRES18DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.450851
+Restaurant_longitude               78.379347
+Delivery_location_latitude         17.530851
+Delivery_location_longitude        78.459347
+Order_Date                        02-04-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:35
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 35407, dtype: object

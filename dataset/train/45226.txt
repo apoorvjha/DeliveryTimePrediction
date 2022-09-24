@@ -1,0 +1,21 @@
+ID                                    0x6488
+Delivery_person_ID             VADRES03DEL03
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.38
+Delivery_location_longitude            73.23
+Order_Date                        05-04-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:40
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       11.00
+Name: 45226, dtype: object

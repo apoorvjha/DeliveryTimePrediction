@@ -1,0 +1,21 @@
+ID                                    0xc610
+Delivery_person_ID             KOLRES20DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.514119
+Restaurant_longitude               88.362504
+Delivery_location_latitude         22.644119
+Delivery_location_longitude        88.492504
+Order_Date                        18-02-2022
+Time_Orderd                            20:55
+Time_Order_picked                      21:10
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   42.000000
+Name: 20887, dtype: object

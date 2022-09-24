@@ -1,0 +1,20 @@
+ID                                    0x4946
+Delivery_person_ID             VADRES04DEL01
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        08-03-2022
+Time_Orderd                            23:40
+Time_Order_picked                      23:50
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Name: 11, dtype: object

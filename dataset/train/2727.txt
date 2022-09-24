@@ -1,0 +1,21 @@
+ID                                    0xd397
+Delivery_person_ID             BHPRES19DEL01
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        12-02-2022
+Time_Orderd                            20:35
+Time_Order_picked                      20:40
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     3.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       43.00
+Name: 2727, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x7b8f
+Delivery_person_ID             MYSRES07DEL01
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.325461
+Restaurant_longitude               76.632278
+Delivery_location_latitude         12.365461
+Delivery_location_longitude        76.672278
+Order_Date                        09-03-2022
+Time_Orderd                            12:55
+Time_Order_picked                      12:60
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   49.000000
+Name: 12837, dtype: object

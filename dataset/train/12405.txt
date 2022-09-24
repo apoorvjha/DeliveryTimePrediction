@@ -1,0 +1,21 @@
+ID                                     0x9ce5
+Delivery_person_ID             PUNERES20DEL02
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.592718
+Restaurant_longitude                73.773572
+Delivery_location_latitude          18.642718
+Delivery_location_longitude         73.823572
+Order_Date                         15-03-2022
+Time_Orderd                             22:35
+Time_Order_picked                       22:50
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    29.000000
+Name: 12405, dtype: object

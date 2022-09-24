@@ -1,0 +1,21 @@
+ID                                     0xa42
+Delivery_person_ID             VADRES14DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.341603
+Delivery_location_longitude        73.195012
+Order_Date                        13-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      17:55
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 32213, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xbf17
+Delivery_person_ID             GOARES010DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 15.546594
+Restaurant_longitude                73.760431
+Delivery_location_latitude          15.616594
+Delivery_location_longitude         73.830431
+Order_Date                         12-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       22:60
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                       bicycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 9024, dtype: object

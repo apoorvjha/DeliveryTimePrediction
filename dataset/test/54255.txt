@@ -1,0 +1,20 @@
+ID                                     0x8150
+Delivery_person_ID             PUNERES17DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.530963
+Restaurant_longitude                73.828972
+Delivery_location_latitude          18.620963
+Delivery_location_longitude         73.918972
+Order_Date                         31-03-2022
+Time_Orderd                             18:40
+Time_Order_picked                       18:50
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 8662, dtype: object

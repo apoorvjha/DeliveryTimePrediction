@@ -1,0 +1,20 @@
+ID                                    0x92ef
+Delivery_person_ID             MYSRES01DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.351072
+Delivery_location_longitude        76.694878
+Order_Date                        26-03-2022
+Time_Orderd                            13:50
+Time_Order_picked                      13:55
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 11266, dtype: object

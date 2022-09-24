@@ -1,0 +1,21 @@
+ID                                    0x221c
+Delivery_person_ID             SURRES17DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.149569
+Restaurant_longitude               72.772697
+Delivery_location_latitude         21.219569
+Delivery_location_longitude        72.842697
+Order_Date                        23-03-2022
+Time_Orderd                            23:15
+Time_Order_picked                      23:20
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 3066, dtype: object

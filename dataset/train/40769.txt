@@ -1,0 +1,21 @@
+ID                                    0xdb39
+Delivery_person_ID             GOARES20DEL03
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        16-02-2022
+Time_Orderd                            18:30
+Time_Order_picked                      18:45
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       44.00
+Name: 40769, dtype: object

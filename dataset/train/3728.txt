@@ -1,0 +1,21 @@
+ID                                       0xbf3a
+Delivery_person_ID                BHPRES19DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.09
+Delivery_location_longitude                0.09
+Order_Date                           18-02-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         18:30
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        2.00
+Festival                                    Yes
+City                              Metropolitian
+Time_taken (min)                          49.00
+Name: 3728, dtype: object

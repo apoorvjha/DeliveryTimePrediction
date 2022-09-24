@@ -1,0 +1,21 @@
+ID                                    0x5014
+Delivery_person_ID             JAPRES03DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                26.913483
+Restaurant_longitude               75.803139
+Delivery_location_latitude         27.023483
+Delivery_location_longitude        75.913139
+Order_Date                        02-04-2022
+Time_Orderd                            20:15
+Time_Order_picked                      20:20
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                              Semi-Urban
+Time_taken (min)                   48.000000
+Name: 15488, dtype: object

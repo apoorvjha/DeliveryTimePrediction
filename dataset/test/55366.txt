@@ -1,0 +1,20 @@
+ID                                       0x13aa
+Delivery_person_ID             RANCHIRES13DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.374989
+Restaurant_longitude                  85.335486
+Delivery_location_latitude            23.464989
+Delivery_location_longitude           85.425486
+Order_Date                           31-03-2022
+Time_Orderd                               21:35
+Time_Order_picked                         21:45
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                         scooter
+multiple_deliveries                    2.000000
+Festival                                    Yes
+City                                        NaN
+Name: 9773, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xbee6
+Delivery_person_ID             JAPRES06DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                26.911927
+Restaurant_longitude               75.797282
+Delivery_location_latitude         26.931927
+Delivery_location_longitude        75.817282
+Order_Date                        05-04-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:50
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5959, dtype: object

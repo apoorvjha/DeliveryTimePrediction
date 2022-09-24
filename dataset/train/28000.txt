@@ -1,0 +1,21 @@
+ID                                       0x8927
+Delivery_person_ID                MUMRES15DEL01
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   19.176269
+Restaurant_longitude                  72.836721
+Delivery_location_latitude            19.186269
+Delivery_location_longitude           72.846721
+Order_Date                           30-03-2022
+Time_Orderd                                9:10
+Time_Order_picked                          9:20
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      19.000000
+Name: 28000, dtype: object

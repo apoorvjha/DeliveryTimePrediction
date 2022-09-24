@@ -1,0 +1,20 @@
+ID                                      0x4392
+Delivery_person_ID             COIMBRES03DEL02
+Delivery_person_Age                  34.000000
+Delivery_person_Ratings               4.100000
+Restaurant_latitude                  11.025083
+Restaurant_longitude                 77.015393
+Delivery_location_latitude           11.155083
+Delivery_location_longitude          77.145393
+Order_Date                          10-03-2022
+Time_Orderd                              20:15
+Time_Order_picked                        20:30
+Weather conditions                       Sunny
+Road_traffic_density                       Jam
+Vehicle_condition                            0
+Type_of_order                            Snack
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 10801, dtype: object

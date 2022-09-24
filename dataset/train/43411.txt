@@ -1,0 +1,21 @@
+ID                                     0xc27b
+Delivery_person_ID             AURGRES18DEL01
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 19.888716
+Restaurant_longitude                75.321461
+Delivery_location_latitude          19.898716
+Delivery_location_longitude         75.331461
+Order_Date                         11-02-2022
+Time_Orderd                              9:25
+Time_Order_picked                        9:40
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 43411, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x231f
+Delivery_person_ID             MYSRES08DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.307954
+Delivery_location_longitude        76.675169
+Order_Date                        13-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      10:35
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 32871, dtype: object

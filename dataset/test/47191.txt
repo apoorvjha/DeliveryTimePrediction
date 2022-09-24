@@ -1,0 +1,20 @@
+ID                                    0xce42
+Delivery_person_ID             ALHRES08DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.450329
+Restaurant_longitude               81.834279
+Delivery_location_latitude         25.520329
+Delivery_location_longitude        81.904279
+Order_Date                        18-02-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1598, dtype: object

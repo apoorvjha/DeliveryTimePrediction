@@ -1,0 +1,21 @@
+ID                                    0xd534
+Delivery_person_ID             ALHRES05DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                25.457687
+Restaurant_longitude               81.835585
+Delivery_location_latitude         25.547687
+Delivery_location_longitude        81.925585
+Order_Date                        12-02-2022
+Time_Orderd                            21:50
+Time_Order_picked                      22:05
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   42.000000
+Name: 19758, dtype: object

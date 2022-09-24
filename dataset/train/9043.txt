@@ -1,0 +1,21 @@
+ID                                    0xca33
+Delivery_person_ID             GOARES04DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                15.569600
+Restaurant_longitude               73.742294
+Delivery_location_latitude         15.579600
+Delivery_location_longitude        73.752294
+Order_Date                        17-02-2022
+Time_Orderd                            11:20
+Time_Order_picked                      11:25
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 9043, dtype: object

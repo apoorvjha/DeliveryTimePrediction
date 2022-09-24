@@ -1,0 +1,21 @@
+ID                                       0x7d68
+Delivery_person_ID             RANCHIRES18DEL03
+Delivery_person_Age                   26.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   23.351489
+Restaurant_longitude                  85.324253
+Delivery_location_latitude            23.381489
+Delivery_location_longitude           85.354253
+Order_Date                           05-04-2022
+Time_Orderd                               20:10
+Time_Order_picked                         20:15
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             0
+Type_of_order                             Snack
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      28.000000
+Name: 20515, dtype: object

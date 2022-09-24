@@ -1,0 +1,21 @@
+ID                                    0x4a73
+Delivery_person_ID             VADRES07DEL01
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        04-03-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       21.00
+Name: 20294, dtype: object

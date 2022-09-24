@@ -1,0 +1,21 @@
+ID                                     0xc025
+Delivery_person_ID             LUDHRES15DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -30.899584
+Restaurant_longitude                75.809346
+Delivery_location_latitude          30.949584
+Delivery_location_longitude         75.859346
+Order_Date                         11-02-2022
+Time_Orderd                             17:35
+Time_Order_picked                       17:45
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    16.000000
+Name: 33997, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xe0de
+Delivery_person_ID                KNPRES20DEL01
+Delivery_person_Age                       31.00
+Delivery_person_Ratings                    4.70
+Restaurant_latitude                       26.47
+Restaurant_longitude                      80.35
+Delivery_location_latitude                26.58
+Delivery_location_longitude               80.46
+Order_Date                           12-02-2022
+Time_Orderd                               22:50
+Time_Order_picked                         22:60
+Weather conditions                   Sandstorms
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          16.00
+Name: 18202, dtype: object

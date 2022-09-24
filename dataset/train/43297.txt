@@ -1,0 +1,21 @@
+ID                                    0xca98
+Delivery_person_ID             GOARES02DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                15.585658
+Restaurant_longitude               73.743606
+Delivery_location_latitude         15.625658
+Delivery_location_longitude        73.783606
+Order_Date                        15-02-2022
+Time_Orderd                            14:60
+Time_Order_picked                      15:15
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 43297, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x871b
+Delivery_person_ID                MUMRES14DEL02
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   19.181300
+Restaurant_longitude                  72.836191
+Delivery_location_latitude            19.311300
+Delivery_location_longitude           72.966191
+Order_Date                           12-03-2022
+Time_Orderd                               18:15
+Time_Order_picked                         18:20
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      21.000000
+Name: 8425, dtype: object

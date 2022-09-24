@@ -1,0 +1,21 @@
+ID                                    0xbb7b
+Delivery_person_ID             MYSRES16DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.316967
+Restaurant_longitude               76.603067
+Delivery_location_latitude         12.336967
+Delivery_location_longitude        76.623067
+Order_Date                        17-03-2022
+Time_Orderd                            10:35
+Time_Order_picked                      10:50
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 8313, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xc239
+Delivery_person_ID                ALHRES04DEL01
+Delivery_person_Age                       33.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           12-02-2022
+Time_Orderd                               18:15
+Time_Order_picked                         18:30
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          26.00
+Name: 22128, dtype: object

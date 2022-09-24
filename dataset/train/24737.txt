@@ -1,0 +1,21 @@
+ID                                     0x4fcb
+Delivery_person_ID             PUNERES08DEL01
+Delivery_person_Age                  36.00000
+Delivery_person_Ratings               4.60000
+Restaurant_latitude                  18.53408
+Restaurant_longitude                 73.89852
+Delivery_location_latitude           18.57408
+Delivery_location_longitude          73.93852
+Order_Date                         28-03-2022
+Time_Orderd                             16:25
+Time_Order_picked                       16:40
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   1.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     19.00000
+Name: 24737, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x3fc0
+Delivery_person_ID             VADRES03DEL03
+Delivery_person_Age                    32.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.38
+Delivery_location_longitude            73.23
+Order_Date                        17-03-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:10
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       29.00
+Name: 5037, dtype: object

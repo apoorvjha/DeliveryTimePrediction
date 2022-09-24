@@ -1,0 +1,21 @@
+ID                                    0x1153
+Delivery_person_ID             MYSRES11DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.323225
+Restaurant_longitude               76.630028
+Delivery_location_latitude         12.333225
+Delivery_location_longitude        76.640028
+Order_Date                        30-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                       9:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 35783, dtype: object

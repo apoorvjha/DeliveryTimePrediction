@@ -1,0 +1,21 @@
+ID                                    0x9eda
+Delivery_person_ID             JAPRES19DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.913726
+Restaurant_longitude               75.752820
+Delivery_location_latitude         27.023726
+Delivery_location_longitude        75.862820
+Order_Date                        25-03-2022
+Time_Orderd                            20:45
+Time_Order_picked                      20:60
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 44248, dtype: object

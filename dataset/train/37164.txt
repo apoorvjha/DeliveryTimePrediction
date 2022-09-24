@@ -1,0 +1,21 @@
+ID                                    0xc050
+Delivery_person_ID             ALHRES20DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude               -25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.494697
+Delivery_location_longitude        81.874492
+Order_Date                        17-02-2022
+Time_Orderd                            16:40
+Time_Order_picked                      16:50
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 37164, dtype: object

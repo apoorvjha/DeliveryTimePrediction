@@ -1,0 +1,21 @@
+ID                                    0x6190
+Delivery_person_ID             MYSRES01DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.361072
+Delivery_location_longitude        76.704878
+Order_Date                        24-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:60
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 6501, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xbfdd
+Delivery_person_ID             KOLRES18DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.569367
+Restaurant_longitude               88.433187
+Delivery_location_latitude         22.649367
+Delivery_location_longitude        88.513187
+Order_Date                        12-02-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:40
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1318, dtype: object

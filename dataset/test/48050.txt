@@ -1,0 +1,20 @@
+ID                                    0xbf47
+Delivery_person_ID             KOLRES17DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.569358
+Restaurant_longitude               88.433452
+Delivery_location_latitude         22.649358
+Delivery_location_longitude        88.513452
+Order_Date                        18-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:55
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 2457, dtype: object

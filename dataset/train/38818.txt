@@ -1,0 +1,21 @@
+ID                                    0x467e
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        16-03-2022
+Time_Orderd                            23:25
+Time_Order_picked                      23:40
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       27.00
+Name: 38818, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xd0be
+Delivery_person_ID                AGRRES07DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   27.160934
+Restaurant_longitude                  78.044095
+Delivery_location_latitude            27.170934
+Delivery_location_longitude           78.054095
+Order_Date                           13-02-2022
+Time_Orderd                                 NaN
+Time_Order_picked                          9:05
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      17.000000
+Name: 9932, dtype: object

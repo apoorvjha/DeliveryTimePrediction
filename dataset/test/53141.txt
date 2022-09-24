@@ -1,0 +1,20 @@
+ID                                     0x431c
+Delivery_person_ID             VADRES010DEL01
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.350329
+Delivery_location_longitude         73.209083
+Order_Date                         21-03-2022
+Time_Orderd                             15:50
+Time_Order_picked                       16:05
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7548, dtype: object

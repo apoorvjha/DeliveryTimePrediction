@@ -1,0 +1,21 @@
+ID                                      0x4021
+Delivery_person_ID             COIMBRES09DEL02
+Delivery_person_Age                  29.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  11.008638
+Restaurant_longitude                 76.984311
+Delivery_location_latitude           11.088638
+Delivery_location_longitude          77.064311
+Order_Date                          02-04-2022
+Time_Orderd                              18:25
+Time_Order_picked                        18:40
+Weather conditions                      Stormy
+Road_traffic_density                    Medium
+Vehicle_condition                            1
+Type_of_order                             Meal
+Type_of_vehicle                        scooter
+multiple_deliveries                        NaN
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     24.000000
+Name: 40849, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x4d90
+Delivery_person_ID             HYDRES09DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.501668
+Delivery_location_longitude        78.478321
+Order_Date                        06-03-2022
+Time_Orderd                            20:15
+Time_Order_picked                      20:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 10311, dtype: object

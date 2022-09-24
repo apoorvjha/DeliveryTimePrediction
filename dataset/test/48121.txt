@@ -1,0 +1,20 @@
+ID                                    0x66a9
+Delivery_person_ID             JAPRES12DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.902908
+Restaurant_longitude               75.792934
+Delivery_location_latitude         27.042908
+Delivery_location_longitude        75.932934
+Order_Date                        06-04-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:15
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 2528, dtype: object

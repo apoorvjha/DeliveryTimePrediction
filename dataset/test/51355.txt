@@ -1,0 +1,20 @@
+ID                                    0xd378
+Delivery_person_ID             AGRRES19DEL02
+Delivery_person_Age                    36.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        16-02-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 5762, dtype: object

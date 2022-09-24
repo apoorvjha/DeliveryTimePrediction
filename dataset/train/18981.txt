@@ -1,0 +1,21 @@
+ID                                       0x9269
+Delivery_person_ID               INDORES09DEL02
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   22.725835
+Restaurant_longitude                  75.887648
+Delivery_location_latitude            22.775835
+Delivery_location_longitude           75.937648
+Order_Date                           13-03-2022
+Time_Orderd                               20:35
+Time_Order_picked                         20:40
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      26.000000
+Name: 18981, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x4904
+Delivery_person_ID             PUNERES19DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.563934
+Restaurant_longitude                73.915367
+Delivery_location_latitude          18.613934
+Delivery_location_longitude         73.965367
+Order_Date                         03-04-2022
+Time_Orderd                             17:20
+Time_Order_picked                       17:25
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 2008, dtype: object

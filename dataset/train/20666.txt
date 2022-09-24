@@ -1,0 +1,21 @@
+ID                                    0x5a7d
+Delivery_person_ID             SURRES13DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.170096
+Restaurant_longitude               72.789122
+Delivery_location_latitude         21.240096
+Delivery_location_longitude        72.859122
+Order_Date                        16-03-2022
+Time_Orderd                            17:50
+Time_Order_picked                      18:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   34.000000
+Name: 20666, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xdfbe
+Delivery_person_ID             KOLRES18DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.569367
+Restaurant_longitude               88.433187
+Delivery_location_latitude         22.639367
+Delivery_location_longitude        88.503187
+Order_Date                        14-02-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:30
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   12.000000
+Name: 37765, dtype: object

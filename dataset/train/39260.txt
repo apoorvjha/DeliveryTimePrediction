@@ -1,0 +1,21 @@
+ID                                       0xd200
+Delivery_person_ID                ALHRES02DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   25.453436
+Restaurant_longitude                  81.833167
+Delivery_location_latitude            25.523436
+Delivery_location_longitude           81.903167
+Order_Date                           16-02-2022
+Time_Orderd                               23:10
+Time_Order_picked                         23:25
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      20.000000
+Name: 39260, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x2970
+Delivery_person_ID             COIMBRES010DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   11.003008
+Restaurant_longitude                  76.975440
+Delivery_location_latitude            11.073009
+Delivery_location_longitude           77.045440
+Order_Date                           27-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:55
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      27.000000
+Name: 3610, dtype: object

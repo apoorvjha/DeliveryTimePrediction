@@ -1,0 +1,21 @@
+ID                                     0x6390
+Delivery_person_ID             PUNERES06DEL01
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.546258
+Restaurant_longitude                73.904337
+Delivery_location_latitude          18.556258
+Delivery_location_longitude         73.914337
+Order_Date                         11-03-2022
+Time_Orderd                              8:55
+Time_Order_picked                        9:10
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    24.000000
+Name: 16190, dtype: object

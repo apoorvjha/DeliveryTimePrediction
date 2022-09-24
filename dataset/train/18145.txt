@@ -1,0 +1,21 @@
+ID                                     0x408
+Delivery_person_ID             HYDRES09DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.511668
+Delivery_location_longitude        78.488321
+Order_Date                        20-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:40
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 18145, dtype: object

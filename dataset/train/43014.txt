@@ -1,0 +1,21 @@
+ID                                    0x5863
+Delivery_person_ID             VADRES15DEL01
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.10
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        13-03-2022
+Time_Orderd                             9:50
+Time_Order_picked                      10:05
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       28.00
+Name: 43014, dtype: object

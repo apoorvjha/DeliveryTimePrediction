@@ -1,0 +1,21 @@
+ID                                    0xc220
+Delivery_person_ID             KOCRES09DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                10.000706
+Restaurant_longitude               76.349516
+Delivery_location_latitude         10.110706
+Delivery_location_longitude        76.459516
+Order_Date                        14-02-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:10
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   44.000000
+Name: 323, dtype: object

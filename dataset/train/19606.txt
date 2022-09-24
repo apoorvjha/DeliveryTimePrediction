@@ -1,0 +1,21 @@
+ID                                       0xdfb1
+Delivery_person_ID                ALHRES02DEL03
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   25.453436
+Restaurant_longitude                  81.833167
+Delivery_location_latitude            25.543436
+Delivery_location_longitude           81.923167
+Order_Date                           12-02-2022
+Time_Orderd                               23:20
+Time_Order_picked                         23:35
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      31.000000
+Name: 19606, dtype: object

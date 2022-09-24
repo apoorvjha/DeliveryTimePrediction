@@ -1,0 +1,21 @@
+ID                                     0xe248
+Delivery_person_ID             AURGRES01DEL01
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.876219
+Restaurant_longitude                75.346017
+Delivery_location_latitude          19.886219
+Delivery_location_longitude         75.356017
+Order_Date                         15-02-2022
+Time_Orderd                             11:50
+Time_Order_picked                       11:55
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    28.000000
+Name: 39689, dtype: object

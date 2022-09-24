@@ -1,0 +1,20 @@
+ID                                     0x96dc
+Delivery_person_ID             INDORES15DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.840072
+Delivery_location_longitude         75.972574
+Order_Date                         10-03-2022
+Time_Orderd                             19:15
+Time_Order_picked                       19:20
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                  Yes
+City                            Metropolitian
+Name: 9978, dtype: object

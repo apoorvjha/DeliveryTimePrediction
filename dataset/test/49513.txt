@@ -1,0 +1,20 @@
+ID                                    0xd335
+Delivery_person_ID             DEHRES07DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                30.362686
+Restaurant_longitude               78.068890
+Delivery_location_latitude         30.492686
+Delivery_location_longitude        78.198890
+Order_Date                        16-02-2022
+Time_Orderd                            19:50
+Time_Order_picked                      20:05
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3920, dtype: object

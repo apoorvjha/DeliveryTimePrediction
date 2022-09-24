@@ -1,0 +1,21 @@
+ID                                       0xdf1c
+Delivery_person_ID                AGRRES07DEL03
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   27.160934
+Restaurant_longitude                  78.044095
+Delivery_location_latitude            27.300934
+Delivery_location_longitude           78.184095
+Order_Date                           18-02-2022
+Time_Orderd                               21:20
+Time_Order_picked                         21:30
+Weather conditions                       Stormy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      21.000000
+Name: 23531, dtype: object

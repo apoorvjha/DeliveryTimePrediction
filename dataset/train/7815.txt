@@ -1,0 +1,21 @@
+ID                                      0xbed
+Delivery_person_ID             CHENRES12DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.972793
+Restaurant_longitude                80.249982
+Delivery_location_latitude          12.992793
+Delivery_location_longitude         80.269982
+Order_Date                         17-03-2022
+Time_Orderd                              9:15
+Time_Order_picked                        9:30
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    16.000000
+Name: 7815, dtype: object

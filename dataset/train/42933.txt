@@ -1,0 +1,21 @@
+ID                                        0x479
+Delivery_person_ID               PUNERES19DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   18.563934
+Restaurant_longitude                  73.915367
+Delivery_location_latitude            18.633934
+Delivery_location_longitude           73.985367
+Order_Date                           04-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         24:15
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      22.000000
+Name: 42933, dtype: object

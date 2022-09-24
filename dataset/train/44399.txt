@@ -1,0 +1,21 @@
+ID                                    0x7981
+Delivery_person_ID             VADRES04DEL02
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        08-03-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       36.00
+Name: 44399, dtype: object

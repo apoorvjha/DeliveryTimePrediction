@@ -1,0 +1,20 @@
+ID                                     0x935
+Delivery_person_ID             MYSRES07DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.325461
+Restaurant_longitude               76.632278
+Delivery_location_latitude         12.405461
+Delivery_location_longitude        76.712278
+Order_Date                        04-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:25
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8840, dtype: object

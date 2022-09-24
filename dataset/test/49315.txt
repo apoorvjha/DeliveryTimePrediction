@@ -1,0 +1,20 @@
+ID                                    0x6395
+Delivery_person_ID             MYSRES09DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.323194
+Restaurant_longitude               76.630583
+Delivery_location_latitude         12.453194
+Delivery_location_longitude        76.760583
+Order_Date                        18-03-2022
+Time_Orderd                            18:30
+Time_Order_picked                      18:45
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3722, dtype: object

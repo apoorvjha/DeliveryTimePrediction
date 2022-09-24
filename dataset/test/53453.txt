@@ -1,0 +1,20 @@
+ID                                    0xe1d3
+Delivery_person_ID             KNPRES01DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.483672
+Restaurant_longitude               80.320708
+Delivery_location_latitude         26.563672
+Delivery_location_longitude        80.400708
+Order_Date                        16-02-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:40
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7860, dtype: object

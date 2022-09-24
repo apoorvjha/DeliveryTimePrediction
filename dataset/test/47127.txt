@@ -1,0 +1,20 @@
+ID                                       0x48d9
+Delivery_person_ID               CHENRES14DEL03
+Delivery_person_Age                   37.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   13.026279
+Restaurant_longitude                  80.174568
+Delivery_location_latitude            13.086279
+Delivery_location_longitude           80.234568
+Order_Date                           19-03-2022
+Time_Orderd                               21:30
+Time_Order_picked                         21:45
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 1534, dtype: object

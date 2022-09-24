@@ -1,0 +1,21 @@
+ID                                       0x2c94
+Delivery_person_ID               HYDRES010DEL01
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   17.428294
+Restaurant_longitude                  78.404423
+Delivery_location_latitude            17.498294
+Delivery_location_longitude           78.474423
+Order_Date                           20-03-2022
+Time_Orderd                               23:25
+Time_Order_picked                         23:30
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      16.000000
+Name: 41889, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x4531
+Delivery_person_ID             INDORES09DEL01
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.765835
+Delivery_location_longitude         75.927648
+Order_Date                         13-03-2022
+Time_Orderd                             14:10
+Time_Order_picked                       14:20
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  3.000000
+Festival                                  Yes
+City                               Semi-Urban
+Time_taken (min)                    49.000000
+Name: 34692, dtype: object

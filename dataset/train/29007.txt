@@ -1,0 +1,21 @@
+ID                                    0x9696
+Delivery_person_ID             JAPRES03DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.913483
+Restaurant_longitude               75.803139
+Delivery_location_latitude         27.043483
+Delivery_location_longitude        75.933139
+Order_Date                        27-03-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:40
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   26.000000
+Name: 29007, dtype: object

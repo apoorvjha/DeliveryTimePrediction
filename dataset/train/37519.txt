@@ -1,0 +1,21 @@
+ID                                    0xbf12
+Delivery_person_ID             BHPRES20DEL03
+Delivery_person_Age                50.000000
+Delivery_person_Ratings             6.000000
+Restaurant_latitude                23.235123
+Restaurant_longitude               77.398886
+Delivery_location_latitude         23.325123
+Delivery_location_longitude        77.488886
+Order_Date                        16-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:10
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      bicycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   39.000000
+Name: 37519, dtype: object

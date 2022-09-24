@@ -1,0 +1,21 @@
+ID                                       0x6170
+Delivery_person_ID                MYSRES11DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   12.323225
+Restaurant_longitude                  76.630028
+Delivery_location_latitude            12.413225
+Delivery_location_longitude           76.720028
+Order_Date                           06-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:45
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      18.000000
+Name: 45043, dtype: object

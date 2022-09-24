@@ -1,0 +1,21 @@
+ID                                    0xc167
+Delivery_person_ID             KNPRES03DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.469003
+Restaurant_longitude               80.316344
+Delivery_location_latitude         26.489003
+Delivery_location_longitude        80.336344
+Order_Date                        13-02-2022
+Time_Orderd                             8:30
+Time_Order_picked                       8:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   13.000000
+Name: 41333, dtype: object

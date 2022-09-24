@@ -1,0 +1,21 @@
+ID                                     0x70a2
+Delivery_person_ID             CHENRES12DEL01
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.972793
+Restaurant_longitude                80.249982
+Delivery_location_latitude          13.012793
+Delivery_location_longitude         80.289982
+Order_Date                         26-03-2022
+Time_Orderd                             13:30
+Time_Order_picked                       13:45
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 1000, dtype: object

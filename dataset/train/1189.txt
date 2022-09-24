@@ -1,0 +1,21 @@
+ID                                     0x69d7
+Delivery_person_ID             INDORES16DEL02
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.874648
+Delivery_location_longitude         76.024377
+Order_Date                         16-03-2022
+Time_Orderd                             21:35
+Time_Order_picked                       21:45
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    27.000000
+Name: 1189, dtype: object

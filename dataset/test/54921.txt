@@ -1,0 +1,20 @@
+ID                                    0xc988
+Delivery_person_ID             KOCRES05DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                 9.970717
+Restaurant_longitude               76.285447
+Delivery_location_latitude         10.010717
+Delivery_location_longitude        76.325447
+Order_Date                        11-02-2022
+Time_Orderd                            13:15
+Time_Order_picked                      13:25
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9328, dtype: object

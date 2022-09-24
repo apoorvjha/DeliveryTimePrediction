@@ -1,0 +1,21 @@
+ID                                     0xc314
+Delivery_person_ID             LUDHRES04DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 30.914057
+Restaurant_longitude                75.839820
+Delivery_location_latitude          30.994057
+Delivery_location_longitude         75.919820
+Order_Date                         16-02-2022
+Time_Orderd                             22:40
+Time_Order_picked                       22:50
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    21.000000
+Name: 38242, dtype: object

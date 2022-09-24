@@ -1,0 +1,21 @@
+ID                                     0x63c2
+Delivery_person_ID             INDORES16DEL01
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.784648
+Delivery_location_longitude         75.934377
+Order_Date                         28-03-2022
+Time_Orderd                             16:20
+Time_Order_picked                       16:35
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    25.000000
+Name: 45450, dtype: object

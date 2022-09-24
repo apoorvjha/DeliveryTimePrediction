@@ -1,0 +1,21 @@
+ID                                     0xcf4
+Delivery_person_ID             VADRES14DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.391603
+Delivery_location_longitude        73.245012
+Order_Date                        04-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:40
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   43.000000
+Name: 20289, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xd458
+Delivery_person_ID             DEHRES02DEL02
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        11-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:35
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 9459, dtype: object

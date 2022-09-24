@@ -1,0 +1,21 @@
+ID                                    0xcf26
+Delivery_person_ID             KNPRES19DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.490950
+Restaurant_longitude               80.318656
+Delivery_location_latitude         26.580950
+Delivery_location_longitude        80.408656
+Order_Date                        14-02-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:25
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 7018, dtype: object

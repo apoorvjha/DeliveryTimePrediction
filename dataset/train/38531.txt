@@ -1,0 +1,21 @@
+ID                                      0x69c
+Delivery_person_ID             INDORES09DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.755835
+Delivery_location_longitude         75.917648
+Order_Date                         13-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       17:50
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    16.000000
+Name: 38531, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x7a1c
+Delivery_person_ID             MYSRES01DEL01
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.351072
+Delivery_location_longitude        76.694878
+Order_Date                        21-03-2022
+Time_Orderd                            12:50
+Time_Order_picked                      13:05
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5392, dtype: object

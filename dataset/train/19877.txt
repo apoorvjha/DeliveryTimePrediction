@@ -1,0 +1,21 @@
+ID                                     0xe016
+Delivery_person_ID             AURGRES02DEL01
+Delivery_person_Age                     24.00
+Delivery_person_Ratings                  4.70
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.11
+Delivery_location_longitude              0.11
+Order_Date                         16-02-2022
+Time_Orderd                             22:15
+Time_Order_picked                       22:30
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                      1.00
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                        19.00
+Name: 19877, dtype: object

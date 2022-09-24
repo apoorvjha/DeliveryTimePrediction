@@ -1,0 +1,21 @@
+ID                                    0x1c63
+Delivery_person_ID             MUMRES12DEL03
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.207222
+Restaurant_longitude               72.972281
+Delivery_location_latitude         19.237222
+Delivery_location_longitude        73.002281
+Order_Date                        21-03-2022
+Time_Orderd                            20:55
+Time_Order_picked                      20:60
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 1662, dtype: object

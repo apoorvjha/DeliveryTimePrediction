@@ -1,0 +1,20 @@
+ID                                    0xd25e
+Delivery_person_ID             KNPRES12DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.492106
+Restaurant_longitude               80.327797
+Delivery_location_latitude         26.532106
+Delivery_location_longitude        80.367797
+Order_Date                        13-02-2022
+Time_Orderd                            14:25
+Time_Order_picked                      14:40
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 6148, dtype: object

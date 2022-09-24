@@ -1,0 +1,21 @@
+ID                                    0x9a22
+Delivery_person_ID             VADRES14DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.441603
+Delivery_location_longitude        73.295012
+Order_Date                        10-03-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:05
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 41026, dtype: object

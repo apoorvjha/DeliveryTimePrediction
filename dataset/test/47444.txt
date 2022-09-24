@@ -1,0 +1,20 @@
+ID                                    0x1d05
+Delivery_person_ID             JAPRES12DEL01
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.902908
+Restaurant_longitude               75.792934
+Delivery_location_latitude         26.972908
+Delivery_location_longitude        75.862934
+Order_Date                        20-03-2022
+Time_Orderd                            23:15
+Time_Order_picked                      23:30
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 1851, dtype: object

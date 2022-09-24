@@ -1,0 +1,21 @@
+ID                                    0x238a
+Delivery_person_ID             MUMRES11DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                18.994237
+Restaurant_longitude               72.825553
+Delivery_location_latitude         19.124237
+Delivery_location_longitude        72.955553
+Order_Date                        10-03-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:40
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 3.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   42.000000
+Name: 27536, dtype: object

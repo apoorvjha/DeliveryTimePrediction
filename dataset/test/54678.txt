@@ -1,0 +1,20 @@
+ID                                    0xdc6d
+Delivery_person_ID             ALHRES01DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                25.454648
+Restaurant_longitude               81.834502
+Delivery_location_latitude         25.504648
+Delivery_location_longitude        81.884502
+Order_Date                        11-02-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:55
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                 NaN
+City                           Metropolitian
+Name: 9085, dtype: object

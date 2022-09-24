@@ -1,0 +1,20 @@
+ID                                      0x9145
+Delivery_person_ID             COIMBRES04DEL02
+Delivery_person_Age                  35.000000
+Delivery_person_Ratings               4.300000
+Restaurant_latitude                  11.024839
+Restaurant_longitude                 77.007003
+Delivery_location_latitude           11.074839
+Delivery_location_longitude          77.057003
+Order_Date                          05-04-2022
+Time_Orderd                              19:45
+Time_Order_picked                        19:55
+Weather conditions                      Stormy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 7252, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x1894
+Delivery_person_ID             BANGRES06DEL01
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.979096
+Restaurant_longitude                77.640625
+Delivery_location_latitude          12.989096
+Delivery_location_longitude         77.650625
+Order_Date                         01-04-2022
+Time_Orderd                             11:50
+Time_Order_picked                       12:05
+Weather conditions                        Fog
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    20.000000
+Name: 5401, dtype: object

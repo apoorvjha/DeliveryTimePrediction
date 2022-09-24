@@ -1,0 +1,21 @@
+ID                                    0x7f52
+Delivery_person_ID             JAPRES14DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.928420
+Delivery_location_longitude        75.840689
+Order_Date                        28-03-2022
+Time_Orderd                            16:25
+Time_Order_picked                      16:40
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   32.000000
+Name: 21168, dtype: object

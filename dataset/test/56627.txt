@@ -1,0 +1,20 @@
+ID                                    0xd22f
+Delivery_person_ID             KNPRES15DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.482419
+Restaurant_longitude               80.320939
+Delivery_location_latitude         26.592419
+Delivery_location_longitude        80.430939
+Order_Date                        12-02-2022
+Time_Orderd                            17:10
+Time_Order_picked                      17:20
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 11034, dtype: object

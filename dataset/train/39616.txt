@@ -1,0 +1,21 @@
+ID                                    0x8259
+Delivery_person_ID             HYDRES09DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.441668
+Delivery_location_longitude        78.418321
+Order_Date                        03-04-2022
+Time_Orderd                             9:20
+Time_Order_picked                       9:30
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   10.000000
+Name: 39616, dtype: object

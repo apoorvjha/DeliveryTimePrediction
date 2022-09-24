@@ -1,0 +1,21 @@
+ID                                    0x6ca3
+Delivery_person_ID             VADRES19DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.311844
+Restaurant_longitude               73.165081
+Delivery_location_latitude         22.381844
+Delivery_location_longitude        73.235081
+Order_Date                        04-04-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:60
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   42.000000
+Name: 36227, dtype: object

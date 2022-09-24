@@ -1,0 +1,21 @@
+ID                                    0x8165
+Delivery_person_ID             VADRES13DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.320237
+Delivery_location_longitude        73.168921
+Order_Date                        17-03-2022
+Time_Orderd                            10:45
+Time_Order_picked                      10:60
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   19.000000
+Name: 42524, dtype: object

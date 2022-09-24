@@ -1,0 +1,21 @@
+ID                                       0x71af
+Delivery_person_ID               INDORES19DEL02
+Delivery_person_Age                   20.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   22.745536
+Restaurant_longitude                  75.893106
+Delivery_location_latitude            22.795536
+Delivery_location_longitude           75.943106
+Order_Date                           15-03-2022
+Time_Orderd                               20:55
+Time_Order_picked                         21:05
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      18.000000
+Name: 22546, dtype: object

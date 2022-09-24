@@ -1,0 +1,21 @@
+ID                                    0x4550
+Delivery_person_ID             VADRES05DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.310526
+Restaurant_longitude               73.170937
+Delivery_location_latitude         22.340526
+Delivery_location_longitude        73.200937
+Order_Date                        09-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:10
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 25039, dtype: object

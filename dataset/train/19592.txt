@@ -1,0 +1,21 @@
+ID                                       0x711
+Delivery_person_ID             COIMBRES02DEL02
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  11.022477
+Restaurant_longitude                 76.995667
+Delivery_location_latitude           11.152477
+Delivery_location_longitude          77.125667
+Order_Date                          02-03-2022
+Time_Orderd                                NaN
+Time_Order_picked                        19:05
+Weather conditions                      Cloudy
+Road_traffic_density                    Medium
+Vehicle_condition                            1
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     30.000000
+Name: 19592, dtype: object

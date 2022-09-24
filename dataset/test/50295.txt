@@ -1,0 +1,20 @@
+ID                                     0x7683
+Delivery_person_ID             PUNERES13DEL01
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 18.562450
+Restaurant_longitude                73.916619
+Delivery_location_latitude          18.672450
+Delivery_location_longitude         74.026619
+Order_Date                         02-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:10
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 4702, dtype: object

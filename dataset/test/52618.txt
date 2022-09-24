@@ -1,0 +1,20 @@
+ID                                    0x8160
+Delivery_person_ID             VADRES07DEL01
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        26-03-2022
+Time_Orderd                            14:30
+Time_Order_picked                      14:35
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 7025, dtype: object

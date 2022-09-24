@@ -1,0 +1,21 @@
+ID                                       0xbf28
+Delivery_person_ID                KNPRES20DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                       26.47
+Restaurant_longitude                      80.35
+Delivery_location_latitude                26.60
+Delivery_location_longitude               80.48
+Order_Date                           18-02-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:20
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          21.00
+Name: 2000, dtype: object

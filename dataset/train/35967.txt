@@ -1,0 +1,21 @@
+ID                                    0x4363
+Delivery_person_ID             MUMRES17DEL03
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                19.121999
+Restaurant_longitude               72.908493
+Delivery_location_latitude         19.211999
+Delivery_location_longitude        72.998493
+Order_Date                        18-03-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 35967, dtype: object

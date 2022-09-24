@@ -1,0 +1,21 @@
+ID                                    0xde60
+Delivery_person_ID             BHPRES06DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.232357
+Restaurant_longitude               77.429989
+Delivery_location_latitude         23.282357
+Delivery_location_longitude        77.479989
+Order_Date                        15-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:20
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 7574, dtype: object

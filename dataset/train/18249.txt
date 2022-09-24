@@ -1,0 +1,21 @@
+ID                                     0x9d67
+Delivery_person_ID             INDORES03DEL03
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.751857
+Restaurant_longitude                75.866699
+Delivery_location_latitude          22.811857
+Delivery_location_longitude         75.926699
+Order_Date                         15-03-2022
+Time_Orderd                             17:30
+Time_Order_picked                       17:40
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    28.000000
+Name: 18249, dtype: object

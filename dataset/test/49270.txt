@@ -1,0 +1,20 @@
+ID                                    0x331b
+Delivery_person_ID             MUMRES20DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                19.103249
+Restaurant_longitude               72.846749
+Delivery_location_latitude         19.163249
+Delivery_location_longitude        72.906749
+Order_Date                        01-04-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3677, dtype: object

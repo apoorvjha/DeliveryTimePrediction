@@ -1,0 +1,20 @@
+ID                                    0x28c8
+Delivery_person_ID             MYSRES19DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.384022
+Delivery_location_longitude        76.668203
+Order_Date                        30-03-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 10018, dtype: object

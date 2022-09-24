@@ -1,0 +1,21 @@
+ID                                    0xc469
+Delivery_person_ID             BHPRES01DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                23.211529
+Restaurant_longitude               77.419399
+Delivery_location_latitude         23.291529
+Delivery_location_longitude        77.499399
+Order_Date                        18-02-2022
+Time_Orderd                            17:55
+Time_Order_picked                      17:60
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 38954, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x8982
+Delivery_person_ID             INDORES04DEL03
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.753659
+Restaurant_longitude                75.903365
+Delivery_location_latitude          22.783659
+Delivery_location_longitude         75.933365
+Order_Date                         19-03-2022
+Time_Orderd                             20:15
+Time_Order_picked                       20:25
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 2568, dtype: object

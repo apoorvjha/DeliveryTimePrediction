@@ -1,0 +1,21 @@
+ID                                    0xdca7
+Delivery_person_ID             ALHRES11DEL02
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        17-02-2022
+Time_Orderd                             9:20
+Time_Order_picked                       9:35
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       11.00
+Name: 8623, dtype: object

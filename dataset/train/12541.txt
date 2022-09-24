@@ -1,0 +1,21 @@
+ID                                    0x3926
+Delivery_person_ID             JAPRES09DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.911378
+Restaurant_longitude               75.789034
+Delivery_location_latitude         27.041378
+Delivery_location_longitude        75.919034
+Order_Date                        31-03-2022
+Time_Orderd                            23:55
+Time_Order_picked                      24:10
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 12541, dtype: object

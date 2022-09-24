@@ -1,0 +1,21 @@
+ID                                    0xda16
+Delivery_person_ID             KOLRES06DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                22.533662
+Restaurant_longitude               88.366217
+Delivery_location_latitude         22.553662
+Delivery_location_longitude        88.386217
+Order_Date                        13-02-2022
+Time_Orderd                             8:55
+Time_Order_picked                       9:10
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 31208, dtype: object

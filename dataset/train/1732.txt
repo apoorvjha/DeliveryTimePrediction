@@ -1,0 +1,21 @@
+ID                                    0x6396
+Delivery_person_ID             HYDRES09DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             3.400000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.521668
+Delivery_location_longitude        78.498321
+Order_Date                        02-03-2022
+Time_Orderd                            23:40
+Time_Order_picked                      23:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   34.000000
+Name: 1732, dtype: object

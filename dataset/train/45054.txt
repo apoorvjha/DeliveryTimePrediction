@@ -1,0 +1,21 @@
+ID                                       0x3afa
+Delivery_person_ID             RANCHIRES14DEL02
+Delivery_person_Age                       30.00
+Delivery_person_Ratings                    4.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.13
+Delivery_location_longitude                0.13
+Order_Date                           31-03-2022
+Time_Orderd                               18:50
+Time_Order_picked                         19:05
+Weather conditions                        Windy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                         scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          20.00
+Name: 45054, dtype: object

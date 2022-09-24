@@ -1,0 +1,21 @@
+ID                                      0xd4a
+Delivery_person_ID             INDORES04DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.753659
+Restaurant_longitude                75.903365
+Delivery_location_latitude          22.793659
+Delivery_location_longitude         75.943365
+Order_Date                         09-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       12:30
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 34426, dtype: object

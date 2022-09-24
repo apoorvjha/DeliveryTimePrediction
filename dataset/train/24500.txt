@@ -1,0 +1,21 @@
+ID                                       0x5195
+Delivery_person_ID             RANCHIRES12DEL02
+Delivery_person_Age                       34.00
+Delivery_person_Ratings                    3.80
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.13
+Delivery_location_longitude                0.13
+Order_Date                           04-04-2022
+Time_Orderd                               21:60
+Time_Order_picked                         22:10
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             1
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          37.00
+Name: 24500, dtype: object

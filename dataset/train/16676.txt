@@ -1,0 +1,21 @@
+ID                                    0x7563
+Delivery_person_ID             VADRES01DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.437898
+Delivery_location_longitude        73.297788
+Order_Date                        23-03-2022
+Time_Orderd                            17:15
+Time_Order_picked                      17:20
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 16676, dtype: object

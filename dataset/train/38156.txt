@@ -1,0 +1,21 @@
+ID                                     0x624a
+Delivery_person_ID             INDORES18DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 22.753839
+Restaurant_longitude                75.897429
+Delivery_location_latitude          22.793838
+Delivery_location_longitude         75.937429
+Order_Date                         17-03-2022
+Time_Orderd                             12:55
+Time_Order_picked                       12:60
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    51.000000
+Name: 38156, dtype: object

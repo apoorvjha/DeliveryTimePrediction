@@ -1,0 +1,21 @@
+ID                                     0x5de
+Delivery_person_ID             HYDRES07DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.424114
+Restaurant_longitude               78.347554
+Delivery_location_latitude         17.504114
+Delivery_location_longitude        78.427554
+Order_Date                        23-03-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 3.000000
+Festival                                  No
+City                              Semi-Urban
+Time_taken (min)                   48.000000
+Name: 20080, dtype: object

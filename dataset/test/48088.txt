@@ -1,0 +1,20 @@
+ID                                    0xc262
+Delivery_person_ID             DEHRES03DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.385259
+Delivery_location_longitude        78.103162
+Order_Date                        11-02-2022
+Time_Orderd                            22:20
+Time_Order_picked                      22:35
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 2495, dtype: object

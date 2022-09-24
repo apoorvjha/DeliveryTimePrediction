@@ -1,0 +1,21 @@
+ID                                     0x6ccb
+Delivery_person_ID             CHENRES05DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.058616
+Restaurant_longitude                80.264151
+Delivery_location_latitude          13.128616
+Delivery_location_longitude         80.334151
+Order_Date                         08-03-2022
+Time_Orderd                             21:60
+Time_Order_picked                       22:15
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 4788, dtype: object

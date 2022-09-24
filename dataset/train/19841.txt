@@ -1,0 +1,21 @@
+ID                                    0xd1a2
+Delivery_person_ID             ALHRES01DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.454648
+Restaurant_longitude               81.834502
+Delivery_location_latitude         25.484648
+Delivery_location_longitude        81.864502
+Order_Date                        17-02-2022
+Time_Orderd                            17:55
+Time_Order_picked                      17:60
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 19841, dtype: object

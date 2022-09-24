@@ -1,0 +1,20 @@
+ID                                    0xd6f7
+Delivery_person_ID             AGRRES06DEL02
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        13-02-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:45
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 10224, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x543f
+Delivery_person_ID             HYDRES15DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.479710
+Delivery_location_longitude        78.388855
+Order_Date                        30-03-2022
+Time_Orderd                             8:45
+Time_Order_picked                       8:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 42448, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xcca4
+Delivery_person_ID             AURGRES08DEL02
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 19.876428
+Restaurant_longitude                75.364792
+Delivery_location_latitude          19.956428
+Delivery_location_longitude         75.444792
+Order_Date                         14-02-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:55
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 1770, dtype: object

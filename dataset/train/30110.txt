@@ -1,0 +1,21 @@
+ID                                     0xcc36
+Delivery_person_ID             AURGRES05DEL01
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 19.875522
+Restaurant_longitude                75.367127
+Delivery_location_latitude          19.885522
+Delivery_location_longitude         75.377127
+Order_Date                         11-02-2022
+Time_Orderd                              9:55
+Time_Order_picked                        9:60
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    25.000000
+Name: 30110, dtype: object

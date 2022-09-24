@@ -1,0 +1,21 @@
+ID                                       0xd533
+Delivery_person_ID              AURGRES010DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   19.875337
+Restaurant_longitude                  75.316722
+Delivery_location_latitude            19.915337
+Delivery_location_longitude           75.356722
+Order_Date                           17-02-2022
+Time_Orderd                               15:25
+Time_Order_picked                         15:40
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      33.000000
+Name: 21173, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xa466
+Delivery_person_ID             PUNERES19DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 18.563934
+Restaurant_longitude                73.915367
+Delivery_location_latitude          18.613934
+Delivery_location_longitude         73.965367
+Order_Date                         24-03-2022
+Time_Orderd                             22:35
+Time_Order_picked                       22:45
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 4482, dtype: object

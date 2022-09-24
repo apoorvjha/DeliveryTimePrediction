@@ -1,0 +1,21 @@
+ID                                    0xdafe
+Delivery_person_ID             DEHRES04DEL03
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.340722
+Restaurant_longitude               78.060221
+Delivery_location_latitude         30.370722
+Delivery_location_longitude        78.090221
+Order_Date                        15-02-2022
+Time_Orderd                            18:30
+Time_Order_picked                      18:45
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 41038, dtype: object

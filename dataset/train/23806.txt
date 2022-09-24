@@ -1,0 +1,21 @@
+ID                                     0xa29
+Delivery_person_ID             JAPRES05DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.905287
+Restaurant_longitude               75.794592
+Delivery_location_latitude         26.955287
+Delivery_location_longitude        75.844592
+Order_Date                        05-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:60
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      bicycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   25.000000
+Name: 23806, dtype: object

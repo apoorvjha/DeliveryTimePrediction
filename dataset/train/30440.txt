@@ -1,0 +1,21 @@
+ID                                    0xd390
+Delivery_person_ID             GOARES16DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                15.498603
+Restaurant_longitude               73.826911
+Delivery_location_latitude         15.628603
+Delivery_location_longitude        73.956911
+Order_Date                        12-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:35
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   36.000000
+Name: 30440, dtype: object

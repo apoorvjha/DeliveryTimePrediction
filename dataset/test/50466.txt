@@ -1,0 +1,20 @@
+ID                                     0xdb52
+Delivery_person_ID             AURGRES09DEL02
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 19.874103
+Restaurant_longitude                75.368419
+Delivery_location_latitude          20.004103
+Delivery_location_longitude         75.498419
+Order_Date                         18-02-2022
+Time_Orderd                             17:35
+Time_Order_picked                       17:40
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 4873, dtype: object

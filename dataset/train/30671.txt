@@ -1,0 +1,21 @@
+ID                                    0x8437
+Delivery_person_ID             MUMRES07DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                19.091458
+Restaurant_longitude               72.827808
+Delivery_location_latitude         19.181458
+Delivery_location_longitude        72.917808
+Order_Date                        18-03-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 30671, dtype: object

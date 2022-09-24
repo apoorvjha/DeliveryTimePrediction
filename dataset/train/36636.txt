@@ -1,0 +1,21 @@
+ID                                    0xc8cb
+Delivery_person_ID             KOCRES19DEL03
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.960846
+Restaurant_longitude               76.293936
+Delivery_location_latitude         10.020846
+Delivery_location_longitude        76.353936
+Order_Date                        15-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:55
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 36636, dtype: object

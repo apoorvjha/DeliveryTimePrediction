@@ -1,0 +1,21 @@
+ID                                    0x1b6d
+Delivery_person_ID             JAPRES06DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.911927
+Restaurant_longitude               75.797282
+Delivery_location_latitude         26.991927
+Delivery_location_longitude        75.877282
+Order_Date                        06-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:60
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 31921, dtype: object

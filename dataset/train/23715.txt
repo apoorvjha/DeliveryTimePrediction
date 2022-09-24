@@ -1,0 +1,21 @@
+ID                                       0x8cca
+Delivery_person_ID               PUNERES05DEL02
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   18.543626
+Restaurant_longitude                  73.905101
+Delivery_location_latitude            18.623626
+Delivery_location_longitude           73.985101
+Order_Date                           20-03-2022
+Time_Orderd                               23:45
+Time_Order_picked                         23:60
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      20.000000
+Name: 23715, dtype: object

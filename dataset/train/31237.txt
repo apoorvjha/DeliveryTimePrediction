@@ -1,0 +1,21 @@
+ID                                    0x95e4
+Delivery_person_ID             HYDRES04DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                17.411028
+Restaurant_longitude               78.329645
+Delivery_location_latitude         17.501028
+Delivery_location_longitude        78.419645
+Order_Date                        02-03-2022
+Time_Orderd                            23:60
+Time_Order_picked                      24:10
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 31237, dtype: object

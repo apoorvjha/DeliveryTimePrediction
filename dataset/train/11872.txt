@@ -1,0 +1,21 @@
+ID                                    0xdc99
+Delivery_person_ID             GOARES20DEL01
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        18-02-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       18.00
+Name: 11872, dtype: object

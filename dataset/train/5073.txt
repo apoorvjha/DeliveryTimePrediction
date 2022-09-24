@@ -1,0 +1,21 @@
+ID                                    0x67c5
+Delivery_person_ID             JAPRES18DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.913987
+Restaurant_longitude               75.752891
+Delivery_location_latitude         27.053987
+Delivery_location_longitude        75.892891
+Order_Date                        31-03-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:25
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 5073, dtype: object

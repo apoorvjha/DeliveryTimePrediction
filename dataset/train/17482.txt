@@ -1,0 +1,21 @@
+ID                                    0xc448
+Delivery_person_ID             ALHRES15DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.449872
+Restaurant_longitude               81.836167
+Delivery_location_latitude         25.479872
+Delivery_location_longitude        81.866167
+Order_Date                        17-02-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:55
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 17482, dtype: object

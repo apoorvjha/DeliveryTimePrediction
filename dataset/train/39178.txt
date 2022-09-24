@@ -1,0 +1,21 @@
+ID                                     0xc647
+Delivery_person_ID             AURGRES01DEL01
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 19.876219
+Restaurant_longitude                75.346017
+Delivery_location_latitude          19.946219
+Delivery_location_longitude         75.416017
+Order_Date                         14-02-2022
+Time_Orderd                             20:25
+Time_Order_picked                       20:30
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    43.000000
+Name: 39178, dtype: object

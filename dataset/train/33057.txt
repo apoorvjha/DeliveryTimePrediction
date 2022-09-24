@@ -1,0 +1,21 @@
+ID                                    0xca60
+Delivery_person_ID             KOCRES19DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.960846
+Restaurant_longitude               76.293936
+Delivery_location_latitude         10.070846
+Delivery_location_longitude        76.403936
+Order_Date                        18-02-2022
+Time_Orderd                            20:35
+Time_Order_picked                      20:40
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 33057, dtype: object

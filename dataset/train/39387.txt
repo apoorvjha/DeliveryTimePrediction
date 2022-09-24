@@ -1,0 +1,21 @@
+ID                                    0xdfb2
+Delivery_person_ID             GOARES06DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                15.561550
+Restaurant_longitude               73.749092
+Delivery_location_latitude         15.581550
+Delivery_location_longitude        73.769092
+Order_Date                        15-02-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:35
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   33.000000
+Name: 39387, dtype: object

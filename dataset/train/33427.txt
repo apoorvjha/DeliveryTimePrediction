@@ -1,0 +1,21 @@
+ID                                    0xd22c
+Delivery_person_ID             ALHRES02DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                25.453436
+Restaurant_longitude               81.833167
+Delivery_location_latitude         25.483436
+Delivery_location_longitude        81.863167
+Order_Date                        13-02-2022
+Time_Orderd                            23:60
+Time_Order_picked                      24:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 33427, dtype: object

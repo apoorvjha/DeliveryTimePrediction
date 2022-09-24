@@ -1,0 +1,21 @@
+ID                                    0xd61e
+Delivery_person_ID             KOCRES16DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                10.003064
+Restaurant_longitude               76.307589
+Delivery_location_latitude         10.113064
+Delivery_location_longitude        76.417589
+Order_Date                        14-02-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:40
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 29039, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xc687
+Delivery_person_ID             KOCRES07DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.985697
+Restaurant_longitude               76.281128
+Delivery_location_latitude          9.995697
+Delivery_location_longitude        76.291128
+Order_Date                        15-02-2022
+Time_Orderd                            11:55
+Time_Order_picked                      11:60
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 44558, dtype: object

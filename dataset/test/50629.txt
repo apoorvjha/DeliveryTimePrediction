@@ -1,0 +1,20 @@
+ID                                      0x377b
+Delivery_person_ID             INDORES010DEL01
+Delivery_person_Age                  32.000000
+Delivery_person_Ratings               4.400000
+Restaurant_latitude                  22.750040
+Restaurant_longitude                 75.902847
+Delivery_location_latitude           22.790040
+Delivery_location_longitude          75.942847
+Order_Date                          05-04-2022
+Time_Orderd                              13:30
+Time_Order_picked                        13:40
+Weather conditions                  Sandstorms
+Road_traffic_density                      High
+Vehicle_condition                            0
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 5036, dtype: object

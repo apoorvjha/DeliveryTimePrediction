@@ -1,0 +1,21 @@
+ID                                    0x9ff9
+Delivery_person_ID             MUMRES09DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                18.994049
+Restaurant_longitude               72.825203
+Delivery_location_latitude         19.044049
+Delivery_location_longitude        72.875203
+Order_Date                        21-03-2022
+Time_Orderd                            20:35
+Time_Order_picked                      20:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 4291, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xd028
+Delivery_person_ID             KNPRES03DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.469003
+Restaurant_longitude               80.316344
+Delivery_location_latitude         26.499003
+Delivery_location_longitude        80.346344
+Order_Date                        13-02-2022
+Time_Orderd                            18:40
+Time_Order_picked                      18:55
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4539, dtype: object

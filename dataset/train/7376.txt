@@ -1,0 +1,21 @@
+ID                                       0x76d4
+Delivery_person_ID                VADRES20DEL03
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   22.311358
+Restaurant_longitude                  73.164798
+Delivery_location_latitude            22.401358
+Delivery_location_longitude           73.254798
+Order_Date                           29-03-2022
+Time_Orderd                               17:55
+Time_Order_picked                         18:10
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      29.000000
+Name: 7376, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xdb37
+Delivery_person_ID             KOLRES04DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.538731
+Restaurant_longitude               88.364878
+Delivery_location_latitude         22.618731
+Delivery_location_longitude        88.444878
+Order_Date                        16-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:25
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 9106, dtype: object

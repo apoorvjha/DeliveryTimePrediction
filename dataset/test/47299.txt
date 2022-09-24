@@ -1,0 +1,20 @@
+ID                                     0x1958
+Delivery_person_ID             INDORES15DEL01
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.800072
+Delivery_location_longitude         75.932574
+Order_Date                         15-03-2022
+Time_Orderd                             14:35
+Time_Order_picked                       14:40
+Weather conditions                 Sandstorms
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 1706, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xce7d
+Delivery_person_ID             KOLRES01DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                22.514688
+Restaurant_longitude               88.393294
+Delivery_location_latitude         22.624688
+Delivery_location_longitude        88.503294
+Order_Date                        18-02-2022
+Time_Orderd                            18:55
+Time_Order_picked                      19:05
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   32.000000
+Name: 28321, dtype: object

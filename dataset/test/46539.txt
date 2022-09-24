@@ -1,0 +1,20 @@
+ID                                    0xc81f
+Delivery_person_ID             BHPRES19DEL01
+Delivery_person_Age                    33.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        17-02-2022
+Time_Orderd                            16:50
+Time_Order_picked                      17:05
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Name: 946, dtype: object

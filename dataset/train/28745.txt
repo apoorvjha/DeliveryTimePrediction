@@ -1,0 +1,21 @@
+ID                                    0xca55
+Delivery_person_ID             KOLRES04DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.538731
+Restaurant_longitude               88.364878
+Delivery_location_latitude         22.608731
+Delivery_location_longitude        88.434878
+Order_Date                        14-02-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 28745, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x1db2
+Delivery_person_ID             SURRES09DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                21.175975
+Restaurant_longitude               72.795503
+Delivery_location_latitude         21.205975
+Delivery_location_longitude        72.825503
+Order_Date                        15-03-2022
+Time_Orderd                            20:60
+Time_Order_picked                      21:05
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 22050, dtype: object

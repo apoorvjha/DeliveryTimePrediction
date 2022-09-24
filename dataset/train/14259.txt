@@ -1,0 +1,21 @@
+ID                                     0xce8e
+Delivery_person_ID             LUDHRES20DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.885915
+Restaurant_longitude                75.788259
+Delivery_location_latitude          30.965915
+Delivery_location_longitude         75.868259
+Order_Date                         18-02-2022
+Time_Orderd                             19:35
+Time_Order_picked                       19:50
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    22.000000
+Name: 14259, dtype: object

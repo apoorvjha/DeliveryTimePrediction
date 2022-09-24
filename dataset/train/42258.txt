@@ -1,0 +1,21 @@
+ID                                       0xd777
+Delivery_person_ID               AURGRES13DEL01
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   19.880256
+Restaurant_longitude                  75.323503
+Delivery_location_latitude            19.890256
+Delivery_location_longitude           75.333503
+Order_Date                           11-02-2022
+Time_Orderd                               11:10
+Time_Order_picked                         11:20
+Weather conditions                       Cloudy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      35.000000
+Name: 42258, dtype: object

@@ -1,0 +1,20 @@
+ID                                       0x6437
+Delivery_person_ID             RANCHIRES17DEL02
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   23.374878
+Restaurant_longitude                  85.335739
+Delivery_location_latitude            23.394878
+Delivery_location_longitude           85.355739
+Order_Date                           26-03-2022
+Time_Orderd                               10:60
+Time_Order_picked                         11:15
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             1
+Type_of_order                              Meal
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 8398, dtype: object

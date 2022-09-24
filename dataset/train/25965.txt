@@ -1,0 +1,21 @@
+ID                                        0x43f
+Delivery_person_ID               CHENRES06DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   13.054347
+Restaurant_longitude                  80.257221
+Delivery_location_latitude            13.114347
+Delivery_location_longitude           80.317221
+Order_Date                           11-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         19:20
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      25.000000
+Name: 25965, dtype: object

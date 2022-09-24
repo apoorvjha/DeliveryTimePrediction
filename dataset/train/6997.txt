@@ -1,0 +1,21 @@
+ID                                    0x3477
+Delivery_person_ID             HYDRES11DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.430448
+Restaurant_longitude               78.418213
+Delivery_location_latitude         17.490448
+Delivery_location_longitude        78.478213
+Order_Date                        09-03-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:20
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   29.000000
+Name: 6997, dtype: object

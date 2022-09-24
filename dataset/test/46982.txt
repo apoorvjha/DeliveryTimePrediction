@@ -1,0 +1,20 @@
+ID                                       0x300c
+Delivery_person_ID              COIMBRES01DEL02
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   11.016298
+Restaurant_longitude                  76.972076
+Delivery_location_latitude            11.146298
+Delivery_location_longitude           77.102076
+Order_Date                           31-03-2022
+Time_Orderd                               17:30
+Time_Order_picked                         17:45
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 1389, dtype: object

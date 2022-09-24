@@ -1,0 +1,21 @@
+ID                                      0x1ecd
+Delivery_person_ID             COIMBRES20DEL03
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  10.994136
+Restaurant_longitude                 76.963303
+Delivery_location_latitude           11.024136
+Delivery_location_longitude          76.993303
+Order_Date                          05-03-2022
+Time_Orderd                              17:45
+Time_Order_picked                        17:50
+Weather conditions                      Stormy
+Road_traffic_density                    Medium
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                        NaN
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     26.000000
+Name: 4092, dtype: object

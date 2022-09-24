@@ -1,0 +1,21 @@
+ID                                     0xb6c6
+Delivery_person_ID             INDORES12DEL03
+Delivery_person_Age                  32.00000
+Delivery_person_Ratings               4.60000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.83806
+Delivery_location_longitude          75.98340
+Order_Date                         16-03-2022
+Time_Orderd                             20:40
+Time_Order_picked                       20:45
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                   1.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     25.00000
+Name: 28106, dtype: object

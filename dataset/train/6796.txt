@@ -1,0 +1,21 @@
+ID                                       0x3905
+Delivery_person_ID             RANCHIRES13DEL02
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                3.700000
+Restaurant_latitude                   23.374989
+Restaurant_longitude                  85.335486
+Delivery_location_latitude            23.504989
+Delivery_location_longitude           85.465486
+Order_Date                           08-03-2022
+Time_Orderd                               21:15
+Time_Order_picked                         21:25
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             1
+Type_of_order                            Drinks
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      31.000000
+Name: 6796, dtype: object

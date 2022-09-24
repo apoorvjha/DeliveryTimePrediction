@@ -1,0 +1,21 @@
+ID                                    0x3100
+Delivery_person_ID             JAPRES14DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.908420
+Delivery_location_longitude        75.820689
+Order_Date                        17-03-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:45
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 21612, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xe1cc
+Delivery_person_ID             AGRRES06DEL02
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        11-02-2022
+Time_Orderd                             8:20
+Time_Order_picked                       8:35
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       27.00
+Name: 43288, dtype: object

@@ -1,0 +1,21 @@
+ID                                      0x30ed
+Delivery_person_ID             COIMBRES11DEL02
+Delivery_person_Age                  23.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.001753
+Restaurant_longitude                 76.986241
+Delivery_location_latitude           11.131753
+Delivery_location_longitude          77.116241
+Order_Date                          04-03-2022
+Time_Orderd                              22:25
+Time_Order_picked                        22:40
+Weather conditions                  Sandstorms
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                        NaN
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     17.000000
+Name: 33607, dtype: object

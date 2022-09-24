@@ -1,0 +1,21 @@
+ID                                    0x3281
+Delivery_person_ID             HYDRES07DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.424114
+Restaurant_longitude               78.347554
+Delivery_location_latitude         17.494114
+Delivery_location_longitude        78.417554
+Order_Date                        25-03-2022
+Time_Orderd                            20:40
+Time_Order_picked                      20:55
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 42195, dtype: object

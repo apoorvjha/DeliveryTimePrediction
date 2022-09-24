@@ -1,0 +1,21 @@
+ID                                       0xa739
+Delivery_person_ID                HYDRES18DEL03
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   17.450851
+Restaurant_longitude                  78.379347
+Delivery_location_latitude            17.480851
+Delivery_location_longitude           78.409347
+Order_Date                           03-03-2022
+Time_Orderd                               23:40
+Time_Order_picked                         23:55
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      16.000000
+Name: 21846, dtype: object

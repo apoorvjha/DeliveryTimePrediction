@@ -1,0 +1,21 @@
+ID                                        0x8b4
+Delivery_person_ID                MYSRES15DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   12.352058
+Restaurant_longitude                  76.606650
+Delivery_location_latitude            12.482058
+Delivery_location_longitude           76.736650
+Order_Date                           16-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:50
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      45.000000
+Name: 19147, dtype: object

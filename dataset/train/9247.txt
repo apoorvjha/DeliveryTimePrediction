@@ -1,0 +1,21 @@
+ID                                    0xdd2f
+Delivery_person_ID             BHPRES03DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                23.214294
+Restaurant_longitude               77.435361
+Delivery_location_latitude         23.254294
+Delivery_location_longitude        77.475361
+Order_Date                        17-02-2022
+Time_Orderd                            13:45
+Time_Order_picked                      13:60
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 9247, dtype: object

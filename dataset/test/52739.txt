@@ -1,0 +1,20 @@
+ID                                    0xd87c
+Delivery_person_ID             KNPRES08DEL01
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        12-02-2022
+Time_Orderd                            18:40
+Time_Order_picked                      18:45
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 7146, dtype: object

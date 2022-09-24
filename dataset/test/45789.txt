@@ -1,0 +1,20 @@
+ID                                    0x709c
+Delivery_person_ID             MYSRES01DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.311072
+Restaurant_longitude               76.654878
+Delivery_location_latitude         12.341072
+Delivery_location_longitude        76.684878
+Order_Date                        01-03-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:15
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 196, dtype: object

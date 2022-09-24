@@ -1,0 +1,21 @@
+ID                                     0xbed3
+Delivery_person_ID             PUNERES02DEL02
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 18.551440
+Restaurant_longitude                73.804855
+Delivery_location_latitude          18.681440
+Delivery_location_longitude         73.934855
+Order_Date                         25-03-2022
+Time_Orderd                             19:50
+Time_Order_picked                       19:60
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    16.000000
+Name: 43510, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x511f
+Delivery_person_ID             RANCHIRES05DEL03
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   23.355164
+Restaurant_longitude                  85.324097
+Delivery_location_latitude            23.385164
+Delivery_location_longitude           85.354097
+Order_Date                           07-03-2022
+Time_Orderd                               23:55
+Time_Order_picked                         24:10
+Weather conditions                   Sandstorms
+Road_traffic_density                        Low
+Vehicle_condition                             1
+Type_of_order                             Snack
+Type_of_vehicle                         scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      24.000000
+Name: 15983, dtype: object

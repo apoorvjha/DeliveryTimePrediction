@@ -1,0 +1,21 @@
+ID                                     0x8119
+Delivery_person_ID             INDORES07DEL01
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.722634
+Restaurant_longitude                75.886959
+Delivery_location_latitude          22.832634
+Delivery_location_longitude         75.996959
+Order_Date                         02-04-2022
+Time_Orderd                             22:25
+Time_Order_picked                       22:30
+Weather conditions                      Sunny
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    26.000000
+Name: 44638, dtype: object

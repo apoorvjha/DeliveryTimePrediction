@@ -1,0 +1,21 @@
+ID                                    0x4bee
+Delivery_person_ID             VADRES12DEL03
+Delivery_person_Age                    35.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        26-03-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       29.00
+Name: 15142, dtype: object

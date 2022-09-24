@@ -1,0 +1,21 @@
+ID                                    0xca50
+Delivery_person_ID             KOLRES19DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.549100
+Restaurant_longitude               88.400467
+Delivery_location_latitude         22.569100
+Delivery_location_longitude        88.420467
+Order_Date                        17-02-2022
+Time_Orderd                             8:40
+Time_Order_picked                       8:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 3990, dtype: object

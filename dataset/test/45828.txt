@@ -1,0 +1,20 @@
+ID                                     0xc5d0
+Delivery_person_ID             LUDHRES02DEL02
+Delivery_person_Age                     24.00
+Delivery_person_Ratings                  3.50
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.05
+Delivery_location_longitude              0.05
+Order_Date                         11-02-2022
+Time_Orderd                             19:20
+Time_Order_picked                       19:30
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                      1.00
+Festival                                   No
+City                            Metropolitian
+Name: 235, dtype: object

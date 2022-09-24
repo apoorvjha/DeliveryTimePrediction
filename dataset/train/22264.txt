@@ -1,0 +1,21 @@
+ID                                    0xddf8
+Delivery_person_ID             AGRRES13DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.159795
+Restaurant_longitude               78.042990
+Delivery_location_latitude         27.269795
+Delivery_location_longitude        78.152990
+Order_Date                        14-02-2022
+Time_Orderd                            22:55
+Time_Order_picked                      22:60
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 22264, dtype: object

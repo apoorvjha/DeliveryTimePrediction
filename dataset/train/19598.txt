@@ -1,0 +1,21 @@
+ID                                     0x6006
+Delivery_person_ID             CHENRES15DEL03
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.026286
+Restaurant_longitude                80.275235
+Delivery_location_latitude          13.086286
+Delivery_location_longitude         80.335235
+Order_Date                         17-03-2022
+Time_Orderd                             20:50
+Time_Order_picked                       20:55
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    25.000000
+Name: 19598, dtype: object

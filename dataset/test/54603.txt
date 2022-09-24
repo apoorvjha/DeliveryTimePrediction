@@ -1,0 +1,20 @@
+ID                                     0x5124
+Delivery_person_ID             PUNERES18DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.593481
+Restaurant_longitude                73.785901
+Delivery_location_latitude          18.633481
+Delivery_location_longitude         73.825901
+Order_Date                         07-03-2022
+Time_Orderd                             15:15
+Time_Order_picked                       15:30
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Name: 9010, dtype: object

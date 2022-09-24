@@ -1,0 +1,20 @@
+ID                                       0xc78f
+Delivery_person_ID                ALHRES11DEL02
+Delivery_person_Age                       31.00
+Delivery_person_Ratings                    4.80
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.02
+Delivery_location_longitude                0.02
+Order_Date                           13-02-2022
+Time_Orderd                               10:40
+Time_Order_picked                         10:50
+Weather conditions                   Sandstorms
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Name: 6914, dtype: object

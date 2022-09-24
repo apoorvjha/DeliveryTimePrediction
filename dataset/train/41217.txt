@@ -1,0 +1,21 @@
+ID                                      0x4339
+Delivery_person_ID             COIMBRES11DEL02
+Delivery_person_Age                  29.000000
+Delivery_person_Ratings               5.000000
+Restaurant_latitude                  11.001753
+Restaurant_longitude                 76.986241
+Delivery_location_latitude           11.131753
+Delivery_location_longitude          77.116241
+Order_Date                          12-03-2022
+Time_Orderd                              23:15
+Time_Order_picked                        23:30
+Weather conditions                       Windy
+Road_traffic_density                       Low
+Vehicle_condition                            1
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     12.000000
+Name: 41217, dtype: object

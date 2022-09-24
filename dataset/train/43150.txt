@@ -1,0 +1,21 @@
+ID                                       0x351b
+Delivery_person_ID             RANCHIRES14DEL03
+Delivery_person_Age                       34.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.03
+Delivery_location_longitude                0.03
+Order_Date                           13-03-2022
+Time_Orderd                               20:10
+Time_Order_picked                         20:20
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             0
+Type_of_order                            Drinks
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        0.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          37.00
+Name: 43150, dtype: object

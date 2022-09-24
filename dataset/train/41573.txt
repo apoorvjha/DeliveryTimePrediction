@@ -1,0 +1,21 @@
+ID                                      0xbc3
+Delivery_person_ID             BANGRES02DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 12.970221
+Restaurant_longitude                77.645396
+Delivery_location_latitude          12.980221
+Delivery_location_longitude         77.655396
+Order_Date                         05-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                        9:25
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    15.000000
+Name: 41573, dtype: object

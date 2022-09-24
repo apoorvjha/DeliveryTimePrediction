@@ -1,0 +1,21 @@
+ID                                    0xbf05
+Delivery_person_ID             AGRRES14DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -27.161850
+Restaurant_longitude              -78.040165
+Delivery_location_latitude         27.251850
+Delivery_location_longitude        78.130165
+Order_Date                        12-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:30
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   31.000000
+Name: 12027, dtype: object

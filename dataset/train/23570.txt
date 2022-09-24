@@ -1,0 +1,21 @@
+ID                                    0x5995
+Delivery_person_ID             JAPRES14DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         27.018420
+Delivery_location_longitude        75.930689
+Order_Date                        14-03-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:40
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 23570, dtype: object

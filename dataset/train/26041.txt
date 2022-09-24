@@ -1,0 +1,21 @@
+ID                                    0xcde7
+Delivery_person_ID             KNPRES19DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                26.490950
+Restaurant_longitude               80.318656
+Delivery_location_latitude         26.570950
+Delivery_location_longitude        80.398656
+Order_Date                        18-02-2022
+Time_Orderd                            20:30
+Time_Order_picked                      20:40
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 26041, dtype: object

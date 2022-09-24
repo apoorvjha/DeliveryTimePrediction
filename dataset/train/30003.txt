@@ -1,0 +1,21 @@
+ID                                    0x12b9
+Delivery_person_ID             VADRES03DEL03
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.38
+Delivery_location_longitude            73.23
+Order_Date                        09-03-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:55
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       17.00
+Name: 30003, dtype: object

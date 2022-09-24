@@ -1,0 +1,21 @@
+ID                                     0xc701
+Delivery_person_ID             KOCRES010DEL02
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 10.035573
+Restaurant_longitude                76.336958
+Delivery_location_latitude          10.165573
+Delivery_location_longitude         76.466958
+Order_Date                         14-02-2022
+Time_Orderd                             22:60
+Time_Order_picked                       23:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    29.000000
+Name: 2940, dtype: object

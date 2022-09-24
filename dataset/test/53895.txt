@@ -1,0 +1,20 @@
+ID                                    0x34ca
+Delivery_person_ID             HYDRES17DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.541976
+Delivery_location_longitude        78.475883
+Order_Date                        08-03-2022
+Time_Orderd                            21:55
+Time_Order_picked                      21:60
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8302, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x5d6b
+Delivery_person_ID             PUNERES11DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.533811
+Restaurant_longitude                73.899315
+Delivery_location_latitude          18.663811
+Delivery_location_longitude         74.029315
+Order_Date                         02-04-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:60
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    35.000000
+Name: 11149, dtype: object

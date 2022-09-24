@@ -1,0 +1,20 @@
+ID                                    0x49c7
+Delivery_person_ID             VADRES06DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             3.700000
+Restaurant_latitude                22.312790
+Restaurant_longitude               73.170283
+Delivery_location_latitude         22.332790
+Delivery_location_longitude        73.190283
+Order_Date                        03-03-2022
+Time_Orderd                            11:45
+Time_Order_picked                      11:50
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                 Yes
+City                           Metropolitian
+Name: 157, dtype: object

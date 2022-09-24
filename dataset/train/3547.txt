@@ -1,0 +1,21 @@
+ID                                     0x3426
+Delivery_person_ID             CHENRES09DEL02
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 13.044694
+Restaurant_longitude                80.261470
+Delivery_location_latitude          13.094694
+Delivery_location_longitude         80.311470
+Order_Date                         28-03-2022
+Time_Orderd                             19:50
+Time_Order_picked                       19:55
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    23.000000
+Name: 3547, dtype: object

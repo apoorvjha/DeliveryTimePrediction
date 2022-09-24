@@ -1,0 +1,20 @@
+ID                                       0x3a3d
+Delivery_person_ID                VADRES11DEL03
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.300000
+Restaurant_latitude                   22.308096
+Restaurant_longitude                  73.167753
+Delivery_location_latitude            22.338096
+Delivery_location_longitude           73.197753
+Order_Date                           03-03-2022
+Time_Orderd                               19:35
+Time_Order_picked                         19:40
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 1078, dtype: object

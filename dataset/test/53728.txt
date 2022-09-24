@@ -1,0 +1,20 @@
+ID                                    0x2dd6
+Delivery_person_ID             JAPRES09DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             3.400000
+Restaurant_latitude                26.911378
+Restaurant_longitude               75.789034
+Delivery_location_latitude         27.021378
+Delivery_location_longitude        75.899034
+Order_Date                        29-03-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:35
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8135, dtype: object

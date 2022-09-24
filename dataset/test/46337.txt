@@ -1,0 +1,20 @@
+ID                                    0xd30f
+Delivery_person_ID             AGRRES01DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                27.161661
+Restaurant_longitude               78.011544
+Delivery_location_latitude         27.301661
+Delivery_location_longitude        78.151544
+Order_Date                        16-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:30
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 744, dtype: object

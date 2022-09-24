@@ -1,0 +1,21 @@
+ID                                    0x7590
+Delivery_person_ID             JAPRES01DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.905190
+Restaurant_longitude               75.810753
+Delivery_location_latitude         26.925190
+Delivery_location_longitude        75.830753
+Order_Date                        15-03-2022
+Time_Orderd                             8:15
+Time_Order_picked                       8:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 6152, dtype: object

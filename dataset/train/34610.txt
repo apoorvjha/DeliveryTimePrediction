@@ -1,0 +1,21 @@
+ID                                     0x3034
+Delivery_person_ID             CHENRES20DEL03
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.975996
+Restaurant_longitude                80.221898
+Delivery_location_latitude          13.035996
+Delivery_location_longitude         80.281898
+Order_Date                         21-03-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:10
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    11.000000
+Name: 34610, dtype: object

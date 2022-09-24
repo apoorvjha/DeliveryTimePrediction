@@ -1,0 +1,21 @@
+ID                                    0x1a09
+Delivery_person_ID             VADRES17DEL03
+Delivery_person_Age                    34.00
+Delivery_person_Ratings                 4.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        01-03-2022
+Time_Orderd                            17:45
+Time_Order_picked                      17:55
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       31.00
+Name: 5076, dtype: object

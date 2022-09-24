@@ -1,0 +1,20 @@
+ID                                        0xa54
+Delivery_person_ID                VADRES06DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   22.312790
+Restaurant_longitude                  73.170283
+Delivery_location_latitude            22.402790
+Delivery_location_longitude           73.260283
+Order_Date                           04-03-2022
+Time_Orderd                               18:10
+Time_Order_picked                         18:15
+Weather conditions                       Stormy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 6331, dtype: object

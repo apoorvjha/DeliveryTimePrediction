@@ -1,0 +1,21 @@
+ID                                     0x96c5
+Delivery_person_ID             PUNERES01DEL01
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.569156
+Restaurant_longitude                73.774723
+Delivery_location_latitude          18.609156
+Delivery_location_longitude         73.814723
+Order_Date                         05-04-2022
+Time_Orderd                             16:25
+Time_Order_picked                       16:40
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    12.000000
+Name: 26446, dtype: object

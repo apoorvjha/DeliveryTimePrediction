@@ -1,0 +1,21 @@
+ID                                    0xc34b
+Delivery_person_ID             BHPRES06DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                23.232357
+Restaurant_longitude               77.429989
+Delivery_location_latitude         23.272357
+Delivery_location_longitude        77.469989
+Order_Date                        15-02-2022
+Time_Orderd                            14:45
+Time_Order_picked                      14:50
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   27.000000
+Name: 27224, dtype: object

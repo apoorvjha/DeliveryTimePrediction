@@ -1,0 +1,21 @@
+ID                                        0xdc3
+Delivery_person_ID               PUNERES13DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   18.562450
+Restaurant_longitude                  73.916619
+Delivery_location_latitude            18.632450
+Delivery_location_longitude           73.986619
+Order_Date                           10-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         22:40
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      24.000000
+Name: 35651, dtype: object

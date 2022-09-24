@@ -1,0 +1,21 @@
+ID                                       0xa7b4
+Delivery_person_ID                MUMRES03DEL03
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   19.223840
+Restaurant_longitude                  72.841347
+Delivery_location_latitude            19.253840
+Delivery_location_longitude           72.871347
+Order_Date                           07-03-2022
+Time_Orderd                               21:30
+Time_Order_picked                         21:45
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      27.000000
+Name: 38049, dtype: object

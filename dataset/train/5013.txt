@@ -1,0 +1,21 @@
+ID                                      0x9f60
+Delivery_person_ID             COIMBRES14DEL01
+Delivery_person_Age                  35.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.003681
+Restaurant_longitude                 76.975525
+Delivery_location_latitude           11.073681
+Delivery_location_longitude          77.045525
+Order_Date                          25-03-2022
+Time_Orderd                              22:10
+Time_Order_picked                        22:25
+Weather conditions                       Windy
+Road_traffic_density                       Low
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     18.000000
+Name: 5013, dtype: object

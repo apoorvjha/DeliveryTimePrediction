@@ -1,0 +1,21 @@
+ID                                    0x2833
+Delivery_person_ID             JAPRES08DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         26.950262
+Delivery_location_longitude        75.823013
+Order_Date                        01-03-2022
+Time_Orderd                            15:30
+Time_Order_picked                      15:40
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   39.000000
+Name: 8208, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x8ad5
+Delivery_person_ID             MYSRES13DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.310972
+Restaurant_longitude               76.659264
+Delivery_location_latitude         12.350972
+Delivery_location_longitude        76.699264
+Order_Date                        21-03-2022
+Time_Orderd                            16:60
+Time_Order_picked                      17:15
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 686, dtype: object

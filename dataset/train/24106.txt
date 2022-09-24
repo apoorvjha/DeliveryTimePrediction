@@ -1,0 +1,21 @@
+ID                                     0xede
+Delivery_person_ID             HYDRES09DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.521668
+Delivery_location_longitude        78.498321
+Order_Date                        14-03-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   26.000000
+Name: 24106, dtype: object

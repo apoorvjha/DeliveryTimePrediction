@@ -1,0 +1,20 @@
+ID                                    0x64a8
+Delivery_person_ID             VADRES17DEL01
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        05-04-2022
+Time_Orderd                            10:55
+Time_Order_picked                      10:60
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 3718, dtype: object

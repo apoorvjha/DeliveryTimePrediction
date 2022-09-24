@@ -1,0 +1,21 @@
+ID                                    0xc240
+Delivery_person_ID             KOLRES18DEL03
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.569367
+Restaurant_longitude               88.433187
+Delivery_location_latitude         22.599367
+Delivery_location_longitude        88.463187
+Order_Date                        15-02-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:30
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 12005, dtype: object

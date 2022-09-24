@@ -1,0 +1,21 @@
+ID                                    0x3860
+Delivery_person_ID             VADRES03DEL01
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.36
+Delivery_location_longitude            73.21
+Order_Date                        30-03-2022
+Time_Orderd                            14:10
+Time_Order_picked                      14:20
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       23.00
+Name: 24721, dtype: object

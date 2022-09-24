@@ -1,0 +1,21 @@
+ID                                    0xcc0b
+Delivery_person_ID             ALHRES09DEL01
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        18-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       27.00
+Name: 21751, dtype: object

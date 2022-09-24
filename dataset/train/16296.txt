@@ -1,0 +1,21 @@
+ID                                    0x62cb
+Delivery_person_ID             VADRES07DEL01
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        27-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       39.00
+Name: 16296, dtype: object

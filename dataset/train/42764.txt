@@ -1,0 +1,21 @@
+ID                                     0xb97c
+Delivery_person_ID             INDORES11DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.881234
+Delivery_location_longitude         76.019490
+Order_Date                         02-04-2022
+Time_Orderd                             19:20
+Time_Order_picked                       19:35
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                  Yes
+City                            Metropolitian
+Time_taken (min)                    49.000000
+Name: 42764, dtype: object

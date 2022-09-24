@@ -1,0 +1,20 @@
+ID                                    0x7786
+Delivery_person_ID             MYSRES13DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.310972
+Restaurant_longitude               76.659264
+Delivery_location_latitude         12.440972
+Delivery_location_longitude        76.789264
+Order_Date                        06-03-2022
+Time_Orderd                            21:45
+Time_Order_picked                      21:55
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4457, dtype: object

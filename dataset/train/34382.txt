@@ -1,0 +1,21 @@
+ID                                     0x995e
+Delivery_person_ID             JAPRES010DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 26.921411
+Restaurant_longitude                75.793604
+Delivery_location_latitude          26.951411
+Delivery_location_longitude         75.823604
+Order_Date                         19-03-2022
+Time_Orderd                             23:20
+Time_Order_picked                       23:35
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    17.000000
+Name: 34382, dtype: object

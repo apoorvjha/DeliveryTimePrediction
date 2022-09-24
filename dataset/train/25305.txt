@@ -1,0 +1,21 @@
+ID                                    0x829d
+Delivery_person_ID             HYDRES02DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.412330
+Restaurant_longitude               78.449654
+Delivery_location_latitude         17.422330
+Delivery_location_longitude        78.459654
+Order_Date                        28-03-2022
+Time_Orderd                             8:45
+Time_Order_picked                       8:55
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   25.000000
+Name: 25305, dtype: object

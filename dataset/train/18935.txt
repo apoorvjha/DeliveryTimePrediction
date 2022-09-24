@@ -1,0 +1,21 @@
+ID                                     0x9255
+Delivery_person_ID             INDORES19DEL02
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.745536
+Restaurant_longitude                75.893106
+Delivery_location_latitude          22.795536
+Delivery_location_longitude         75.943106
+Order_Date                         09-03-2022
+Time_Orderd                             22:55
+Time_Order_picked                       23:05
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    15.000000
+Name: 18935, dtype: object

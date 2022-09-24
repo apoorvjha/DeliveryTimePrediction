@@ -1,0 +1,21 @@
+ID                                     0xce3a
+Delivery_person_ID             LUDHRES02DEL02
+Delivery_person_Age                     30.00
+Delivery_person_Ratings                  4.40
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.13
+Delivery_location_longitude              0.13
+Order_Date                         16-02-2022
+Time_Orderd                             19:20
+Time_Order_picked                       19:25
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                      2.00
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                        40.00
+Name: 22454, dtype: object

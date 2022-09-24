@@ -1,0 +1,21 @@
+ID                                    0x62a8
+Delivery_person_ID             HYDRES12DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                17.429585
+Restaurant_longitude               78.392621
+Delivery_location_latitude         17.459585
+Delivery_location_longitude        78.422621
+Order_Date                        09-03-2022
+Time_Orderd                            20:60
+Time_Order_picked                      21:05
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   17.000000
+Name: 34490, dtype: object

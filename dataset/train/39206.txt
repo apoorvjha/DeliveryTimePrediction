@@ -1,0 +1,21 @@
+ID                                       0x944e
+Delivery_person_ID               BANGRES15DEL03
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   12.975377
+Restaurant_longitude                  77.696664
+Delivery_location_latitude            13.065377
+Delivery_location_longitude           77.786664
+Order_Date                           04-04-2022
+Time_Orderd                               21:15
+Time_Order_picked                         21:25
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      31.000000
+Name: 39206, dtype: object

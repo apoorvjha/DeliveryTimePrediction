@@ -1,0 +1,21 @@
+ID                                      0x5f31
+Delivery_person_ID             INDORES010DEL02
+Delivery_person_Age                  38.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  22.750040
+Restaurant_longitude                 75.902847
+Delivery_location_latitude           22.770040
+Delivery_location_longitude          75.922847
+Order_Date                          01-04-2022
+Time_Orderd                              11:60
+Time_Order_picked                        12:15
+Weather conditions                       Windy
+Road_traffic_density                      High
+Vehicle_condition                            1
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     34.000000
+Name: 36480, dtype: object

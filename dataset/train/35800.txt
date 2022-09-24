@@ -1,0 +1,21 @@
+ID                                     0x71ba
+Delivery_person_ID             INDORES03DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 22.751857
+Restaurant_longitude                75.866699
+Delivery_location_latitude          22.771857
+Delivery_location_longitude         75.886699
+Order_Date                         05-04-2022
+Time_Orderd                              8:10
+Time_Order_picked                        8:25
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    24.000000
+Name: 35800, dtype: object

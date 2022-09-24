@@ -1,0 +1,20 @@
+ID                                     0xd7fc
+Delivery_person_ID             AURGRES07DEL03
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 19.875908
+Restaurant_longitude                75.358888
+Delivery_location_latitude          19.935908
+Delivery_location_longitude         75.418888
+Order_Date                         15-02-2022
+Time_Orderd                             20:15
+Time_Order_picked                       20:20
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 8225, dtype: object

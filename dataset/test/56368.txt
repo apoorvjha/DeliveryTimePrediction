@@ -1,0 +1,20 @@
+ID                                     0xb19
+Delivery_person_ID             MUMRES12DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                19.207222
+Restaurant_longitude               72.972281
+Delivery_location_latitude         19.247222
+Delivery_location_longitude        73.012281
+Order_Date                        26-03-2022
+Time_Orderd                            12:45
+Time_Order_picked                      12:55
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 10775, dtype: object

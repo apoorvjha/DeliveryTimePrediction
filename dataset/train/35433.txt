@@ -1,0 +1,21 @@
+ID                                       0xd35f
+Delivery_person_ID               LUDHRES05DEL01
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   30.905562
+Restaurant_longitude                  75.832841
+Delivery_location_latitude            30.915562
+Delivery_location_longitude           75.842841
+Order_Date                           17-02-2022
+Time_Orderd                               11:40
+Time_Order_picked                         11:45
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      26.000000
+Name: 35433, dtype: object

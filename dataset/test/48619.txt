@@ -1,0 +1,20 @@
+ID                                    0xd18d
+Delivery_person_ID             KOCRES16DEL03
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                10.003064
+Restaurant_longitude               76.307589
+Delivery_location_latitude         10.033064
+Delivery_location_longitude        76.337589
+Order_Date                        13-02-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:25
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3026, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x4985
+Delivery_person_ID             PUNERES09DEL03
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.536562
+Restaurant_longitude                73.896485
+Delivery_location_latitude          18.626562
+Delivery_location_longitude         73.986485
+Order_Date                         02-03-2022
+Time_Orderd                             21:30
+Time_Order_picked                       21:35
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    44.000000
+Name: 32984, dtype: object

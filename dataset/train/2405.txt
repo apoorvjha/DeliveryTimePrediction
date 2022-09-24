@@ -1,0 +1,21 @@
+ID                                    0x4bbc
+Delivery_person_ID             MUMRES16DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                19.120083
+Restaurant_longitude               72.907385
+Delivery_location_latitude         19.170083
+Delivery_location_longitude        72.957385
+Order_Date                        05-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:10
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   21.000000
+Name: 2405, dtype: object

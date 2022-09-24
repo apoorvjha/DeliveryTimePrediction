@@ -1,0 +1,21 @@
+ID                                    0xb975
+Delivery_person_ID             VADRES14DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.341603
+Delivery_location_longitude        73.195012
+Order_Date                        30-03-2022
+Time_Orderd                            23:55
+Time_Order_picked                      23:60
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   14.000000
+Name: 20503, dtype: object

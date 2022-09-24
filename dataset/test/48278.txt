@@ -1,0 +1,20 @@
+ID                                    0xda50
+Delivery_person_ID             DEHRES08DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.469722
+Delivery_location_longitude        78.177079
+Order_Date                        18-02-2022
+Time_Orderd                            22:45
+Time_Order_picked                      22:50
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 2685, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x209b
+Delivery_person_ID             VADRES03DEL01
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.36
+Delivery_location_longitude            73.21
+Order_Date                        11-03-2022
+Time_Orderd                            15:20
+Time_Order_picked                      15:30
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       11.00
+Name: 39368, dtype: object

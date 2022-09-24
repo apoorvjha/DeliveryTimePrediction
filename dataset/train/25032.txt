@@ -1,0 +1,21 @@
+ID                                      0x7640
+Delivery_person_ID             COIMBRES20DEL01
+Delivery_person_Age                  34.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  10.994136
+Restaurant_longitude                 76.963303
+Delivery_location_latitude           11.034136
+Delivery_location_longitude          77.003303
+Order_Date                          11-03-2022
+Time_Orderd                              14:25
+Time_Order_picked                        14:35
+Weather conditions                      Stormy
+Road_traffic_density                      High
+Vehicle_condition                            1
+Type_of_order                           Drinks
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     33.000000
+Name: 25032, dtype: object

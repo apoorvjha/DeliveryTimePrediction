@@ -1,0 +1,20 @@
+ID                                     0x85f8
+Delivery_person_ID             PUNERES18DEL01
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 18.593481
+Restaurant_longitude                73.785901
+Delivery_location_latitude          18.603481
+Delivery_location_longitude         73.795901
+Order_Date                         05-04-2022
+Time_Orderd                             11:20
+Time_Order_picked                       11:25
+Weather conditions                        Fog
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Name: 3105, dtype: object

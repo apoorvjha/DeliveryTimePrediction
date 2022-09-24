@@ -1,0 +1,20 @@
+ID                                       0x6074
+Delivery_person_ID               BANGRES07DEL01
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.200000
+Restaurant_latitude                   12.978453
+Restaurant_longitude                  77.643685
+Delivery_location_latitude            13.018453
+Delivery_location_longitude           77.683685
+Order_Date                           01-04-2022
+Time_Orderd                               12:10
+Time_Order_picked                         12:15
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Name: 8018, dtype: object

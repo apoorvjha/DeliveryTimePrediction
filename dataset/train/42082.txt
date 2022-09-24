@@ -1,0 +1,21 @@
+ID                                      0xddf
+Delivery_person_ID             PUNERES16DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.536718
+Restaurant_longitude                73.830327
+Delivery_location_latitude          18.546719
+Delivery_location_longitude         73.840328
+Order_Date                         03-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       11:50
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    25.000000
+Name: 42082, dtype: object

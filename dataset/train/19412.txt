@@ -1,0 +1,21 @@
+ID                                     0xa52
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        14-03-2022
+Time_Orderd                            20:20
+Time_Order_picked                      20:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     3.00
+Festival                                 Yes
+City                              Semi-Urban
+Time_taken (min)                       53.00
+Name: 19412, dtype: object

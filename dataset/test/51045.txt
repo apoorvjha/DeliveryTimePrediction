@@ -1,0 +1,20 @@
+ID                                    0x4128
+Delivery_person_ID             HYDRES07DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.424114
+Restaurant_longitude               78.347554
+Delivery_location_latitude         17.454114
+Delivery_location_longitude        78.377554
+Order_Date                        03-04-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:55
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5452, dtype: object

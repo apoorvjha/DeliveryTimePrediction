@@ -1,0 +1,20 @@
+ID                                    0x9096
+Delivery_person_ID             VADRES11DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.308096
+Restaurant_longitude               73.167753
+Delivery_location_latitude         22.338096
+Delivery_location_longitude        73.197753
+Order_Date                        19-03-2022
+Time_Orderd                            18:40
+Time_Order_picked                      18:55
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1604, dtype: object

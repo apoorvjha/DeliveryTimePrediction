@@ -1,0 +1,21 @@
+ID                                     0xa832
+Delivery_person_ID             INDORES16DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.794648
+Delivery_location_longitude         75.944377
+Order_Date                         24-03-2022
+Time_Orderd                             21:20
+Time_Order_picked                       21:25
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    11.000000
+Name: 38222, dtype: object

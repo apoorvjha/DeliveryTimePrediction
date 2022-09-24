@@ -1,0 +1,21 @@
+ID                                       0x49d6
+Delivery_person_ID              COIMBRES08DEL01
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   11.001852
+Restaurant_longitude                  76.976268
+Delivery_location_latitude            11.011852
+Delivery_location_longitude           76.986268
+Order_Date                           30-03-2022
+Time_Orderd                                9:15
+Time_Order_picked                          9:25
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      13.000000
+Name: 14139, dtype: object

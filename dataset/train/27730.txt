@@ -1,0 +1,21 @@
+ID                                     0xeda
+Delivery_person_ID             MYSRES18DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.337928
+Restaurant_longitude               76.617889
+Delivery_location_latitude         12.377928
+Delivery_location_longitude        76.657889
+Order_Date                        09-03-2022
+Time_Orderd                            15:25
+Time_Order_picked                      15:40
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   28.000000
+Name: 27730, dtype: object

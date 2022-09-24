@@ -1,0 +1,21 @@
+ID                                    0xd628
+Delivery_person_ID             ALHRES18DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             3.700000
+Restaurant_latitude                25.450317
+Restaurant_longitude               81.831681
+Delivery_location_latitude         25.560317
+Delivery_location_longitude        81.941681
+Order_Date                        18-02-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:40
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   38.000000
+Name: 9849, dtype: object

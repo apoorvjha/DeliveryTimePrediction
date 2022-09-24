@@ -1,0 +1,21 @@
+ID                                    0xca9d
+Delivery_person_ID             AGRRES14DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                27.161850
+Restaurant_longitude               78.040165
+Delivery_location_latitude         27.251850
+Delivery_location_longitude        78.130165
+Order_Date                        14-02-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 6603, dtype: object

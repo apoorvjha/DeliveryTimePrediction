@@ -1,0 +1,20 @@
+ID                                    0x3585
+Delivery_person_ID             JAPRES19DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.913726
+Restaurant_longitude               75.752820
+Delivery_location_latitude         26.933726
+Delivery_location_longitude        75.772820
+Order_Date                        01-04-2022
+Time_Orderd                             8:30
+Time_Order_picked                       8:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 9108, dtype: object

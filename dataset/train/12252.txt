@@ -1,0 +1,21 @@
+ID                                       0x201a
+Delivery_person_ID               PUNERES17DEL03
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.000000
+Restaurant_latitude                   18.530963
+Restaurant_longitude                  73.828972
+Delivery_location_latitude            18.590963
+Delivery_location_longitude           73.888972
+Order_Date                           07-03-2022
+Time_Orderd                               18:30
+Time_Order_picked                         18:45
+Weather conditions                        Windy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      31.000000
+Name: 12252, dtype: object

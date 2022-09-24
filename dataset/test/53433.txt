@@ -1,0 +1,20 @@
+ID                                       0x38a1
+Delivery_person_ID               INDORES07DEL03
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                3.700000
+Restaurant_latitude                   22.722634
+Restaurant_longitude                  75.886959
+Delivery_location_latitude            22.812634
+Delivery_location_longitude           75.976959
+Order_Date                           16-03-2022
+Time_Orderd                               21:50
+Time_Order_picked                         21:60
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                              Metropolitian
+Name: 7840, dtype: object

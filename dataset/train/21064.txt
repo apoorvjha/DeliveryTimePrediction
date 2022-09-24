@@ -1,0 +1,21 @@
+ID                                     0x940
+Delivery_person_ID             SURRES02DEL02
+Delivery_person_Age                50.000000
+Delivery_person_Ratings             6.000000
+Restaurant_latitude                21.186608
+Restaurant_longitude               72.794136
+Delivery_location_latitude         21.206608
+Delivery_location_longitude        72.814136
+Order_Date                        01-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      11:25
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 21064, dtype: object

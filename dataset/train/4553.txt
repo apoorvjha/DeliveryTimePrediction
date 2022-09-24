@@ -1,0 +1,21 @@
+ID                                      0x8f7
+Delivery_person_ID             CHENRES02DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 13.086438
+Restaurant_longitude                80.220672
+Delivery_location_latitude          13.106438
+Delivery_location_longitude         80.240672
+Order_Date                         24-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       10:40
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 4553, dtype: object

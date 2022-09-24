@@ -1,0 +1,21 @@
+ID                                     0x387e
+Delivery_person_ID             PUNERES02DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 18.551440
+Restaurant_longitude                73.804855
+Delivery_location_latitude          18.631440
+Delivery_location_longitude         73.884855
+Order_Date                         02-03-2022
+Time_Orderd                             21:20
+Time_Order_picked                       21:30
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    38.000000
+Name: 6202, dtype: object

@@ -1,0 +1,20 @@
+ID                                      0x3058
+Delivery_person_ID             COIMBRES12DEL02
+Delivery_person_Age                  25.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.000762
+Restaurant_longitude                 76.981876
+Delivery_location_latitude           11.080762
+Delivery_location_longitude          77.061876
+Order_Date                          27-03-2022
+Time_Orderd                              21:50
+Time_Order_picked                        21:60
+Weather conditions                  Sandstorms
+Road_traffic_density                       Jam
+Vehicle_condition                            2
+Type_of_order                             Meal
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Name: 10400, dtype: object

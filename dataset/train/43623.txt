@@ -1,0 +1,21 @@
+ID                                        0xd8d
+Delivery_person_ID               INDORES16DEL01
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   22.744648
+Restaurant_longitude                  75.894377
+Delivery_location_latitude            22.784648
+Delivery_location_longitude           75.934377
+Order_Date                           24-03-2022
+Time_Orderd                               14:60
+Time_Order_picked                         15:05
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      21.000000
+Name: 43623, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd8ca
+Delivery_person_ID             KOCRES04DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                 9.966783
+Restaurant_longitude               76.242981
+Delivery_location_latitude         10.076783
+Delivery_location_longitude        76.352981
+Order_Date                        12-02-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 34676, dtype: object

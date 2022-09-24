@@ -1,0 +1,21 @@
+ID                                     0x61b3
+Delivery_person_ID             INDORES12DEL02
+Delivery_person_Age                  20.00000
+Delivery_person_Ratings               4.70000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.87806
+Delivery_location_longitude          76.02340
+Order_Date                         04-03-2022
+Time_Orderd                             17:30
+Time_Order_picked                       17:35
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                   2.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     34.00000
+Name: 20082, dtype: object

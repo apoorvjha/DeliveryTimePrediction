@@ -1,0 +1,21 @@
+ID                                    0x3006
+Delivery_person_ID             MUMRES16DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                19.120083
+Restaurant_longitude               72.907385
+Delivery_location_latitude         19.250083
+Delivery_location_longitude        73.037385
+Order_Date                        06-03-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 34671, dtype: object

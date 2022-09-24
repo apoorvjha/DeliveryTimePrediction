@@ -1,0 +1,21 @@
+ID                                    0x2a25
+Delivery_person_ID             MYSRES17DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.326356
+Restaurant_longitude               76.619103
+Delivery_location_latitude         12.376356
+Delivery_location_longitude        76.669103
+Order_Date                        05-04-2022
+Time_Orderd                            21:55
+Time_Order_picked                      22:10
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 20250, dtype: object

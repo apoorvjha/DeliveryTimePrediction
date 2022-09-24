@@ -1,0 +1,20 @@
+ID                                    0x8ecb
+Delivery_person_ID             JAPRES18DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.913987
+Restaurant_longitude               75.752891
+Delivery_location_latitude         26.973987
+Delivery_location_longitude        75.812891
+Order_Date                        30-03-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 8101, dtype: object

@@ -1,0 +1,20 @@
+ID                                       0x8de
+Delivery_person_ID             COIMBRES12DEL01
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  11.000762
+Restaurant_longitude                 76.981876
+Delivery_location_latitude           11.110762
+Delivery_location_longitude          77.091876
+Order_Date                          18-03-2022
+Time_Orderd                                NaN
+Time_Order_picked                        19:55
+Weather conditions                      Stormy
+Road_traffic_density                       Jam
+Vehicle_condition                            0
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Name: 1028, dtype: object

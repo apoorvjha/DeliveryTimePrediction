@@ -1,0 +1,21 @@
+ID                                    0xd284
+Delivery_person_ID             KNPRES09DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.473698
+Restaurant_longitude               80.352677
+Delivery_location_latitude         26.553698
+Delivery_location_longitude        80.432677
+Order_Date                        18-02-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:55
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   12.000000
+Name: 41799, dtype: object

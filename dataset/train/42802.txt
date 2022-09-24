@@ -1,0 +1,21 @@
+ID                                    0x1a7e
+Delivery_person_ID             VADRES01DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.347898
+Delivery_location_longitude        73.207788
+Order_Date                        17-03-2022
+Time_Orderd                            13:25
+Time_Order_picked                      13:30
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 42802, dtype: object

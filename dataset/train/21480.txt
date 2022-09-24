@@ -1,0 +1,21 @@
+ID                                    0x5d04
+Delivery_person_ID             JAPRES02DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.914142
+Restaurant_longitude               75.805704
+Delivery_location_latitude         26.954142
+Delivery_location_longitude        75.845704
+Order_Date                        01-04-2022
+Time_Orderd                            16:25
+Time_Order_picked                      16:30
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 21480, dtype: object

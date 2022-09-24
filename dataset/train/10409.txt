@@ -1,0 +1,21 @@
+ID                                      0x5561
+Delivery_person_ID             PUNERES010DEL01
+Delivery_person_Age                  31.000000
+Delivery_person_Ratings               4.200000
+Restaurant_latitude                  18.539299
+Restaurant_longitude                 73.897902
+Delivery_location_latitude           18.609299
+Delivery_location_longitude          73.967902
+Order_Date                          10-03-2022
+Time_Orderd                              20:60
+Time_Order_picked                        21:05
+Weather conditions                      Cloudy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                           Drinks
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     35.000000
+Name: 10409, dtype: object

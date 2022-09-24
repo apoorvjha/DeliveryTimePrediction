@@ -1,0 +1,21 @@
+ID                                    0x4e55
+Delivery_person_ID             MYSRES14DEL01
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        04-04-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:60
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       28.00
+Name: 38843, dtype: object

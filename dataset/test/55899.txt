@@ -1,0 +1,20 @@
+ID                                    0xca92
+Delivery_person_ID             BHPRES15DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                23.234249
+Restaurant_longitude               77.434007
+Delivery_location_latitude         23.284249
+Delivery_location_longitude        77.484007
+Order_Date                        13-02-2022
+Time_Orderd                            17:15
+Time_Order_picked                      17:20
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 10306, dtype: object

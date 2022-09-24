@@ -1,0 +1,20 @@
+ID                                    0x4d52
+Delivery_person_ID             JAPRES15DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.891191
+Restaurant_longitude               75.802083
+Delivery_location_latitude         26.961191
+Delivery_location_longitude        75.872083
+Order_Date                        29-03-2022
+Time_Orderd                            23:50
+Time_Order_picked                      24:05
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 321, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xcf88
+Delivery_person_ID             GOARES06DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                15.561550
+Restaurant_longitude               73.749092
+Delivery_location_latitude         15.621550
+Delivery_location_longitude        73.809092
+Order_Date                        17-02-2022
+Time_Orderd                            23:40
+Time_Order_picked                      23:50
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 7661, dtype: object

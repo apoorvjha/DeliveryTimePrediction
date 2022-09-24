@@ -1,0 +1,20 @@
+ID                                     0xa697
+Delivery_person_ID             VADRES010DEL03
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.340329
+Delivery_location_longitude         73.199083
+Order_Date                         21-03-2022
+Time_Orderd                             21:50
+Time_Order_picked                       21:60
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 487, dtype: object

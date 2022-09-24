@@ -1,0 +1,21 @@
+ID                                     0x59e1
+Delivery_person_ID             PUNERES14DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.516216
+Restaurant_longitude                73.842527
+Delivery_location_latitude          18.646216
+Delivery_location_longitude         73.972527
+Order_Date                         02-03-2022
+Time_Orderd                             21:40
+Time_Order_picked                       21:45
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    23.000000
+Name: 45118, dtype: object

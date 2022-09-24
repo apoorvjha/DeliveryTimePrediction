@@ -1,0 +1,21 @@
+ID                                     0xc381
+Delivery_person_ID             LUDHRES13DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 30.893234
+Restaurant_longitude                75.821720
+Delivery_location_latitude          30.953234
+Delivery_location_longitude         75.881720
+Order_Date                         17-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       21:35
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    21.000000
+Name: 44937, dtype: object

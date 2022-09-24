@@ -1,0 +1,21 @@
+ID                                    0xb247
+Delivery_person_ID             VADRES12DEL02
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        05-04-2022
+Time_Orderd                            17:10
+Time_Order_picked                      17:20
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       29.00
+Name: 27098, dtype: object

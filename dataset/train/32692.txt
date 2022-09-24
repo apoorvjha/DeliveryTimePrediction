@@ -1,0 +1,21 @@
+ID                                    0xe038
+Delivery_person_ID             BHPRES13DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                23.230791
+Restaurant_longitude               77.437020
+Delivery_location_latitude         23.250791
+Delivery_location_longitude        77.457020
+Order_Date                        11-02-2022
+Time_Orderd                             8:55
+Time_Order_picked                       9:10
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 32692, dtype: object

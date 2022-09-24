@@ -1,0 +1,21 @@
+ID                                      0x5632
+Delivery_person_ID             COIMBRES02DEL02
+Delivery_person_Age                  24.000000
+Delivery_person_Ratings               5.000000
+Restaurant_latitude                  11.022477
+Restaurant_longitude                 76.995667
+Delivery_location_latitude           11.152477
+Delivery_location_longitude          77.125667
+Order_Date                          10-03-2022
+Time_Orderd                              21:20
+Time_Order_picked                        21:25
+Weather conditions                       Sunny
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     10.000000
+Name: 31149, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x863a
+Delivery_person_ID             BANGRES20DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.972161
+Restaurant_longitude                77.596014
+Delivery_location_latitude          13.082161
+Delivery_location_longitude         77.706014
+Order_Date                         02-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:15
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 30973, dtype: object

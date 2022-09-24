@@ -1,0 +1,20 @@
+ID                                       0xd29a
+Delivery_person_ID                KOLRES12DEL01
+Delivery_person_Age                   21.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   22.551084
+Restaurant_longitude                  88.354127
+Delivery_location_latitude            22.591084
+Delivery_location_longitude           88.394127
+Order_Date                           17-02-2022
+Time_Orderd                               16:10
+Time_Order_picked                         16:20
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Name: 4427, dtype: object

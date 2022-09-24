@@ -1,0 +1,21 @@
+ID                                     0xacb
+Delivery_person_ID             MUMRES09DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                18.994049
+Restaurant_longitude               72.825203
+Delivery_location_latitude         19.024049
+Delivery_location_longitude        72.855203
+Order_Date                        21-03-2022
+Time_Orderd                            22:55
+Time_Order_picked                      23:05
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 6047, dtype: object

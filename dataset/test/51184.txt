@@ -1,0 +1,20 @@
+ID                                     0xe09a
+Delivery_person_ID             AURGRES06DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 19.874449
+Restaurant_longitude                75.360232
+Delivery_location_latitude          19.894449
+Delivery_location_longitude         75.380232
+Order_Date                         17-02-2022
+Time_Orderd                             11:20
+Time_Order_picked                       11:25
+Weather conditions                        Fog
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 5591, dtype: object

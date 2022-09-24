@@ -1,0 +1,21 @@
+ID                                       0x6228
+Delivery_person_ID                JAPRES12DEL03
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   26.902908
+Restaurant_longitude                  75.792934
+Delivery_location_latitude            27.042908
+Delivery_location_longitude           75.932934
+Order_Date                           20-03-2022
+Time_Orderd                               23:25
+Time_Order_picked                         23:35
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      24.000000
+Name: 12045, dtype: object

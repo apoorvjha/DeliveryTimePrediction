@@ -1,0 +1,20 @@
+ID                                    0xcecc
+Delivery_person_ID             GOARES16DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                15.498603
+Restaurant_longitude               73.826911
+Delivery_location_latitude         15.558603
+Delivery_location_longitude        73.886911
+Order_Date                        11-02-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:35
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8108, dtype: object

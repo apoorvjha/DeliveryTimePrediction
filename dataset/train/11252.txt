@@ -1,0 +1,21 @@
+ID                                      0xcb4
+Delivery_person_ID             INDORES02DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.651847
+Restaurant_longitude                75.881991
+Delivery_location_latitude          22.721847
+Delivery_location_longitude         75.951991
+Order_Date                         25-03-2022
+Time_Orderd                             21:10
+Time_Order_picked                       21:20
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    23.000000
+Name: 11252, dtype: object

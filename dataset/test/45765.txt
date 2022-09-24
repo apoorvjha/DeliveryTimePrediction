@@ -1,0 +1,20 @@
+ID                                       0x77e6
+Delivery_person_ID             RANCHIRES03DEL02
+Delivery_person_Age                       31.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.08
+Delivery_location_longitude                0.08
+Order_Date                           16-03-2022
+Time_Orderd                               21:55
+Time_Order_picked                         21:60
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             1
+Type_of_order                             Snack
+Type_of_vehicle                         scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                              Metropolitian
+Name: 172, dtype: object

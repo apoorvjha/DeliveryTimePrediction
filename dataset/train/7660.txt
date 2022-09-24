@@ -1,0 +1,21 @@
+ID                                      0x14de
+Delivery_person_ID             COIMBRES20DEL03
+Delivery_person_Age                  34.000000
+Delivery_person_Ratings               3.900000
+Restaurant_latitude                  10.994136
+Restaurant_longitude                 76.963303
+Delivery_location_latitude           11.084136
+Delivery_location_longitude          77.053303
+Order_Date                          31-03-2022
+Time_Orderd                              21:40
+Time_Order_picked                        21:45
+Weather conditions                       Windy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                           Buffet
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     38.000000
+Name: 7660, dtype: object

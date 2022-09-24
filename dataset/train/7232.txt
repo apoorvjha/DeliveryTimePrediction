@@ -1,0 +1,21 @@
+ID                                        0x920
+Delivery_person_ID               CHENRES17DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   13.045479
+Restaurant_longitude                  80.233110
+Delivery_location_latitude            13.125479
+Delivery_location_longitude           80.313110
+Order_Date                           02-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         24:10
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      42.000000
+Name: 7232, dtype: object

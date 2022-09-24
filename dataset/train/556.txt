@@ -1,0 +1,21 @@
+ID                                    0x72bc
+Delivery_person_ID             VADRES02DEL01
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        21-03-2022
+Time_Orderd                            12:15
+Time_Order_picked                      12:25
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       28.00
+Name: 556, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xde1a
+Delivery_person_ID             AGRRES010DEL02
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 27.163303
+Restaurant_longitude                78.057044
+Delivery_location_latitude          27.243303
+Delivery_location_longitude         78.137044
+Order_Date                         14-02-2022
+Time_Orderd                             19:40
+Time_Order_picked                       19:45
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                  Yes
+City                            Metropolitian
+Time_taken (min)                    47.000000
+Name: 18418, dtype: object

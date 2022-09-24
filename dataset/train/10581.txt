@@ -1,0 +1,21 @@
+ID                                    0xd02f
+Delivery_person_ID             BHPRES03DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                23.214294
+Restaurant_longitude               77.435361
+Delivery_location_latitude         23.244294
+Delivery_location_longitude        77.465361
+Order_Date                        11-02-2022
+Time_Orderd                            17:45
+Time_Order_picked                      17:60
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 10581, dtype: object

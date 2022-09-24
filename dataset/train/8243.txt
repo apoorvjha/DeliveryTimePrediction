@@ -1,0 +1,21 @@
+ID                                    0xc076
+Delivery_person_ID             KNPRES16DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude               -26.482581
+Restaurant_longitude               80.315628
+Delivery_location_latitude         26.502581
+Delivery_location_longitude        80.335628
+Order_Date                        15-02-2022
+Time_Orderd                            10:55
+Time_Order_picked                      11:10
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   10.000000
+Name: 8243, dtype: object

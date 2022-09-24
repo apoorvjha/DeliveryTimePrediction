@@ -1,0 +1,20 @@
+ID                                    0xca8d
+Delivery_person_ID             KNPRES04DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                26.471529
+Restaurant_longitude               80.313458
+Delivery_location_latitude         26.541529
+Delivery_location_longitude        80.383458
+Order_Date                        14-02-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:10
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 3.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9018, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd131
+Delivery_person_ID             KOLRES04DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.538731
+Restaurant_longitude               88.364878
+Delivery_location_latitude         22.578731
+Delivery_location_longitude        88.404878
+Order_Date                        17-02-2022
+Time_Orderd                            15:35
+Time_Order_picked                      15:40
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 18665, dtype: object

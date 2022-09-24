@@ -1,0 +1,21 @@
+ID                                     0x129c
+Delivery_person_ID             INDORES04DEL01
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.753659
+Restaurant_longitude                75.903365
+Delivery_location_latitude          22.763659
+Delivery_location_longitude         75.913365
+Order_Date                         03-04-2022
+Time_Orderd                             10:15
+Time_Order_picked                       10:25
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    17.000000
+Name: 40153, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xb099
+Delivery_person_ID             INDORES13DEL02
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              3.700000
+Restaurant_latitude                 22.745049
+Restaurant_longitude                75.892471
+Delivery_location_latitude          22.875049
+Delivery_location_longitude         76.022471
+Order_Date                         04-03-2022
+Time_Orderd                             19:30
+Time_Order_picked                       19:40
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 11205, dtype: object

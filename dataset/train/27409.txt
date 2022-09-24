@@ -1,0 +1,21 @@
+ID                                      0x9237
+Delivery_person_ID             COIMBRES09DEL02
+Delivery_person_Age                  34.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  11.008638
+Restaurant_longitude                 76.984311
+Delivery_location_latitude           11.028638
+Delivery_location_longitude          77.004311
+Order_Date                          19-03-2022
+Time_Orderd                              11:60
+Time_Order_picked                        12:05
+Weather conditions                       Sunny
+Road_traffic_density                      High
+Vehicle_condition                            0
+Type_of_order                            Snack
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     27.000000
+Name: 27409, dtype: object

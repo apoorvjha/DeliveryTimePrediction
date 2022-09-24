@@ -1,0 +1,20 @@
+ID                                    0xa94c
+Delivery_person_ID             SURRES20DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                21.152760
+Restaurant_longitude               72.778059
+Delivery_location_latitude         21.192760
+Delivery_location_longitude        72.818059
+Order_Date                        05-03-2022
+Time_Orderd                            13:10
+Time_Order_picked                      13:15
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9856, dtype: object

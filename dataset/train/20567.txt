@@ -1,0 +1,21 @@
+ID                                     0x5a0f
+Delivery_person_ID             INDORES12DEL01
+Delivery_person_Age                  21.00000
+Delivery_person_Ratings               4.50000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.78806
+Delivery_location_longitude          75.93340
+Order_Date                         19-03-2022
+Time_Orderd                             13:55
+Time_Order_picked                       13:60
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                   1.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     30.00000
+Name: 20567, dtype: object

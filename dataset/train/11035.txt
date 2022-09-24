@@ -1,0 +1,21 @@
+ID                                       0x9dbb
+Delivery_person_ID                VADRES02DEL01
+Delivery_person_Age                       27.00
+Delivery_person_Ratings                    4.40
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           02-03-2022
+Time_Orderd                               19:30
+Time_Order_picked                         19:35
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          35.00
+Name: 11035, dtype: object

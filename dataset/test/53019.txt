@@ -1,0 +1,20 @@
+ID                                     0x3e1e
+Delivery_person_ID             INDORES08DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.000000
+Restaurant_latitude                 22.725748
+Restaurant_longitude                75.898497
+Delivery_location_latitude          22.835748
+Delivery_location_longitude         76.008497
+Order_Date                         25-03-2022
+Time_Orderd                             20:30
+Time_Order_picked                       20:40
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                  Yes
+City                            Metropolitian
+Name: 7426, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x927c
+Delivery_person_ID             INDORES13DEL02
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.745049
+Restaurant_longitude                75.892471
+Delivery_location_latitude          22.765049
+Delivery_location_longitude         75.912471
+Order_Date                         17-03-2022
+Time_Orderd                             10:20
+Time_Order_picked                       10:25
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 1181, dtype: object

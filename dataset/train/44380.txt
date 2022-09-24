@@ -1,0 +1,21 @@
+ID                                    0x5288
+Delivery_person_ID             MYSRES18DEL02
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                12.337928
+Restaurant_longitude               76.617889
+Delivery_location_latitude         12.357928
+Delivery_location_longitude        76.637889
+Order_Date                        28-03-2022
+Time_Orderd                             8:55
+Time_Order_picked                       9:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 44380, dtype: object

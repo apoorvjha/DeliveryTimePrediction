@@ -1,0 +1,21 @@
+ID                                    0x3965
+Delivery_person_ID             HYDRES06DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.455894
+Restaurant_longitude               78.375467
+Delivery_location_latitude         17.515894
+Delivery_location_longitude        78.435467
+Order_Date                        11-03-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:35
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   10.000000
+Name: 15500, dtype: object

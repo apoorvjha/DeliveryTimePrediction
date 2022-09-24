@@ -1,0 +1,20 @@
+ID                                        0x505
+Delivery_person_ID              COIMBRES20DEL02
+Delivery_person_Age                   15.000000
+Delivery_person_Ratings                1.000000
+Restaurant_latitude                  -10.994136
+Restaurant_longitude                 -76.963303
+Delivery_location_latitude            11.044136
+Delivery_location_longitude           77.013303
+Order_Date                           09-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         19:50
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 2365, dtype: object

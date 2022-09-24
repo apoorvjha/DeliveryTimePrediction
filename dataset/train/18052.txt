@@ -1,0 +1,21 @@
+ID                                    0x41eb
+Delivery_person_ID             SURRES05DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.175104
+Restaurant_longitude               72.804342
+Delivery_location_latitude         21.215104
+Delivery_location_longitude        72.844342
+Order_Date                        26-03-2022
+Time_Orderd                            15:60
+Time_Order_picked                      16:05
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 18052, dtype: object

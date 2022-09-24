@@ -1,0 +1,21 @@
+ID                                    0xcdca
+Delivery_person_ID             DEHRES01DEL01
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        17-02-2022
+Time_Orderd                            10:55
+Time_Order_picked                      11:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       28.00
+Name: 1866, dtype: object

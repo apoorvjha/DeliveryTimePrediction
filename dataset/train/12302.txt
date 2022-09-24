@@ -1,0 +1,21 @@
+ID                                     0x381c
+Delivery_person_ID             INDORES11DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.791234
+Delivery_location_longitude         75.929490
+Order_Date                         28-03-2022
+Time_Orderd                             15:60
+Time_Order_picked                       16:15
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    28.000000
+Name: 12302, dtype: object

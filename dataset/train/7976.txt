@@ -1,0 +1,21 @@
+ID                                       0xd5e7
+Delivery_person_ID                KNPRES19DEL01
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   26.490950
+Restaurant_longitude                  80.318656
+Delivery_location_latitude            26.500950
+Delivery_location_longitude           80.328656
+Order_Date                           17-02-2022
+Time_Orderd                                9:40
+Time_Order_picked                          9:45
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      11.000000
+Name: 7976, dtype: object

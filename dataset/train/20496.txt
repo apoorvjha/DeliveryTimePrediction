@@ -1,0 +1,21 @@
+ID                                    0xc602
+Delivery_person_ID             AGRRES18DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                27.161694
+Restaurant_longitude               78.034714
+Delivery_location_latitude         27.231694
+Delivery_location_longitude        78.104714
+Order_Date                        18-02-2022
+Time_Orderd                            23:55
+Time_Order_picked                      24:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 20496, dtype: object

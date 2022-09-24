@@ -1,0 +1,20 @@
+ID                                      0xf1c
+Delivery_person_ID             PUNERES20DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 18.592718
+Restaurant_longitude                73.773572
+Delivery_location_latitude          18.672718
+Delivery_location_longitude         73.853572
+Order_Date                         27-03-2022
+Time_Orderd                             18:20
+Time_Order_picked                       18:25
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 6137, dtype: object

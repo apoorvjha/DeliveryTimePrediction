@@ -1,0 +1,20 @@
+ID                                     0x387b
+Delivery_person_ID             PUNERES12DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 18.520016
+Restaurant_longitude                73.830547
+Delivery_location_latitude          18.560016
+Delivery_location_longitude         73.870547
+Order_Date                         19-03-2022
+Time_Orderd                             15:20
+Time_Order_picked                       15:30
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 3719, dtype: object

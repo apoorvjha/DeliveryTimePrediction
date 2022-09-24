@@ -1,0 +1,20 @@
+ID                                     0x89e2
+Delivery_person_ID             PUNERES16DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 18.536718
+Restaurant_longitude                73.830327
+Delivery_location_latitude          18.616719
+Delivery_location_longitude         73.910327
+Order_Date                         23-03-2022
+Time_Orderd                             21:10
+Time_Order_picked                       21:15
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 8293, dtype: object

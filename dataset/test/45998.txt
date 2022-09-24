@@ -1,0 +1,20 @@
+ID                                     0x82b5
+Delivery_person_ID             INDORES12DEL03
+Delivery_person_Age                  33.00000
+Delivery_person_Ratings               4.60000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.83806
+Delivery_location_longitude          75.98340
+Order_Date                         10-03-2022
+Time_Orderd                             22:20
+Time_Order_picked                       22:35
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                   1.00000
+Festival                                   No
+City                                      NaN
+Name: 405, dtype: object

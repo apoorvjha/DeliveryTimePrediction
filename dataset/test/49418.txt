@@ -1,0 +1,20 @@
+ID                                     0xafbf
+Delivery_person_ID             PUNERES04DEL03
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 18.514210
+Restaurant_longitude                73.838429
+Delivery_location_latitude          18.604210
+Delivery_location_longitude         73.928429
+Order_Date                         29-03-2022
+Time_Orderd                             18:25
+Time_Order_picked                       18:30
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                  Yes
+City                                      NaN
+Name: 3825, dtype: object

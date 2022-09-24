@@ -1,0 +1,21 @@
+ID                                    0xd344
+Delivery_person_ID             AGRRES16DEL03
+Delivery_person_Age                    36.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        17-02-2022
+Time_Orderd                            18:50
+Time_Order_picked                      18:60
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       28.00
+Name: 35733, dtype: object

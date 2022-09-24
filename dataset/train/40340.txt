@@ -1,0 +1,21 @@
+ID                                       0x10b6
+Delivery_person_ID                VADRES03DEL01
+Delivery_person_Age                       38.00
+Delivery_person_Ratings                    4.20
+Restaurant_latitude                       22.32
+Restaurant_longitude                      73.17
+Delivery_location_latitude                22.39
+Delivery_location_longitude               73.24
+Order_Date                           02-04-2022
+Time_Orderd                               19:10
+Time_Order_picked                         19:15
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          34.00
+Name: 40340, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xdc49
+Delivery_person_ID             AURGRES12DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              3.500000
+Restaurant_latitude                 19.879631
+Restaurant_longitude                75.323403
+Delivery_location_latitude          19.989631
+Delivery_location_longitude         75.433403
+Order_Date                         18-02-2022
+Time_Orderd                             18:30
+Time_Order_picked                       18:40
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    34.000000
+Name: 44612, dtype: object

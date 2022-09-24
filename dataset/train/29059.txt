@@ -1,0 +1,21 @@
+ID                                    0x23b6
+Delivery_person_ID             VADRES08DEL03
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        24-03-2022
+Time_Orderd                            20:60
+Time_Order_picked                      21:15
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       25.00
+Name: 29059, dtype: object

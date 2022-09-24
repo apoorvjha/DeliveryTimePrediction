@@ -1,0 +1,21 @@
+ID                                    0xb666
+Delivery_person_ID             HYDRES13DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.501477
+Delivery_location_longitude        78.470350
+Order_Date                        25-03-2022
+Time_Orderd                            17:45
+Time_Order_picked                      17:60
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   15.000000
+Name: 33056, dtype: object

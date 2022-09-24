@@ -1,0 +1,20 @@
+ID                                       0x48e0
+Delivery_person_ID               CHENRES06DEL01
+Delivery_person_Age                   21.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   13.054347
+Restaurant_longitude                  80.257221
+Delivery_location_latitude            13.094347
+Delivery_location_longitude           80.297221
+Order_Date                           01-04-2022
+Time_Orderd                               14:50
+Time_Order_picked                         15:05
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 8519, dtype: object

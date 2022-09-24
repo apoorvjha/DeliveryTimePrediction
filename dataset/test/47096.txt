@@ -1,0 +1,20 @@
+ID                                      0x64ea
+Delivery_person_ID             COIMBRES15DEL03
+Delivery_person_Age                  36.000000
+Delivery_person_Ratings               5.000000
+Restaurant_latitude                  11.006686
+Restaurant_longitude                 76.951736
+Delivery_location_latitude           11.066686
+Delivery_location_longitude          77.011736
+Order_Date                          11-03-2022
+Time_Orderd                              18:25
+Time_Order_picked                        18:35
+Weather conditions                         Fog
+Road_traffic_density                    Medium
+Vehicle_condition                            2
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                                       NaN
+Name: 1503, dtype: object

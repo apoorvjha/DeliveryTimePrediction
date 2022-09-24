@@ -1,0 +1,20 @@
+ID                                    0xcfd9
+Delivery_person_ID             GOARES06DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                15.561550
+Restaurant_longitude               73.749092
+Delivery_location_latitude         15.671550
+Delivery_location_longitude        73.859092
+Order_Date                        18-02-2022
+Time_Orderd                            19:35
+Time_Order_picked                      19:50
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5090, dtype: object

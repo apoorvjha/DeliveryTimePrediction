@@ -1,0 +1,21 @@
+ID                                    0xd455
+Delivery_person_ID             DEHRES11DEL01
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        14-02-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       25.00
+Name: 7777, dtype: object

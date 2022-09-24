@@ -1,0 +1,20 @@
+ID                                       0x3e61
+Delivery_person_ID             RANCHIRES14DEL01
+Delivery_person_Age                       21.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           28-03-2022
+Time_Orderd                               11:15
+Time_Order_picked                         11:30
+Weather conditions                          Fog
+Road_traffic_density                       High
+Vehicle_condition                             1
+Type_of_order                             Snack
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        0.00
+Festival                                     No
+City                                        NaN
+Name: 1516, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xa4f5
+Delivery_person_ID              COIMBRES03DEL03
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   11.025083
+Restaurant_longitude                  77.015393
+Delivery_location_latitude            11.055083
+Delivery_location_longitude           77.045393
+Order_Date                           05-03-2022
+Time_Orderd                               17:25
+Time_Order_picked                         17:30
+Weather conditions                       Cloudy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      19.000000
+Name: 10267, dtype: object

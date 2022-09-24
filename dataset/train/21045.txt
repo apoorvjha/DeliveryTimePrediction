@@ -1,0 +1,21 @@
+ID                                    0xc7fb
+Delivery_person_ID             KOCRES13DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                 9.991703
+Restaurant_longitude               76.293136
+Delivery_location_latitude         10.001703
+Delivery_location_longitude        76.303136
+Order_Date                        11-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      12:05
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   49.000000
+Name: 21045, dtype: object

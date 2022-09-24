@@ -1,0 +1,21 @@
+ID                                    0xd238
+Delivery_person_ID             GOARES04DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                15.569600
+Restaurant_longitude               73.742294
+Delivery_location_latitude         15.609600
+Delivery_location_longitude        73.782294
+Order_Date                        11-02-2022
+Time_Orderd                            14:25
+Time_Order_picked                      14:40
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   36.000000
+Name: 29390, dtype: object

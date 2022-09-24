@@ -1,0 +1,21 @@
+ID                                      0x4ea5
+Delivery_person_ID             COIMBRES06DEL01
+Delivery_person_Age                  35.000000
+Delivery_person_Ratings               4.500000
+Restaurant_latitude                  11.021278
+Restaurant_longitude                 76.995017
+Delivery_location_latitude           11.131278
+Delivery_location_longitude          77.105017
+Order_Date                          06-04-2022
+Time_Orderd                              19:25
+Time_Order_picked                        19:40
+Weather conditions                         Fog
+Road_traffic_density                       Jam
+Vehicle_condition                            0
+Type_of_order                             Meal
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     52.000000
+Name: 13506, dtype: object

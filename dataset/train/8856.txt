@@ -1,0 +1,21 @@
+ID                                     0x3545
+Delivery_person_ID             CHENRES16DEL02
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 13.049645
+Restaurant_longitude                80.242268
+Delivery_location_latitude          13.129645
+Delivery_location_longitude         80.322268
+Order_Date                         06-04-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:50
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    35.000000
+Name: 8856, dtype: object

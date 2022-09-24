@@ -1,0 +1,20 @@
+ID                                    0xd3d6
+Delivery_person_ID             BHPRES11DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.233219
+Restaurant_longitude               77.433571
+Delivery_location_latitude         23.283219
+Delivery_location_longitude        77.483571
+Order_Date                        15-02-2022
+Time_Orderd                            19:35
+Time_Order_picked                      19:40
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 2634, dtype: object

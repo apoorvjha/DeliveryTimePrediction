@@ -1,0 +1,20 @@
+ID                                    0x3c31
+Delivery_person_ID             MYSRES03DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.299524
+Restaurant_longitude               76.642620
+Delivery_location_latitude         12.349524
+Delivery_location_longitude        76.692620
+Order_Date                        09-03-2022
+Time_Orderd                            18:60
+Time_Order_picked                      19:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9089, dtype: object

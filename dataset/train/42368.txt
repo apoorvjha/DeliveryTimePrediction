@@ -1,0 +1,21 @@
+ID                                     0xbcf
+Delivery_person_ID             HYDRES17DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.511976
+Delivery_location_longitude        78.445883
+Order_Date                        24-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 42368, dtype: object

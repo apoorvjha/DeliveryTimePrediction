@@ -1,0 +1,21 @@
+ID                                       0x6279
+Delivery_person_ID               BANGRES03DEL02
+Delivery_person_Age                   22.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   12.979166
+Restaurant_longitude                  77.640709
+Delivery_location_latitude            13.109166
+Delivery_location_longitude           77.770709
+Order_Date                           04-04-2022
+Time_Orderd                               19:50
+Time_Order_picked                         19:55
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      25.000000
+Name: 38840, dtype: object

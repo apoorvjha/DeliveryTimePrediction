@@ -1,0 +1,21 @@
+ID                                       0x5013
+Delivery_person_ID               PUNERES15DEL02
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   18.636215
+Restaurant_longitude                  73.751081
+Delivery_location_latitude            18.686215
+Delivery_location_longitude           73.801081
+Order_Date                           26-03-2022
+Time_Orderd                               17:30
+Time_Order_picked                         17:35
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      24.000000
+Name: 3908, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xcee0
+Delivery_person_ID             BHPRES15DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                23.234249
+Restaurant_longitude               77.434007
+Delivery_location_latitude         23.304249
+Delivery_location_longitude        77.504007
+Order_Date                        14-02-2022
+Time_Orderd                            21:35
+Time_Order_picked                      21:50
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   39.000000
+Name: 23305, dtype: object

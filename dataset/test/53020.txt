@@ -1,0 +1,20 @@
+ID                                    0xde6d
+Delivery_person_ID             DEHRES04DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                30.340722
+Restaurant_longitude               78.060221
+Delivery_location_latitude         30.420722
+Delivery_location_longitude        78.140221
+Order_Date                        18-02-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:45
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                 Yes
+City                           Metropolitian
+Name: 7427, dtype: object

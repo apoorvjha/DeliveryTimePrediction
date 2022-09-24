@@ -1,0 +1,21 @@
+ID                                    0xafa0
+Delivery_person_ID             SURRES19DEL03
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.149669
+Restaurant_longitude               72.772629
+Delivery_location_latitude         21.239669
+Delivery_location_longitude        72.862629
+Order_Date                        31-03-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 17647, dtype: object

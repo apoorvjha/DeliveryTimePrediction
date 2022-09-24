@@ -1,0 +1,21 @@
+ID                                    0xddea
+Delivery_person_ID             DEHRES16DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.342509
+Restaurant_longitude               78.061187
+Delivery_location_latitude         30.422509
+Delivery_location_longitude        78.141187
+Order_Date                        14-02-2022
+Time_Orderd                            20:55
+Time_Order_picked                      21:10
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   40.000000
+Name: 8903, dtype: object

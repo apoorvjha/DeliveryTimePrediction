@@ -1,0 +1,21 @@
+ID                                     0x917f
+Delivery_person_ID             PUNERES12DEL01
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 18.520016
+Restaurant_longitude                73.830547
+Delivery_location_latitude          18.590016
+Delivery_location_longitude         73.900547
+Order_Date                         14-03-2022
+Time_Orderd                             17:15
+Time_Order_picked                       17:30
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    36.000000
+Name: 10814, dtype: object

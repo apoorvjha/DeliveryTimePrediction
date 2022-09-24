@@ -1,0 +1,21 @@
+ID                                     0x64ee
+Delivery_person_ID             CHENRES06DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 13.054347
+Restaurant_longitude                80.257221
+Delivery_location_latitude          13.104347
+Delivery_location_longitude         80.307221
+Order_Date                         24-03-2022
+Time_Orderd                             20:10
+Time_Order_picked                       20:15
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    29.000000
+Name: 22071, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xbf82
+Delivery_person_ID             ALHRES05DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                25.457687
+Restaurant_longitude               81.835585
+Delivery_location_latitude         25.497687
+Delivery_location_longitude        81.875585
+Order_Date                        15-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      16:05
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8586, dtype: object

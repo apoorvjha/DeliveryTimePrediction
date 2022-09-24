@@ -1,0 +1,20 @@
+ID                                    0x9606
+Delivery_person_ID             VADRES17DEL03
+Delivery_person_Age                    25.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        21-03-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:40
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 2726, dtype: object

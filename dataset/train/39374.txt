@@ -1,0 +1,21 @@
+ID                                       0x36ca
+Delivery_person_ID                MYSRES18DEL03
+Delivery_person_Age                   37.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   12.337928
+Restaurant_longitude                  76.617889
+Delivery_location_latitude            12.397928
+Delivery_location_longitude           76.677889
+Order_Date                           19-03-2022
+Time_Orderd                               18:15
+Time_Order_picked                         18:25
+Weather conditions                       Stormy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      31.000000
+Name: 39374, dtype: object

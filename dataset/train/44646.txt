@@ -1,0 +1,21 @@
+ID                                    0x9143
+Delivery_person_ID             VADRES03DEL01
+Delivery_person_Age                    23.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.36
+Delivery_location_longitude            73.21
+Order_Date                        05-03-2022
+Time_Orderd                            14:30
+Time_Order_picked                      14:45
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       29.00
+Name: 44646, dtype: object

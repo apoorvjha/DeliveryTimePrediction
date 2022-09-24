@@ -1,0 +1,21 @@
+ID                                    0xbf0e
+Delivery_person_ID             GOARES04DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -15.569600
+Restaurant_longitude              -73.742294
+Delivery_location_latitude         15.599600
+Delivery_location_longitude        73.772294
+Order_Date                        11-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:10
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 535, dtype: object

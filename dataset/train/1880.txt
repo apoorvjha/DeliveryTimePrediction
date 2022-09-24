@@ -1,0 +1,21 @@
+ID                                    0xa96e
+Delivery_person_ID             VADRES20DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.311358
+Restaurant_longitude               73.164798
+Delivery_location_latitude         22.421358
+Delivery_location_longitude        73.274798
+Order_Date                        31-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   36.000000
+Name: 1880, dtype: object

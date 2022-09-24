@@ -1,0 +1,20 @@
+ID                                       0x3f1d
+Delivery_person_ID               PUNERES01DEL03
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                   18.569156
+Restaurant_longitude                  73.774723
+Delivery_location_latitude            18.659156
+Delivery_location_longitude           73.864723
+Order_Date                           06-04-2022
+Time_Orderd                               19:30
+Time_Order_picked                         19:45
+Weather conditions                       Cloudy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                    Yes
+City                              Metropolitian
+Name: 2954, dtype: object

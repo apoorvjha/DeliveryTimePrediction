@@ -1,0 +1,21 @@
+ID                                    0x36d6
+Delivery_person_ID             MUMRES17DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                19.121999
+Restaurant_longitude               72.908493
+Delivery_location_latitude         19.161999
+Delivery_location_longitude        72.948493
+Order_Date                        24-03-2022
+Time_Orderd                            14:30
+Time_Order_picked                      14:40
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   26.000000
+Name: 20063, dtype: object

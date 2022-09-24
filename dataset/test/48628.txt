@@ -1,0 +1,20 @@
+ID                                      0x680
+Delivery_person_ID             VADRES010DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.380329
+Delivery_location_longitude         73.239083
+Order_Date                         12-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       19:20
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 3035, dtype: object

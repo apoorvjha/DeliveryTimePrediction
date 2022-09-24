@@ -1,0 +1,21 @@
+ID                                    0xe054
+Delivery_person_ID             KOCRES18DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                 9.957144
+Restaurant_longitude               76.296783
+Delivery_location_latitude         10.087144
+Delivery_location_longitude        76.426783
+Order_Date                        16-02-2022
+Time_Orderd                            23:40
+Time_Order_picked                      23:45
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 4170, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xcec7
+Delivery_person_ID             BHPRES05DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                23.214459
+Restaurant_longitude               77.434976
+Delivery_location_latitude         23.244459
+Delivery_location_longitude        77.464976
+Order_Date                        13-02-2022
+Time_Orderd                            18:40
+Time_Order_picked                      18:45
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   20.000000
+Name: 19935, dtype: object

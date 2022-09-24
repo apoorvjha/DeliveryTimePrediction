@@ -1,0 +1,20 @@
+ID                                     0x5cf1
+Delivery_person_ID             INDORES03DEL01
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 22.751857
+Restaurant_longitude                75.866699
+Delivery_location_latitude          22.791857
+Delivery_location_longitude         75.906699
+Order_Date                         09-03-2022
+Time_Orderd                             16:60
+Time_Order_picked                       17:05
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 2533, dtype: object

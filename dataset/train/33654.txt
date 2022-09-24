@@ -1,0 +1,21 @@
+ID                                     0x3004
+Delivery_person_ID             PUNERES03DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.554382
+Restaurant_longitude                73.798206
+Delivery_location_latitude          18.574382
+Delivery_location_longitude         73.818206
+Order_Date                         26-03-2022
+Time_Orderd                             10:60
+Time_Order_picked                       11:05
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    29.000000
+Name: 33654, dtype: object

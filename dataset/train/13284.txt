@@ -1,0 +1,21 @@
+ID                                    0xc5f0
+Delivery_person_ID             DEHRES06DEL03
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                30.361281
+Restaurant_longitude               78.068022
+Delivery_location_latitude         30.501281
+Delivery_location_longitude        78.208022
+Order_Date                        12-02-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:30
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   30.000000
+Name: 13284, dtype: object

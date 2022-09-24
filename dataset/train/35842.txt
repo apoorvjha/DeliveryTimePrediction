@@ -1,0 +1,21 @@
+ID                                       0x1bad
+Delivery_person_ID               SURRES010DEL03
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   21.171060
+Restaurant_longitude                  72.789292
+Delivery_location_latitude            21.201060
+Delivery_location_longitude           72.819292
+Order_Date                           09-03-2022
+Time_Orderd                               23:35
+Time_Order_picked                         23:40
+Weather conditions                   Sandstorms
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      14.000000
+Name: 35842, dtype: object

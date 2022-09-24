@@ -1,0 +1,21 @@
+ID                                       0xb271
+Delivery_person_ID              COIMBRES11DEL03
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   11.001753
+Restaurant_longitude                  76.986241
+Delivery_location_latitude            11.091753
+Delivery_location_longitude           77.076241
+Order_Date                           02-04-2022
+Time_Orderd                               22:45
+Time_Order_picked                         22:55
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      25.000000
+Name: 17509, dtype: object

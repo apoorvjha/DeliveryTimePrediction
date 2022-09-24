@@ -1,0 +1,21 @@
+ID                                    0x75b8
+Delivery_person_ID             MYSRES18DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.337928
+Restaurant_longitude               76.617889
+Delivery_location_latitude         12.417928
+Delivery_location_longitude        76.697889
+Order_Date                        10-03-2022
+Time_Orderd                            17:55
+Time_Order_picked                      18:05
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   29.000000
+Name: 21785, dtype: object

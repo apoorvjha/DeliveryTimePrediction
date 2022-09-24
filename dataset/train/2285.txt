@@ -1,0 +1,21 @@
+ID                                    0xe13d
+Delivery_person_ID             ALHRES13DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.451646
+Restaurant_longitude               81.832796
+Delivery_location_latitude         25.581646
+Delivery_location_longitude        81.962796
+Order_Date                        16-02-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:50
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   48.000000
+Name: 2285, dtype: object

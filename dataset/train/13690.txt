@@ -1,0 +1,21 @@
+ID                                    0x6d61
+Delivery_person_ID             MYSRES14DEL01
+Delivery_person_Age                    34.00
+Delivery_person_Ratings                 3.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        18-03-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:30
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       39.00
+Name: 13690, dtype: object

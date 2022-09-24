@@ -1,0 +1,21 @@
+ID                                    0xc1f0
+Delivery_person_ID             ALHRES03DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.451517
+Restaurant_longitude               81.832616
+Delivery_location_latitude         25.581517
+Delivery_location_longitude        81.962616
+Order_Date                        16-02-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:40
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   23.000000
+Name: 28073, dtype: object

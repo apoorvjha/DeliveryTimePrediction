@@ -1,0 +1,20 @@
+ID                                    0x621c
+Delivery_person_ID             VADRES13DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.380237
+Delivery_location_longitude        73.228921
+Order_Date                        16-03-2022
+Time_Orderd                            22:50
+Time_Order_picked                      23:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 10591, dtype: object

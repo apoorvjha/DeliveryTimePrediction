@@ -1,0 +1,20 @@
+ID                                     0x6df2
+Delivery_person_ID             CHENRES08DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 13.022394
+Restaurant_longitude                80.242439
+Delivery_location_latitude          13.032394
+Delivery_location_longitude         80.252439
+Order_Date                         05-03-2022
+Time_Orderd                              9:50
+Time_Order_picked                       10:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 6089, dtype: object

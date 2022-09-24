@@ -1,0 +1,21 @@
+ID                                    0x1b60
+Delivery_person_ID             VADRES13DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.360237
+Delivery_location_longitude        73.208921
+Order_Date                        05-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      17:35
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 38155, dtype: object

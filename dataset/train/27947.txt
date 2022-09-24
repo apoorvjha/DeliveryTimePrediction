@@ -1,0 +1,21 @@
+ID                                    0xdaac
+Delivery_person_ID             GOARES16DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                15.498603
+Restaurant_longitude               73.826911
+Delivery_location_latitude         15.538603
+Delivery_location_longitude        73.866911
+Order_Date                        13-02-2022
+Time_Orderd                            16:50
+Time_Order_picked                      16:55
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   16.000000
+Name: 27947, dtype: object

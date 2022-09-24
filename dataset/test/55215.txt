@@ -1,0 +1,20 @@
+ID                                     0x2620
+Delivery_person_ID             CHENRES05DEL01
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 13.058616
+Restaurant_longitude                80.264151
+Delivery_location_latitude          13.068616
+Delivery_location_longitude         80.274151
+Order_Date                         07-03-2022
+Time_Orderd                             11:25
+Time_Order_picked                       11:35
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 9622, dtype: object

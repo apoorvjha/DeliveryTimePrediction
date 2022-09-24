@@ -1,0 +1,21 @@
+ID                                    0xde21
+Delivery_person_ID             GOARES15DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                15.513150
+Restaurant_longitude               73.783460
+Delivery_location_latitude         15.583150
+Delivery_location_longitude        73.853459
+Order_Date                        12-02-2022
+Time_Orderd                            23:50
+Time_Order_picked                      23:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 41028, dtype: object

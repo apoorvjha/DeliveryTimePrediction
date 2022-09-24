@@ -1,0 +1,20 @@
+ID                                    0x7168
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        10-03-2022
+Time_Orderd                            22:20
+Time_Order_picked                      22:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 4296, dtype: object

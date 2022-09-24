@@ -1,0 +1,21 @@
+ID                                    0x641a
+Delivery_person_ID             MYSRES06DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.323994
+Restaurant_longitude               76.626167
+Delivery_location_latitude         12.343994
+Delivery_location_longitude        76.646167
+Order_Date                        09-03-2022
+Time_Orderd                            10:40
+Time_Order_picked                      10:55
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 16204, dtype: object

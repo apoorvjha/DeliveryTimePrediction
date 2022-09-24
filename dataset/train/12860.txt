@@ -1,0 +1,21 @@
+ID                                       0xdd62
+Delivery_person_ID                BHPRES12DEL03
+Delivery_person_Age                       21.00
+Delivery_person_Ratings                    4.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.06
+Delivery_location_longitude                0.06
+Order_Date                           17-02-2022
+Time_Orderd                               18:10
+Time_Order_picked                         18:20
+Weather conditions                        Windy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          27.00
+Name: 12860, dtype: object

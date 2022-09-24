@@ -1,0 +1,21 @@
+ID                                     0x1ade
+Delivery_person_ID             CHENRES13DEL01
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 13.027018
+Restaurant_longitude                80.254791
+Delivery_location_latitude          13.097018
+Delivery_location_longitude         80.324791
+Order_Date                         29-03-2022
+Time_Orderd                             17:30
+Time_Order_picked                       17:45
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    16.000000
+Name: 4315, dtype: object

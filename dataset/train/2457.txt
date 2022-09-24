@@ -1,0 +1,21 @@
+ID                                    0x9447
+Delivery_person_ID             HYDRES15DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.499710
+Delivery_location_longitude        78.408855
+Order_Date                        11-03-2022
+Time_Orderd                            13:20
+Time_Order_picked                      13:30
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   46.000000
+Name: 2457, dtype: object

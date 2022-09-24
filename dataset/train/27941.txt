@@ -1,0 +1,21 @@
+ID                                     0x1387
+Delivery_person_ID             BANGRES09DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 12.934179
+Restaurant_longitude                77.615797
+Delivery_location_latitude          12.954179
+Delivery_location_longitude         77.635797
+Order_Date                         03-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       10:50
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    27.000000
+Name: 27941, dtype: object

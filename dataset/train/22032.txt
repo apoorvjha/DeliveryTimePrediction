@@ -1,0 +1,21 @@
+ID                                    0xae6c
+Delivery_person_ID             VADRES16DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        12-03-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:10
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       30.00
+Name: 22032, dtype: object

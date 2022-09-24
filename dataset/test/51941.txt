@@ -1,0 +1,20 @@
+ID                                     0xcfe5
+Delivery_person_ID             AURGRES05DEL01
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 19.875522
+Restaurant_longitude                75.367127
+Delivery_location_latitude          19.915522
+Delivery_location_longitude         75.407127
+Order_Date                         11-02-2022
+Time_Orderd                             15:40
+Time_Order_picked                       15:45
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 6348, dtype: object

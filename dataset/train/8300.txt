@@ -1,0 +1,21 @@
+ID                                      0xaac
+Delivery_person_ID             INDORES16DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.784648
+Delivery_location_longitude         75.934377
+Order_Date                         01-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       16:35
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    28.000000
+Name: 8300, dtype: object

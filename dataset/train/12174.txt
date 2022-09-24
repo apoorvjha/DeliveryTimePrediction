@@ -1,0 +1,21 @@
+ID                                    0xcbea
+Delivery_person_ID             KNPRES06DEL03
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        11-02-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:20
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       20.00
+Name: 12174, dtype: object

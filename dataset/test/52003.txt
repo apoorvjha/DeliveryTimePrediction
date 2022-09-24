@@ -1,0 +1,20 @@
+ID                                    0x39c7
+Delivery_person_ID             MYSRES17DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                12.326356
+Restaurant_longitude               76.619103
+Delivery_location_latitude         12.346356
+Delivery_location_longitude        76.639103
+Order_Date                        28-03-2022
+Time_Orderd                             9:50
+Time_Order_picked                       9:60
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 6410, dtype: object

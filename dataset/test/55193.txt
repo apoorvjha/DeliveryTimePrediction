@@ -1,0 +1,20 @@
+ID                                     0x3308
+Delivery_person_ID             BANGRES09DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 12.934179
+Restaurant_longitude                77.615797
+Delivery_location_latitude          12.984179
+Delivery_location_longitude         77.665797
+Order_Date                         17-03-2022
+Time_Orderd                             17:40
+Time_Order_picked                       17:45
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 9600, dtype: object

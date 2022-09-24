@@ -1,0 +1,20 @@
+ID                                     0xc6e3
+Delivery_person_ID             AURGRES19DEL02
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 19.866969
+Restaurant_longitude                75.318894
+Delivery_location_latitude          19.886969
+Delivery_location_longitude         75.338894
+Order_Date                         17-02-2022
+Time_Orderd                             10:25
+Time_Order_picked                       10:30
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Name: 626, dtype: object

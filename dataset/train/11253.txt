@@ -1,0 +1,21 @@
+ID                                       0x377c
+Delivery_person_ID               VADRES010DEL03
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   22.310329
+Restaurant_longitude                  73.169083
+Delivery_location_latitude            22.370329
+Delivery_location_longitude           73.229083
+Order_Date                           30-03-2022
+Time_Orderd                               21:25
+Time_Order_picked                         21:40
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      27.000000
+Name: 11253, dtype: object

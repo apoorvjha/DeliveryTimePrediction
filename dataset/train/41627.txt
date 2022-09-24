@@ -1,0 +1,21 @@
+ID                                     0x2866
+Delivery_person_ID             INDORES07DEL01
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 22.722634
+Restaurant_longitude                75.886959
+Delivery_location_latitude          22.792634
+Delivery_location_longitude         75.956959
+Order_Date                         06-03-2022
+Time_Orderd                             23:45
+Time_Order_picked                       23:60
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    21.000000
+Name: 41627, dtype: object

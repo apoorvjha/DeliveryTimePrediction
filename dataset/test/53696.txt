@@ -1,0 +1,20 @@
+ID                                    0x6752
+Delivery_person_ID             HYDRES11DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.430448
+Restaurant_longitude               78.418213
+Delivery_location_latitude         17.440448
+Delivery_location_longitude        78.428213
+Order_Date                        09-03-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:35
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 8103, dtype: object

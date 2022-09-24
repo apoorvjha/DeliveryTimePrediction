@@ -1,0 +1,21 @@
+ID                                    0x7e90
+Delivery_person_ID             VADRES09DEL03
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        01-03-2022
+Time_Orderd                            18:10
+Time_Order_picked                      18:15
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       24.00
+Name: 5119, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x1342
+Delivery_person_ID             VADRES04DEL03
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        03-03-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:45
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       20.00
+Name: 7110, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x67f4
+Delivery_person_ID                HYDRES06DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   17.455894
+Restaurant_longitude                  78.375467
+Delivery_location_latitude            17.465894
+Delivery_location_longitude           78.385467
+Order_Date                           05-04-2022
+Time_Orderd                                9:30
+Time_Order_picked                          9:35
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      18.000000
+Name: 1265, dtype: object

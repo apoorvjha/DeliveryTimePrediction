@@ -1,0 +1,21 @@
+ID                                     0x4d2
+Delivery_person_ID             VADRES19DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -22.311844
+Restaurant_longitude              -73.165081
+Delivery_location_latitude         22.401844
+Delivery_location_longitude        73.255081
+Order_Date                        06-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:55
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Buffet
+Type_of_vehicle                      bicycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 17493, dtype: object

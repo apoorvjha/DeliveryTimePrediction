@@ -1,0 +1,21 @@
+ID                                       0x27af
+Delivery_person_ID                JAPRES02DEL03
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   26.914142
+Restaurant_longitude                  75.805704
+Delivery_location_latitude            26.974142
+Delivery_location_longitude           75.865704
+Order_Date                           03-03-2022
+Time_Orderd                               17:45
+Time_Order_picked                         17:55
+Weather conditions                          Fog
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      13.000000
+Name: 1985, dtype: object

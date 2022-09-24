@@ -1,0 +1,20 @@
+ID                                     0x8045
+Delivery_person_ID             CHENRES12DEL01
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.972793
+Restaurant_longitude                80.249982
+Delivery_location_latitude          13.042793
+Delivery_location_longitude         80.319982
+Order_Date                         04-04-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:60
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 11133, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xd0f2
+Delivery_person_ID             AURGRES12DEL03
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.879631
+Restaurant_longitude                75.323403
+Delivery_location_latitude          19.939631
+Delivery_location_longitude         75.383403
+Order_Date                         11-02-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:50
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 9953, dtype: object

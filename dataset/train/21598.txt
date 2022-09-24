@@ -1,0 +1,21 @@
+ID                                      0x4d08
+Delivery_person_ID             INDORES010DEL01
+Delivery_person_Age                  21.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  22.750040
+Restaurant_longitude                 75.902847
+Delivery_location_latitude           22.820040
+Delivery_location_longitude          75.972847
+Order_Date                          04-04-2022
+Time_Orderd                              23:20
+Time_Order_picked                        23:35
+Weather conditions                         Fog
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     24.000000
+Name: 21598, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x502f
+Delivery_person_ID             INDORES09DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.805835
+Delivery_location_longitude         75.967648
+Order_Date                         02-03-2022
+Time_Orderd                             20:55
+Time_Order_picked                       21:10
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 10811, dtype: object

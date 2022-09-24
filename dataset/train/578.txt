@@ -1,0 +1,21 @@
+ID                                       0xd4f9
+Delivery_person_ID                AGRRES12DEL02
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.100000
+Restaurant_latitude                   27.165108
+Restaurant_longitude                  78.015053
+Delivery_location_latitude            27.215108
+Delivery_location_longitude           78.065053
+Order_Date                           13-02-2022
+Time_Orderd                               17:15
+Time_Order_picked                         17:25
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      32.000000
+Name: 578, dtype: object

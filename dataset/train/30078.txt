@@ -1,0 +1,21 @@
+ID                                    0xdd8a
+Delivery_person_ID             DEHRES20DEL01
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        13-02-2022
+Time_Orderd                            11:60
+Time_Order_picked                      12:15
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       15.00
+Name: 30078, dtype: object

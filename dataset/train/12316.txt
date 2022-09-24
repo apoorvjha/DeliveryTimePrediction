@@ -1,0 +1,21 @@
+ID                                    0x9842
+Delivery_person_ID             MYSRES13DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.310972
+Restaurant_longitude               76.659264
+Delivery_location_latitude         12.360972
+Delivery_location_longitude        76.709264
+Order_Date                        01-04-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:40
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 12316, dtype: object

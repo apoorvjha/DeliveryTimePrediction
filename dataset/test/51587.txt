@@ -1,0 +1,20 @@
+ID                                    0xc376
+Delivery_person_ID             AGRRES11DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                27.163303
+Restaurant_longitude               78.057044
+Delivery_location_latitude         27.223303
+Delivery_location_longitude        78.117044
+Order_Date                        13-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:15
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5994, dtype: object

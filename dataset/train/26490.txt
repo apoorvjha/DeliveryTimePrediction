@@ -1,0 +1,21 @@
+ID                                    0x7715
+Delivery_person_ID             MUMRES09DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             3.500000
+Restaurant_latitude                18.994049
+Restaurant_longitude               72.825203
+Delivery_location_latitude         19.074049
+Delivery_location_longitude        72.905203
+Order_Date                        06-04-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:15
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   34.000000
+Name: 26490, dtype: object

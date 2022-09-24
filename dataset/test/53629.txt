@@ -1,0 +1,20 @@
+ID                                    0xaeb5
+Delivery_person_ID             MUMRES19DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.131141
+Restaurant_longitude               72.813074
+Delivery_location_latitude         19.181141
+Delivery_location_longitude        72.863074
+Order_Date                        07-03-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:25
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8036, dtype: object

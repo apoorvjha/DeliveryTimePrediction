@@ -1,0 +1,20 @@
+ID                                    0x6090
+Delivery_person_ID             VADRES11DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.308096
+Restaurant_longitude               73.167753
+Delivery_location_latitude         22.368096
+Delivery_location_longitude        73.227753
+Order_Date                        28-03-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:25
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 6860, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x4250
+Delivery_person_ID             HYDRES14DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.426228
+Restaurant_longitude               78.407495
+Delivery_location_latitude         17.536228
+Delivery_location_longitude        78.517495
+Order_Date                        20-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:55
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 29244, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd018
+Delivery_person_ID             BHPRES07DEL03
+Delivery_person_Age                    28.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        11-02-2022
+Time_Orderd                            23:25
+Time_Order_picked                      23:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       13.00
+Name: 5225, dtype: object

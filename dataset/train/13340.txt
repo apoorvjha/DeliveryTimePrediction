@@ -1,0 +1,21 @@
+ID                                     0x7900
+Delivery_person_ID             BANGRES06DEL01
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.979096
+Restaurant_longitude                77.640625
+Delivery_location_latitude          12.989096
+Delivery_location_longitude         77.650625
+Order_Date                         03-03-2022
+Time_Orderd                              8:60
+Time_Order_picked                        9:15
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Time_taken (min)                    24.000000
+Name: 13340, dtype: object

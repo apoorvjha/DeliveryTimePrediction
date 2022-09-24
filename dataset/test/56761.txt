@@ -1,0 +1,20 @@
+ID                                     0x5a7
+Delivery_person_ID             MUMRES17DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -19.121999
+Restaurant_longitude               72.908493
+Delivery_location_latitude         19.171999
+Delivery_location_longitude        72.958493
+Order_Date                        15-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      20:30
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 11168, dtype: object

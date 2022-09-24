@@ -1,0 +1,21 @@
+ID                                     0x3dea
+Delivery_person_ID             INDORES03DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.751857
+Restaurant_longitude                75.866699
+Delivery_location_latitude          22.831857
+Delivery_location_longitude         75.946699
+Order_Date                         04-03-2022
+Time_Orderd                             17:45
+Time_Order_picked                       17:50
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    29.000000
+Name: 6930, dtype: object

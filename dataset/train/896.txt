@@ -1,0 +1,21 @@
+ID                                    0xd254
+Delivery_person_ID             ALHRES02DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                25.453436
+Restaurant_longitude               81.833167
+Delivery_location_latitude         25.583436
+Delivery_location_longitude        81.963167
+Order_Date                        18-02-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   46.000000
+Name: 896, dtype: object

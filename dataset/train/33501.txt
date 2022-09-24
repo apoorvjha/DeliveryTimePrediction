@@ -1,0 +1,21 @@
+ID                                    0xc48c
+Delivery_person_ID             BHPRES16DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.264015
+Restaurant_longitude               77.408236
+Delivery_location_latitude         23.314015
+Delivery_location_longitude        77.458236
+Order_Date                        17-02-2022
+Time_Orderd                            23:25
+Time_Order_picked                      23:40
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   14.000000
+Name: 33501, dtype: object

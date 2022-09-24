@@ -1,0 +1,21 @@
+ID                                       0x44e1
+Delivery_person_ID               CHENRES04DEL03
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   13.029780
+Restaurant_longitude                  80.208812
+Delivery_location_latitude            13.059780
+Delivery_location_longitude           80.238812
+Order_Date                           19-03-2022
+Time_Orderd                               22:55
+Time_Order_picked                         23:10
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      11.000000
+Name: 40091, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xd3cd
+Delivery_person_ID             AURGRES15DEL02
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 19.878028
+Restaurant_longitude                75.317475
+Delivery_location_latitude          19.958028
+Delivery_location_longitude         75.397475
+Order_Date                         14-02-2022
+Time_Orderd                             18:50
+Time_Order_picked                       19:05
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    31.000000
+Name: 956, dtype: object

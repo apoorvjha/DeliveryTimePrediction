@@ -1,0 +1,21 @@
+ID                                    0xd60c
+Delivery_person_ID             KNPRES18DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                26.474133
+Restaurant_longitude               80.348100
+Delivery_location_latitude         26.554133
+Delivery_location_longitude        80.428100
+Order_Date                        16-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:25
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   44.000000
+Name: 27500, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xdafc
+Delivery_person_ID             GOARES15DEL01
+Delivery_person_Age                 32.00000
+Delivery_person_Ratings              4.10000
+Restaurant_latitude                 15.51315
+Restaurant_longitude                73.78346
+Delivery_location_latitude          15.62315
+Delivery_location_longitude         73.89346
+Order_Date                        18-02-2022
+Time_Orderd                            18:25
+Time_Order_picked                      18:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                  1.00000
+Festival                                 Yes
+City                           Metropolitian
+Name: 1990, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd76c
+Delivery_person_ID             BHPRES19DEL01
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        18-02-2022
+Time_Orderd                            20:10
+Time_Order_picked                      20:15
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     2.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       38.00
+Name: 40396, dtype: object

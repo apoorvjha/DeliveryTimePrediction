@@ -1,0 +1,21 @@
+ID                                    0xd376
+Delivery_person_ID             DEHRES03DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.375259
+Delivery_location_longitude        78.093162
+Order_Date                        13-02-2022
+Time_Orderd                            16:40
+Time_Order_picked                      16:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   23.000000
+Name: 8518, dtype: object

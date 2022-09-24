@@ -1,0 +1,21 @@
+ID                                     0x8994
+Delivery_person_ID             INDORES05DEL03
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.727021
+Restaurant_longitude                75.884167
+Delivery_location_latitude          22.817021
+Delivery_location_longitude         75.974167
+Order_Date                         06-04-2022
+Time_Orderd                             22:10
+Time_Order_picked                       22:25
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 17737, dtype: object

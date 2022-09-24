@@ -1,0 +1,21 @@
+ID                                    0x8124
+Delivery_person_ID             MUMRES19DEL03
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                19.131141
+Restaurant_longitude               72.813074
+Delivery_location_latitude         19.191140
+Delivery_location_longitude        72.873074
+Order_Date                        17-03-2022
+Time_Orderd                            23:35
+Time_Order_picked                      23:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   14.000000
+Name: 34839, dtype: object

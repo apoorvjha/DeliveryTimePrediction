@@ -1,0 +1,20 @@
+ID                                    0xcaac
+Delivery_person_ID             AGRRES17DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                27.157772
+Restaurant_longitude               78.047250
+Delivery_location_latitude         27.267772
+Delivery_location_longitude        78.157250
+Order_Date                        14-02-2022
+Time_Orderd                            20:50
+Time_Order_picked                      20:55
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 11164, dtype: object

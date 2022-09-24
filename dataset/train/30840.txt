@@ -1,0 +1,21 @@
+ID                                     0x729e
+Delivery_person_ID             INDORES19DEL01
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.745536
+Restaurant_longitude                75.893106
+Delivery_location_latitude          22.755536
+Delivery_location_longitude         75.903106
+Order_Date                         21-03-2022
+Time_Orderd                              8:25
+Time_Order_picked                        8:30
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    16.000000
+Name: 30840, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x873f
+Delivery_person_ID             BANGRES13DEL01
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.935662
+Restaurant_longitude                77.614130
+Delivery_location_latitude          12.945662
+Delivery_location_longitude         77.624130
+Order_Date                         03-04-2022
+Time_Orderd                             10:35
+Time_Order_picked                       10:40
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    11.000000
+Name: 41725, dtype: object

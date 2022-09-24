@@ -1,0 +1,21 @@
+ID                                     0xc7d8
+Delivery_person_ID             AURGRES07DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 19.875908
+Restaurant_longitude                75.358888
+Delivery_location_latitude          19.895908
+Delivery_location_longitude         75.378888
+Order_Date                         15-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       11:55
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    26.000000
+Name: 37922, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xc30f
+Delivery_person_ID             KNPRES11DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.474986
+Restaurant_longitude               80.342796
+Delivery_location_latitude         26.604986
+Delivery_location_longitude        80.472796
+Order_Date                        16-02-2022
+Time_Orderd                            17:50
+Time_Order_picked                      18:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 11917, dtype: object

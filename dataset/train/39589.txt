@@ -1,0 +1,21 @@
+ID                                     0xc0cc
+Delivery_person_ID             AURGRES20DEL03
+Delivery_person_Age                     27.00
+Delivery_person_Ratings                  4.60
+Restaurant_latitude                     -0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.09
+Delivery_location_longitude              0.09
+Order_Date                         12-02-2022
+Time_Orderd                             19:25
+Time_Order_picked                       19:30
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                      0.00
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                        33.00
+Name: 39589, dtype: object

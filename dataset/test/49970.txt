@@ -1,0 +1,20 @@
+ID                                       0xb50a
+Delivery_person_ID                SURRES14DEL01
+Delivery_person_Age                   22.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   21.157729
+Restaurant_longitude                  72.768726
+Delivery_location_latitude            21.197729
+Delivery_location_longitude           72.808726
+Order_Date                           11-03-2022
+Time_Orderd                               12:45
+Time_Order_picked                         12:60
+Weather conditions                        Windy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4377, dtype: object

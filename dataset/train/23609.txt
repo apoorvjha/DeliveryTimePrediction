@@ -1,0 +1,21 @@
+ID                                       0x18b0
+Delivery_person_ID             RANCHIRES02DEL01
+Delivery_person_Age                       15.00
+Delivery_person_Ratings                    1.00
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           16-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:55
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                         bicycle
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          21.00
+Name: 23609, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xa6a
+Delivery_person_ID             SURRES16DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                21.160437
+Restaurant_longitude               72.774209
+Delivery_location_latitude         21.180437
+Delivery_location_longitude        72.794209
+Order_Date                        24-03-2022
+Time_Orderd                            10:55
+Time_Order_picked                      10:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   14.000000
+Name: 20175, dtype: object

@@ -1,0 +1,21 @@
+ID                                      0x772c
+Delivery_person_ID             CHENRES010DEL01
+Delivery_person_Age                  37.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  13.066762
+Restaurant_longitude                 80.251865
+Delivery_location_latitude           13.106762
+Delivery_location_longitude          80.291865
+Order_Date                          05-04-2022
+Time_Orderd                              15:20
+Time_Order_picked                        15:25
+Weather conditions                      Cloudy
+Road_traffic_density                    Medium
+Vehicle_condition                            0
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     27.000000
+Name: 34450, dtype: object

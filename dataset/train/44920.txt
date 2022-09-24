@@ -1,0 +1,21 @@
+ID                                    0x5fe4
+Delivery_person_ID             VADRES13DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.420237
+Delivery_location_longitude        73.268921
+Order_Date                        04-03-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   45.000000
+Name: 44920, dtype: object

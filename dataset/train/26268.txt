@@ -1,0 +1,21 @@
+ID                                    0x8348
+Delivery_person_ID             HYDRES14DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.426228
+Restaurant_longitude               78.407495
+Delivery_location_latitude         17.476228
+Delivery_location_longitude        78.457495
+Order_Date                        15-03-2022
+Time_Orderd                            20:35
+Time_Order_picked                      20:50
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 26268, dtype: object

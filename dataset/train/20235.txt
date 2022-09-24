@@ -1,0 +1,21 @@
+ID                                    0x1a45
+Delivery_person_ID             JAPRES14DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.948420
+Delivery_location_longitude        75.860689
+Order_Date                        01-04-2022
+Time_Orderd                            22:55
+Time_Order_picked                      22:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 20235, dtype: object

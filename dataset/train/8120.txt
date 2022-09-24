@@ -1,0 +1,21 @@
+ID                                      0x727
+Delivery_person_ID             PUNERES02DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.551440
+Restaurant_longitude                73.804855
+Delivery_location_latitude          18.591440
+Delivery_location_longitude         73.844855
+Order_Date                         03-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       14:10
+Weather conditions                     Stormy
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 8120, dtype: object

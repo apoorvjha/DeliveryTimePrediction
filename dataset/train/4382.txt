@@ -1,0 +1,21 @@
+ID                                    0xd725
+Delivery_person_ID             AGRRES16DEL02
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        15-02-2022
+Time_Orderd                            21:10
+Time_Order_picked                      21:20
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       39.00
+Name: 4382, dtype: object

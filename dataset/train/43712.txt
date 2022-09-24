@@ -1,0 +1,21 @@
+ID                                    0x2016
+Delivery_person_ID             HYDRES15DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.539710
+Delivery_location_longitude        78.448855
+Order_Date                        02-03-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   39.000000
+Name: 43712, dtype: object

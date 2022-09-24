@@ -1,0 +1,21 @@
+ID                                     0x169f
+Delivery_person_ID             PUNERES03DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.554382
+Restaurant_longitude                73.798206
+Delivery_location_latitude          18.564382
+Delivery_location_longitude         73.808206
+Order_Date                         26-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                        8:35
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                          Drinks
+Type_of_vehicle                       bicycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    19.000000
+Name: 32334, dtype: object

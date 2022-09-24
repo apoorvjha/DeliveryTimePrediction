@@ -1,0 +1,20 @@
+ID                                        0xe50
+Delivery_person_ID               CHENRES20DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   12.975996
+Restaurant_longitude                  80.221898
+Delivery_location_latitude            13.085996
+Delivery_location_longitude           80.331898
+Order_Date                           18-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         20:50
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    3.000000
+Festival                                     No
+City                              Metropolitian
+Name: 7836, dtype: object

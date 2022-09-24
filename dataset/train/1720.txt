@@ -1,0 +1,21 @@
+ID                                     0x7f65
+Delivery_person_ID             BANGRES15DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.975377
+Restaurant_longitude                77.696664
+Delivery_location_latitude          13.105377
+Delivery_location_longitude         77.826664
+Order_Date                         06-04-2022
+Time_Orderd                             20:15
+Time_Order_picked                       20:25
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    19.000000
+Name: 1720, dtype: object

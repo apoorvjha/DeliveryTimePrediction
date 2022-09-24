@@ -1,0 +1,21 @@
+ID                                     0x1522
+Delivery_person_ID             CHENRES02DEL01
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.086438
+Restaurant_longitude                80.220672
+Delivery_location_latitude          13.156439
+Delivery_location_longitude         80.290672
+Order_Date                         06-03-2022
+Time_Orderd                             18:25
+Time_Order_picked                       18:40
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    28.000000
+Name: 8614, dtype: object

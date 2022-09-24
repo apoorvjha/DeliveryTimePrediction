@@ -1,0 +1,20 @@
+ID                                    0xc254
+Delivery_person_ID             DEHRES17DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.327968
+Restaurant_longitude               78.046106
+Delivery_location_latitude         30.347968
+Delivery_location_longitude        78.066106
+Order_Date                        13-02-2022
+Time_Orderd                            10:20
+Time_Order_picked                      10:30
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 11120, dtype: object

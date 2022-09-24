@@ -1,0 +1,21 @@
+ID                                    0xda68
+Delivery_person_ID             DEHRES03DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.365259
+Delivery_location_longitude        78.083162
+Order_Date                        11-02-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 43908, dtype: object

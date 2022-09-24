@@ -1,0 +1,21 @@
+ID                                    0x7634
+Delivery_person_ID             MUMRES04DEL01
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                19.254567
+Restaurant_longitude               72.848923
+Delivery_location_latitude         19.294567
+Delivery_location_longitude        72.888923
+Order_Date                        05-04-2022
+Time_Orderd                            13:45
+Time_Order_picked                      13:50
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   32.000000
+Name: 17074, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x931f
+Delivery_person_ID             SURRES18DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                21.149834
+Restaurant_longitude               72.778666
+Delivery_location_latitude         21.179834
+Delivery_location_longitude        72.808666
+Order_Date                        17-03-2022
+Time_Orderd                            21:40
+Time_Order_picked                      21:45
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 2026, dtype: object

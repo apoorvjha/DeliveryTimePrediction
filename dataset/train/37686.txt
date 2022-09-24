@@ -1,0 +1,21 @@
+ID                                       0x1081
+Delivery_person_ID                JAPRES15DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   26.891191
+Restaurant_longitude                  75.802083
+Delivery_location_latitude            26.941191
+Delivery_location_longitude           75.852083
+Order_Date                           01-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:20
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      14.000000
+Name: 37686, dtype: object

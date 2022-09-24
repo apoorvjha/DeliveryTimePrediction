@@ -1,0 +1,21 @@
+ID                                      0x17af
+Delivery_person_ID             COIMBRES19DEL01
+Delivery_person_Age                  37.000000
+Delivery_person_Ratings               4.800000
+Restaurant_latitude                  11.022298
+Restaurant_longitude                 76.998349
+Delivery_location_latitude           11.032298
+Delivery_location_longitude          77.008349
+Order_Date                          19-03-2022
+Time_Orderd                              11:45
+Time_Order_picked                        11:50
+Weather conditions                         Fog
+Road_traffic_density                      High
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     27.000000
+Name: 25722, dtype: object

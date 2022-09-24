@@ -1,0 +1,21 @@
+ID                                    0x82ea
+Delivery_person_ID             MYSRES12DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             3.500000
+Restaurant_latitude                12.284747
+Restaurant_longitude               76.625861
+Delivery_location_latitude         12.364747
+Delivery_location_longitude        76.705861
+Order_Date                        12-03-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   33.000000
+Name: 9460, dtype: object

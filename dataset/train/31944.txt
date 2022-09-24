@@ -1,0 +1,21 @@
+ID                                     0xcc98
+Delivery_person_ID             AURGRES02DEL01
+Delivery_person_Age                     28.00
+Delivery_person_Ratings                  4.90
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.01
+Delivery_location_longitude              0.01
+Order_Date                         11-02-2022
+Time_Orderd                              8:15
+Time_Order_picked                        8:25
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                      0.00
+Festival                                   No
+City                                    Urban
+Time_taken (min)                        14.00
+Name: 31944, dtype: object

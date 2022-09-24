@@ -1,0 +1,21 @@
+ID                                     0xd547
+Delivery_person_ID             LUDHRES03DEL03
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 30.887220
+Restaurant_longitude                75.804893
+Delivery_location_latitude          30.947220
+Delivery_location_longitude         75.864893
+Order_Date                         11-02-2022
+Time_Orderd                             22:10
+Time_Order_picked                       22:20
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    20.000000
+Name: 12574, dtype: object

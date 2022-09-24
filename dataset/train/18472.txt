@@ -1,0 +1,21 @@
+ID                                        0x943
+Delivery_person_ID               BANGRES13DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   12.935662
+Restaurant_longitude                  77.614130
+Delivery_location_latitude            13.045662
+Delivery_location_longitude           77.724130
+Order_Date                           25-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         18:60
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      33.000000
+Name: 18472, dtype: object

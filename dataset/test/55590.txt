@@ -1,0 +1,20 @@
+ID                                     0x2b9b
+Delivery_person_ID             BANGRES14DEL02
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.949934
+Restaurant_longitude                77.699386
+Delivery_location_latitude          12.999934
+Delivery_location_longitude         77.749386
+Order_Date                         21-03-2022
+Time_Orderd                             22:40
+Time_Order_picked                       22:55
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 9997, dtype: object

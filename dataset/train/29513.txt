@@ -1,0 +1,21 @@
+ID                                     0x5113
+Delivery_person_ID             BANGRES03DEL02
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.979166
+Restaurant_longitude                77.640709
+Delivery_location_latitude          13.059166
+Delivery_location_longitude         77.720709
+Order_Date                         04-03-2022
+Time_Orderd                             17:20
+Time_Order_picked                       17:30
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    42.000000
+Name: 29513, dtype: object

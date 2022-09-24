@@ -1,0 +1,20 @@
+ID                                        0x724
+Delivery_person_ID               HYDRES010DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   17.428294
+Restaurant_longitude                  78.404423
+Delivery_location_latitude            17.498294
+Delivery_location_longitude           78.474423
+Order_Date                           06-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         24:10
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 311, dtype: object

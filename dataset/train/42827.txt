@@ -1,0 +1,21 @@
+ID                                    0x8a77
+Delivery_person_ID             HYDRES08DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.438263
+Restaurant_longitude               78.397865
+Delivery_location_latitude         17.478263
+Delivery_location_longitude        78.437865
+Order_Date                        28-03-2022
+Time_Orderd                            16:55
+Time_Order_picked                      17:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   11.000000
+Name: 42827, dtype: object

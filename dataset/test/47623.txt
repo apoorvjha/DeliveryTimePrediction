@@ -1,0 +1,20 @@
+ID                                       0x7ea8
+Delivery_person_ID                VADRES13DEL02
+Delivery_person_Age                   22.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   22.310237
+Restaurant_longitude                  73.158921
+Delivery_location_latitude            22.390237
+Delivery_location_longitude           73.238921
+Order_Date                           10-03-2022
+Time_Orderd                               22:20
+Time_Order_picked                         22:30
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 2030, dtype: object

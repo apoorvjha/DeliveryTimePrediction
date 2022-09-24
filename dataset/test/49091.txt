@@ -1,0 +1,20 @@
+ID                                     0x26f2
+Delivery_person_ID             BANGRES12DEL02
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 12.939496
+Restaurant_longitude                77.625999
+Delivery_location_latitude          13.019496
+Delivery_location_longitude         77.705999
+Order_Date                         02-04-2022
+Time_Orderd                             17:40
+Time_Order_picked                       17:45
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                               Semi-Urban
+Name: 3498, dtype: object

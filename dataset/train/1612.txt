@@ -1,0 +1,21 @@
+ID                                    0xd5d9
+Delivery_person_ID             KOLRES06DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.533662
+Restaurant_longitude               88.366217
+Delivery_location_latitude         22.603662
+Delivery_location_longitude        88.436217
+Order_Date                        12-02-2022
+Time_Orderd                            20:40
+Time_Order_picked                      20:50
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   36.000000
+Name: 1612, dtype: object

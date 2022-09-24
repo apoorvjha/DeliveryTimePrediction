@@ -1,0 +1,20 @@
+ID                                      0xa50
+Delivery_person_ID             INDORES12DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.85806
+Delivery_location_longitude          76.00340
+Order_Date                         25-03-2022
+Time_Orderd                             21:35
+Time_Order_picked                       21:40
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   1.00000
+Festival                                   No
+City                            Metropolitian
+Name: 6358, dtype: object

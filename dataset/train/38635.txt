@@ -1,0 +1,21 @@
+ID                                    0xbbd0
+Delivery_person_ID             MYSRES16DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.316967
+Restaurant_longitude               76.603067
+Delivery_location_latitude         12.426967
+Delivery_location_longitude        76.713067
+Order_Date                        20-03-2022
+Time_Orderd                            20:60
+Time_Order_picked                      21:15
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 38635, dtype: object

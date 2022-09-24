@@ -1,0 +1,20 @@
+ID                                      0x4d1
+Delivery_person_ID             CHENRES03DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -13.091809
+Restaurant_longitude               -80.219104
+Delivery_location_latitude          13.221809
+Delivery_location_longitude         80.349104
+Order_Date                         29-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       21:30
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                       bicycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 11006, dtype: object

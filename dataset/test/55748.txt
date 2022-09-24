@@ -1,0 +1,20 @@
+ID                                        0x4be
+Delivery_person_ID               CHENRES04DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   13.029780
+Restaurant_longitude                  80.208812
+Delivery_location_latitude            13.119780
+Delivery_location_longitude           80.298812
+Order_Date                           29-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         20:20
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 10155, dtype: object

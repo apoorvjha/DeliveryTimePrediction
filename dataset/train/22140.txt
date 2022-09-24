@@ -1,0 +1,21 @@
+ID                                    0xe055
+Delivery_person_ID             KNPRES02DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.471617
+Restaurant_longitude               80.313564
+Delivery_location_latitude         26.581617
+Delivery_location_longitude        80.423564
+Order_Date                        16-02-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:35
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   10.000000
+Name: 22140, dtype: object

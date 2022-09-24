@@ -1,0 +1,21 @@
+ID                                    0x7758
+Delivery_person_ID             HYDRES13DEL03
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.461477
+Delivery_location_longitude        78.430350
+Order_Date                        05-04-2022
+Time_Orderd                            18:25
+Time_Order_picked                      18:40
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   27.000000
+Name: 24028, dtype: object

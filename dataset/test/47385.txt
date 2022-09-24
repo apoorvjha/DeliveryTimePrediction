@@ -1,0 +1,20 @@
+ID                                    0xd233
+Delivery_person_ID             BHPRES12DEL02
+Delivery_person_Age                    25.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        14-02-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Name: 1792, dtype: object

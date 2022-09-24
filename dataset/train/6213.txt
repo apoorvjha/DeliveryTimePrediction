@@ -1,0 +1,21 @@
+ID                                       0xccf0
+Delivery_person_ID               LUDHRES13DEL02
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                   30.893234
+Restaurant_longitude                  75.821720
+Delivery_location_latitude            30.913234
+Delivery_location_longitude           75.841720
+Order_Date                           15-02-2022
+Time_Orderd                               11:25
+Time_Order_picked                         11:30
+Weather conditions                       Cloudy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      38.000000
+Name: 6213, dtype: object

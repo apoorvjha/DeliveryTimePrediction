@@ -1,0 +1,21 @@
+ID                                    0x2610
+Delivery_person_ID             JAPRES07DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                26.766536
+Restaurant_longitude               75.837333
+Delivery_location_latitude         26.816536
+Delivery_location_longitude        75.887333
+Order_Date                        26-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:10
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   15.000000
+Name: 32665, dtype: object

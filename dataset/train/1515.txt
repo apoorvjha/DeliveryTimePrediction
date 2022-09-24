@@ -1,0 +1,21 @@
+ID                                    0x8ff9
+Delivery_person_ID             HYDRES15DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.489710
+Delivery_location_longitude        78.398855
+Order_Date                        17-03-2022
+Time_Orderd                            19:55
+Time_Order_picked                      20:05
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 1515, dtype: object

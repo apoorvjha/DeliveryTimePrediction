@@ -1,0 +1,21 @@
+ID                                    0xc3d0
+Delivery_person_ID             BHPRES16DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                23.264015
+Restaurant_longitude               77.408236
+Delivery_location_latitude         23.324015
+Delivery_location_longitude        77.468236
+Order_Date                        17-02-2022
+Time_Orderd                            22:30
+Time_Order_picked                      22:45
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 2244, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x979
+Delivery_person_ID             VADRES06DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.312790
+Restaurant_longitude               73.170283
+Delivery_location_latitude         22.382790
+Delivery_location_longitude        73.240283
+Order_Date                        04-04-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:30
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   17.000000
+Name: 34899, dtype: object

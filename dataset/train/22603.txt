@@ -1,0 +1,21 @@
+ID                                    0x9f75
+Delivery_person_ID             MYSRES08DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.327954
+Delivery_location_longitude        76.695169
+Order_Date                        03-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   10.000000
+Name: 22603, dtype: object

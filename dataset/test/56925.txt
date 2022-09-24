@@ -1,0 +1,20 @@
+ID                                     0x916b
+Delivery_person_ID             CHENRES19DEL02
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.986047
+Restaurant_longitude                80.218114
+Delivery_location_latitude          13.036047
+Delivery_location_longitude         80.268114
+Order_Date                         21-03-2022
+Time_Orderd                             21:40
+Time_Order_picked                       21:50
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 11332, dtype: object

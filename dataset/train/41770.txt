@@ -1,0 +1,21 @@
+ID                                    0x56f3
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    28.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        17-03-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:45
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       14.00
+Name: 41770, dtype: object

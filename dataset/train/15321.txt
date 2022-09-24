@@ -1,0 +1,21 @@
+ID                                       0xb3ba
+Delivery_person_ID              COIMBRES16DEL02
+Delivery_person_Age                   28.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   11.010375
+Restaurant_longitude                  76.952950
+Delivery_location_latitude            11.090375
+Delivery_location_longitude           77.032950
+Order_Date                           25-03-2022
+Time_Orderd                               22:60
+Time_Order_picked                         23:10
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      26.000000
+Name: 15321, dtype: object

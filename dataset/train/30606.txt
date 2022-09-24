@@ -1,0 +1,21 @@
+ID                                     0x4409
+Delivery_person_ID             INDORES05DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 22.727021
+Restaurant_longitude                75.884167
+Delivery_location_latitude          22.807021
+Delivery_location_longitude         75.964167
+Order_Date                         06-03-2022
+Time_Orderd                             19:45
+Time_Order_picked                       19:55
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    16.000000
+Name: 30606, dtype: object

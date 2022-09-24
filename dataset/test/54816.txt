@@ -1,0 +1,20 @@
+ID                                    0xbf32
+Delivery_person_ID             KOLRES18DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                22.569367
+Restaurant_longitude               88.433187
+Delivery_location_latitude         22.659367
+Delivery_location_longitude        88.523187
+Order_Date                        14-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9223, dtype: object

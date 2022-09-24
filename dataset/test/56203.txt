@@ -1,0 +1,20 @@
+ID                                      0x811d
+Delivery_person_ID             COIMBRES11DEL02
+Delivery_person_Age                  35.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  11.001753
+Restaurant_longitude                 76.986241
+Delivery_location_latitude           11.021753
+Delivery_location_longitude          77.006241
+Order_Date                          05-04-2022
+Time_Orderd                              10:25
+Time_Order_picked                        10:35
+Weather conditions                      Cloudy
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                             Meal
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 10610, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xcc8a
+Delivery_person_ID                GOARES07DEL02
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   15.561295
+Restaurant_longitude                  73.749478
+Delivery_location_latitude            15.611295
+Delivery_location_longitude           73.799478
+Order_Date                           11-02-2022
+Time_Orderd                               17:45
+Time_Order_picked                         17:50
+Weather conditions                        Windy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      22.000000
+Name: 23556, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x901b
+Delivery_person_ID             BANGRES18DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.913041
+Restaurant_longitude                77.683237
+Delivery_location_latitude          12.983041
+Delivery_location_longitude         77.753237
+Order_Date                         04-04-2022
+Time_Orderd                             19:10
+Time_Order_picked                       19:20
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    44.000000
+Name: 36115, dtype: object

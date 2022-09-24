@@ -1,0 +1,21 @@
+ID                                     0x524c
+Delivery_person_ID             INDORES16DEL02
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.744648
+Restaurant_longitude                75.894377
+Delivery_location_latitude          22.824648
+Delivery_location_longitude         75.974377
+Order_Date                         25-03-2022
+Time_Orderd                             23:60
+Time_Order_picked                       24:15
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 17311, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xd2c4
+Delivery_person_ID             DEHRES18DEL01
+Delivery_person_Age                    36.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        18-02-2022
+Time_Orderd                            23:25
+Time_Order_picked                      23:30
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 6918, dtype: object

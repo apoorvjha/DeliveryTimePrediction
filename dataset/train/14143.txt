@@ -1,0 +1,21 @@
+ID                                    0x286e
+Delivery_person_ID             VADRES03DEL02
+Delivery_person_Age                    23.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.45
+Delivery_location_longitude            73.30
+Order_Date                        08-03-2022
+Time_Orderd                            18:20
+Time_Order_picked                      18:30
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       19.00
+Name: 14143, dtype: object

@@ -1,0 +1,20 @@
+ID                                      0x1589
+Delivery_person_ID             COIMBRES01DEL02
+Delivery_person_Age                  39.000000
+Delivery_person_Ratings               4.700000
+Restaurant_latitude                  11.016298
+Restaurant_longitude                 76.972076
+Delivery_location_latitude           11.036298
+Delivery_location_longitude          76.992076
+Order_Date                          01-04-2022
+Time_Orderd                              11:45
+Time_Order_picked                        11:50
+Weather conditions                       Sunny
+Road_traffic_density                      High
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                                     Urban
+Name: 6376, dtype: object

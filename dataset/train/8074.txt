@@ -1,0 +1,21 @@
+ID                                      0x650
+Delivery_person_ID             INDORES08DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.725748
+Restaurant_longitude                75.898497
+Delivery_location_latitude          22.835748
+Delivery_location_longitude         76.008497
+Order_Date                         16-03-2022
+Time_Orderd                             19:10
+Time_Order_picked                       19:25
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    25.000000
+Name: 8074, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x8081
+Delivery_person_ID                VADRES18DEL03
+Delivery_person_Age                       25.00
+Delivery_person_Ratings                    4.70
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.03
+Delivery_location_longitude                0.03
+Order_Date                           07-03-2022
+Time_Orderd                               21:50
+Time_Order_picked                         22:05
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          19.00
+Name: 41239, dtype: object

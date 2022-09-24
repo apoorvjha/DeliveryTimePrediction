@@ -1,0 +1,21 @@
+ID                                       0xd729
+Delivery_person_ID                KNPRES15DEL02
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   26.482419
+Restaurant_longitude                  80.320939
+Delivery_location_latitude            26.502419
+Delivery_location_longitude           80.340939
+Order_Date                           17-02-2022
+Time_Orderd                               11:55
+Time_Order_picked                         12:05
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      15.000000
+Name: 5145, dtype: object

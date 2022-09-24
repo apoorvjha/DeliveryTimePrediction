@@ -1,0 +1,21 @@
+ID                                     0x6073
+Delivery_person_ID             PUNERES16DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.200000
+Restaurant_latitude                 18.536718
+Restaurant_longitude                73.830327
+Delivery_location_latitude          18.666719
+Delivery_location_longitude         73.960327
+Order_Date                         04-04-2022
+Time_Orderd                             20:25
+Time_Order_picked                       20:40
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    40.000000
+Name: 7597, dtype: object

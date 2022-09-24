@@ -1,0 +1,20 @@
+ID                                     0x4cfd
+Delivery_person_ID             INDORES15DEL02
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.890072
+Delivery_location_longitude         76.022574
+Order_Date                         04-03-2022
+Time_Orderd                             18:25
+Time_Order_picked                       18:30
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 11115, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x4341
+Delivery_person_ID                MUMRES20DEL01
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   19.103249
+Restaurant_longitude                  72.846749
+Delivery_location_latitude            19.113249
+Delivery_location_longitude           72.856749
+Order_Date                           05-03-2022
+Time_Orderd                                9:20
+Time_Order_picked                          9:25
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      13.000000
+Name: 21205, dtype: object

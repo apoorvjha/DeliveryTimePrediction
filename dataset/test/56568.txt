@@ -1,0 +1,20 @@
+ID                                     0xbb5b
+Delivery_person_ID             PUNERES19DEL01
+Delivery_person_Age                 22.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.563934
+Restaurant_longitude                73.915367
+Delivery_location_latitude          18.633934
+Delivery_location_longitude         73.985367
+Order_Date                         29-03-2022
+Time_Orderd                             17:55
+Time_Order_picked                       18:05
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 10975, dtype: object

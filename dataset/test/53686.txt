@@ -1,0 +1,20 @@
+ID                                       0x247d
+Delivery_person_ID               INDORES12DEL02
+Delivery_person_Age                    24.00000
+Delivery_person_Ratings                 4.70000
+Restaurant_latitude                    22.74806
+Restaurant_longitude                   75.89340
+Delivery_location_latitude             22.87806
+Delivery_location_longitude            76.02340
+Order_Date                           25-03-2022
+Time_Orderd                               19:55
+Time_Order_picked                         20:05
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                     1.00000
+Festival                                     No
+City                              Metropolitian
+Name: 8093, dtype: object

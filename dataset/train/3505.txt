@@ -1,0 +1,21 @@
+ID                                    0xd130
+Delivery_person_ID             KOLRES05DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.527893
+Restaurant_longitude               88.368628
+Delivery_location_latitude         22.537893
+Delivery_location_longitude        88.378628
+Order_Date                        15-02-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:50
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 3505, dtype: object

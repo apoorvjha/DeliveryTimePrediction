@@ -1,0 +1,20 @@
+ID                                     0x9259
+Delivery_person_ID             VADRES010DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.390329
+Delivery_location_longitude         73.249083
+Order_Date                         20-03-2022
+Time_Orderd                             18:15
+Time_Order_picked                       18:30
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 10149, dtype: object

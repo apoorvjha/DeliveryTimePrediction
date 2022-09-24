@@ -1,0 +1,21 @@
+ID                                       0xaa1b
+Delivery_person_ID                HYDRES02DEL01
+Delivery_person_Age                   35.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   17.412330
+Restaurant_longitude                  78.449654
+Delivery_location_latitude            17.452330
+Delivery_location_longitude           78.489654
+Order_Date                           17-03-2022
+Time_Orderd                               15:10
+Time_Order_picked                         15:25
+Weather conditions                       Cloudy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      17.000000
+Name: 30350, dtype: object

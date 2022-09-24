@@ -1,0 +1,21 @@
+ID                                    0xc855
+Delivery_person_ID             KOLRES02DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                22.514585
+Restaurant_longitude               88.393310
+Delivery_location_latitude         22.534585
+Delivery_location_longitude        88.413310
+Order_Date                        11-02-2022
+Time_Orderd                            11:60
+Time_Order_picked                      12:10
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   48.000000
+Name: 38501, dtype: object

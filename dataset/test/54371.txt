@@ -1,0 +1,20 @@
+ID                                    0x8918
+Delivery_person_ID             HYDRES09DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.451668
+Delivery_location_longitude        78.428321
+Order_Date                        05-03-2022
+Time_Orderd                             8:30
+Time_Order_picked                       8:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 8778, dtype: object

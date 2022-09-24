@@ -1,0 +1,21 @@
+ID                                     0xcad2
+Delivery_person_ID             LUDHRES05DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 30.905562
+Restaurant_longitude                75.832841
+Delivery_location_latitude          30.925562
+Delivery_location_longitude         75.852841
+Order_Date                         13-02-2022
+Time_Orderd                             11:25
+Time_Order_picked                       11:30
+Weather conditions                 Sandstorms
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                  NaN
+City                            Metropolitian
+Time_taken (min)                    10.000000
+Name: 7548, dtype: object

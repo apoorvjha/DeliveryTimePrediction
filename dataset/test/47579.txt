@@ -1,0 +1,20 @@
+ID                                     0x9289
+Delivery_person_ID             BANGRES08DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.906229
+Restaurant_longitude                77.596791
+Delivery_location_latitude          12.956229
+Delivery_location_longitude         77.646791
+Order_Date                         19-03-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 1986, dtype: object

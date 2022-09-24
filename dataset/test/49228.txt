@@ -1,0 +1,20 @@
+ID                                    0xded2
+Delivery_person_ID             AGRRES02DEL03
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        11-02-2022
+Time_Orderd                            18:60
+Time_Order_picked                      19:15
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 3635, dtype: object

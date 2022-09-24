@@ -1,0 +1,21 @@
+ID                                    0xca95
+Delivery_person_ID             KOCRES13DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.991703
+Restaurant_longitude               76.293136
+Delivery_location_latitude         10.061703
+Delivery_location_longitude        76.363136
+Order_Date                        16-02-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:55
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 43392, dtype: object

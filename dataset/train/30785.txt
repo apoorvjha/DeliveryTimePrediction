@@ -1,0 +1,21 @@
+ID                                    0x1074
+Delivery_person_ID             HYDRES01DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.410371
+Restaurant_longitude               78.437225
+Delivery_location_latitude         17.500371
+Delivery_location_longitude        78.527225
+Order_Date                        10-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      22:60
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   29.000000
+Name: 30785, dtype: object

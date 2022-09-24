@@ -1,0 +1,20 @@
+ID                                    0x8dcc
+Delivery_person_ID             JAPRES17DEL03
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.892312
+Restaurant_longitude               75.806896
+Delivery_location_latitude         26.952313
+Delivery_location_longitude        75.866896
+Order_Date                        28-03-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:15
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 3922, dtype: object

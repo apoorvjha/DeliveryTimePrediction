@@ -1,0 +1,20 @@
+ID                                    0xc410
+Delivery_person_ID             KOLRES09DEL03
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.515082
+Restaurant_longitude               88.367830
+Delivery_location_latitude         22.545082
+Delivery_location_longitude        88.397830
+Order_Date                        17-02-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9909, dtype: object

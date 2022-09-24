@@ -1,0 +1,21 @@
+ID                                    0x41be
+Delivery_person_ID             JAPRES14DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.958420
+Delivery_location_longitude        75.870689
+Order_Date                        16-03-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:15
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   13.000000
+Name: 39743, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0xa175
+Delivery_person_ID             CHENRES03DEL03
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 13.091809
+Restaurant_longitude                80.219104
+Delivery_location_latitude          13.151809
+Delivery_location_longitude         80.279104
+Order_Date                         21-03-2022
+Time_Orderd                             21:50
+Time_Order_picked                       22:05
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 6116, dtype: object

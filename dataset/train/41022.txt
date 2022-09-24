@@ -1,0 +1,21 @@
+ID                                       0x31a0
+Delivery_person_ID                MYSRES02DEL03
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   12.304569
+Restaurant_longitude                  76.643622
+Delivery_location_latitude            12.334569
+Delivery_location_longitude           76.673622
+Order_Date                           21-03-2022
+Time_Orderd                               22:60
+Time_Order_picked                         23:05
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      15.000000
+Name: 41022, dtype: object

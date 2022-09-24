@@ -1,0 +1,20 @@
+ID                                     0xd57a
+Delivery_person_ID             AURGRES20DEL01
+Delivery_person_Age                     27.00
+Delivery_person_Ratings                  4.70
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.07
+Delivery_location_longitude              0.07
+Order_Date                         16-02-2022
+Time_Orderd                             20:55
+Time_Order_picked                       21:10
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Name: 10604, dtype: object

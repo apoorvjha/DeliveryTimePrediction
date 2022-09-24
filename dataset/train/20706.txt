@@ -1,0 +1,21 @@
+ID                                     0x537b
+Delivery_person_ID             INDORES03DEL02
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 22.751857
+Restaurant_longitude                75.866699
+Delivery_location_latitude          22.881857
+Delivery_location_longitude         75.996699
+Order_Date                         04-04-2022
+Time_Orderd                             18:50
+Time_Order_picked                       18:55
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 20706, dtype: object

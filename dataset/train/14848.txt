@@ -1,0 +1,21 @@
+ID                                    0x775c
+Delivery_person_ID             MYSRES11DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.323225
+Restaurant_longitude               76.630028
+Delivery_location_latitude         12.363225
+Delivery_location_longitude        76.670028
+Order_Date                        03-03-2022
+Time_Orderd                            13:25
+Time_Order_picked                      13:35
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   15.000000
+Name: 14848, dtype: object

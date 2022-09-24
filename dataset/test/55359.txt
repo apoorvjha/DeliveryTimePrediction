@@ -1,0 +1,20 @@
+ID                                    0xc03b
+Delivery_person_ID             GOARES09DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude               -15.303897
+Restaurant_longitude               73.914336
+Delivery_location_latitude         15.333897
+Delivery_location_longitude        73.944336
+Order_Date                        17-02-2022
+Time_Orderd                            18:20
+Time_Order_picked                      18:25
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 9766, dtype: object

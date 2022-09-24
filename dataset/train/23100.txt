@@ -1,0 +1,21 @@
+ID                                     0x13e6
+Delivery_person_ID             PUNERES01DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 18.569156
+Restaurant_longitude                73.774723
+Delivery_location_latitude          18.619156
+Delivery_location_longitude         73.824723
+Order_Date                         30-03-2022
+Time_Orderd                             19:50
+Time_Order_picked                       19:55
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    26.000000
+Name: 23100, dtype: object

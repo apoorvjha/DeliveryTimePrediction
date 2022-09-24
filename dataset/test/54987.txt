@@ -1,0 +1,20 @@
+ID                                     0x99ba
+Delivery_person_ID             CHENRES16DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              3.600000
+Restaurant_latitude                 13.049645
+Restaurant_longitude                80.242268
+Delivery_location_latitude          13.159645
+Delivery_location_longitude         80.352268
+Order_Date                         18-03-2022
+Time_Orderd                             19:45
+Time_Order_picked                       19:60
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 9394, dtype: object

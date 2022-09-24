@@ -1,0 +1,21 @@
+ID                                    0x5dcd
+Delivery_person_ID             HYDRES01DEL01
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.410371
+Restaurant_longitude               78.437225
+Delivery_location_latitude         17.520371
+Delivery_location_longitude        78.547225
+Order_Date                        04-03-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:20
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 17151, dtype: object

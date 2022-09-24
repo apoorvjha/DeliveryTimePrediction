@@ -1,0 +1,21 @@
+ID                                       0xcba
+Delivery_person_ID             COIMBRES07DEL02
+Delivery_person_Age                  30.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  10.961850
+Restaurant_longitude                 76.971082
+Delivery_location_latitude           11.041850
+Delivery_location_longitude          77.051082
+Order_Date                          06-04-2022
+Time_Orderd                              20:10
+Time_Order_picked                        20:25
+Weather conditions                         Fog
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   3.000000
+Festival                                   Yes
+City                                Semi-Urban
+Time_taken (min)                     48.000000
+Name: 6478, dtype: object

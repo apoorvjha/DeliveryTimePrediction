@@ -1,0 +1,21 @@
+ID                                    0x5304
+Delivery_person_ID             SURRES14DEL03
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                21.157729
+Restaurant_longitude               72.768726
+Delivery_location_latitude         21.217729
+Delivery_location_longitude        72.828726
+Order_Date                        24-03-2022
+Time_Orderd                            21:55
+Time_Order_picked                      21:60
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 7648, dtype: object

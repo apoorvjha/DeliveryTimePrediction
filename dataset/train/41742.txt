@@ -1,0 +1,21 @@
+ID                                       0xbf48
+Delivery_person_ID               LUDHRES06DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   30.895204
+Restaurant_longitude                  75.822103
+Delivery_location_latitude            30.965204
+Delivery_location_longitude           75.892103
+Order_Date                           16-02-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:60
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      22.000000
+Name: 41742, dtype: object

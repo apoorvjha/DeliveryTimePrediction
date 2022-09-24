@@ -1,0 +1,20 @@
+ID                                     0xaccb
+Delivery_person_ID             INDORES09DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.100000
+Restaurant_latitude                 22.725835
+Restaurant_longitude                75.887648
+Delivery_location_latitude          22.855835
+Delivery_location_longitude         76.017648
+Order_Date                         23-03-2022
+Time_Orderd                             18:10
+Time_Order_picked                       18:25
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 3339, dtype: object

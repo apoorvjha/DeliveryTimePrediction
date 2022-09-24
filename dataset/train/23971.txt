@@ -1,0 +1,21 @@
+ID                                    0x6452
+Delivery_person_ID             MUMRES03DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                19.223840
+Restaurant_longitude               72.841347
+Delivery_location_latitude         19.303840
+Delivery_location_longitude        72.921347
+Order_Date                        12-03-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:10
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 23971, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x6068
+Delivery_person_ID             INDORES05DEL02
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 22.727021
+Restaurant_longitude                75.884167
+Delivery_location_latitude          22.857021
+Delivery_location_longitude         76.014167
+Order_Date                         10-03-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:05
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                  Yes
+City                                    Urban
+Name: 2367, dtype: object

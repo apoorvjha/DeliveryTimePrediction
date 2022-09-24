@@ -1,0 +1,21 @@
+ID                                    0xc7ec
+Delivery_person_ID             BHPRES15DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                23.234249
+Restaurant_longitude               77.434007
+Delivery_location_latitude         23.274249
+Delivery_location_longitude        77.474007
+Order_Date                        13-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      14:50
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 28446, dtype: object

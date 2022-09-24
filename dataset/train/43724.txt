@@ -1,0 +1,21 @@
+ID                                       0x3131
+Delivery_person_ID             RANCHIRES15DEL02
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   23.369746
+Restaurant_longitude                  85.339820
+Delivery_location_latitude            23.419746
+Delivery_location_longitude           85.389820
+Order_Date                           19-03-2022
+Time_Orderd                               22:55
+Time_Order_picked                         23:05
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             0
+Type_of_order                             Snack
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      27.000000
+Name: 43724, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x5abc
+Delivery_person_ID             VADRES18DEL03
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        07-03-2022
+Time_Orderd                            17:55
+Time_Order_picked                      18:10
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       14.00
+Name: 34365, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x67b3
+Delivery_person_ID             HYDRES09DEL02
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             3.500000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.511668
+Delivery_location_longitude        78.488321
+Order_Date                        14-03-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:25
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   39.000000
+Name: 45107, dtype: object

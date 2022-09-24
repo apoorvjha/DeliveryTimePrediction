@@ -1,0 +1,20 @@
+ID                                    0xdb8a
+Delivery_person_ID             KOCRES12DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.988483
+Restaurant_longitude               76.295211
+Delivery_location_latitude         10.098483
+Delivery_location_longitude        76.405211
+Order_Date                        18-02-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:45
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4313, dtype: object

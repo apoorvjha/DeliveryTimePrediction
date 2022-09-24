@@ -1,0 +1,20 @@
+ID                                     0x450d
+Delivery_person_ID             BANGRES11DEL02
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 12.934365
+Restaurant_longitude                77.616155
+Delivery_location_latitude          13.014365
+Delivery_location_longitude         77.696155
+Order_Date                         06-04-2022
+Time_Orderd                             20:60
+Time_Order_picked                       21:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7196, dtype: object

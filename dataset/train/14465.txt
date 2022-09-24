@@ -1,0 +1,21 @@
+ID                                    0xd5da
+Delivery_person_ID             ALHRES18DEL01
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                25.450317
+Restaurant_longitude               81.831681
+Delivery_location_latitude         25.490317
+Delivery_location_longitude        81.871681
+Order_Date                        15-02-2022
+Time_Orderd                            12:55
+Time_Order_picked                      13:05
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 14465, dtype: object

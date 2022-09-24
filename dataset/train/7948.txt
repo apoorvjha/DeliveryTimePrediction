@@ -1,0 +1,21 @@
+ID                                        0x6ca
+Delivery_person_ID               BANGRES17DEL03
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.000000
+Restaurant_latitude                   12.972532
+Restaurant_longitude                  77.608179
+Delivery_location_latitude            13.002532
+Delivery_location_longitude           77.638179
+Order_Date                           26-03-2022
+Time_Orderd                               20:30
+Time_Order_picked                         20:40
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      38.000000
+Name: 7948, dtype: object

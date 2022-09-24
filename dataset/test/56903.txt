@@ -1,0 +1,20 @@
+ID                                    0xd1f4
+Delivery_person_ID             KOLRES13DEL02
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.553227
+Restaurant_longitude               88.353273
+Delivery_location_latitude         22.603227
+Delivery_location_longitude        88.403273
+Order_Date                        11-02-2022
+Time_Orderd                            20:55
+Time_Order_picked                      21:05
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 11310, dtype: object

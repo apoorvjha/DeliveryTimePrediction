@@ -1,0 +1,21 @@
+ID                                    0xcb20
+Delivery_person_ID             DEHRES03DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.465259
+Delivery_location_longitude        78.183162
+Order_Date                        12-02-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   10.000000
+Name: 33908, dtype: object

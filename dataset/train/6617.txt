@@ -1,0 +1,21 @@
+ID                                      0x453
+Delivery_person_ID             INDORES18DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -22.753839
+Restaurant_longitude               -75.897429
+Delivery_location_latitude          22.793838
+Delivery_location_longitude         75.937429
+Order_Date                         01-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       13:20
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    31.000000
+Name: 6617, dtype: object

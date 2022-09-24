@@ -1,0 +1,21 @@
+ID                                    0xd125
+Delivery_person_ID             ALHRES11DEL02
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        15-02-2022
+Time_Orderd                             8:40
+Time_Order_picked                       8:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       27.00
+Name: 38534, dtype: object

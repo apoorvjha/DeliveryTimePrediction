@@ -1,0 +1,21 @@
+ID                                    0x407f
+Delivery_person_ID             SURRES01DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                21.186438
+Restaurant_longitude               72.794115
+Delivery_location_latitude         21.206438
+Delivery_location_longitude        72.814115
+Order_Date                        11-03-2022
+Time_Orderd                            10:50
+Time_Order_picked                      10:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   16.000000
+Name: 38039, dtype: object

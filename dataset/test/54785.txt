@@ -1,0 +1,20 @@
+ID                                    0xce6c
+Delivery_person_ID             KNPRES13DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                26.481547
+Restaurant_longitude               80.299775
+Delivery_location_latitude         26.571547
+Delivery_location_longitude        80.389775
+Order_Date                        18-02-2022
+Time_Orderd                            20:50
+Time_Order_picked                      21:05
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 9192, dtype: object

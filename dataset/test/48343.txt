@@ -1,0 +1,20 @@
+ID                                      0x5062
+Delivery_person_ID             COIMBRES01DEL01
+Delivery_person_Age                  22.000000
+Delivery_person_Ratings               4.700000
+Restaurant_latitude                  11.016298
+Restaurant_longitude                 76.972076
+Delivery_location_latitude           11.056298
+Delivery_location_longitude          77.012076
+Order_Date                          24-03-2022
+Time_Orderd                              14:35
+Time_Order_picked                        14:50
+Weather conditions                       Sunny
+Road_traffic_density                      High
+Vehicle_condition                            1
+Type_of_order                             Meal
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Name: 2750, dtype: object

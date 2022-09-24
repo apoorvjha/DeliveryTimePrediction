@@ -1,0 +1,21 @@
+ID                                    0xd721
+Delivery_person_ID             AGRRES06DEL02
+Delivery_person_Age                    22.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        16-02-2022
+Time_Orderd                            21:50
+Time_Order_picked                      21:60
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       20.00
+Name: 16366, dtype: object

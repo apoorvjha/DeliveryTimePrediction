@@ -1,0 +1,21 @@
+ID                                    0xc373
+Delivery_person_ID             KOCRES07DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                 9.985697
+Restaurant_longitude               76.281128
+Delivery_location_latitude         10.055697
+Delivery_location_longitude        76.351128
+Order_Date                        14-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:40
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   32.000000
+Name: 34781, dtype: object

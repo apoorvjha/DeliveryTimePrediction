@@ -1,0 +1,21 @@
+ID                                       0x812d
+Delivery_person_ID                JAPRES09DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   26.911378
+Restaurant_longitude                  75.789034
+Delivery_location_latitude            27.021378
+Delivery_location_longitude           75.899034
+Order_Date                           10-03-2022
+Time_Orderd                               22:55
+Time_Order_picked                         22:60
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      23.000000
+Name: 35705, dtype: object

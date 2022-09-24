@@ -1,0 +1,21 @@
+ID                                    0x8022
+Delivery_person_ID             JAPRES08DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         26.950262
+Delivery_location_longitude        75.823013
+Order_Date                        13-03-2022
+Time_Orderd                            14:60
+Time_Order_picked                      15:05
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 40573, dtype: object

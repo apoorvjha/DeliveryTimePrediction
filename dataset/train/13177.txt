@@ -1,0 +1,21 @@
+ID                                    0xbf5f
+Delivery_person_ID             GOARES15DEL02
+Delivery_person_Age                 25.00000
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                 15.51315
+Restaurant_longitude                73.78346
+Delivery_location_latitude          15.59315
+Delivery_location_longitude         73.86346
+Order_Date                        18-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:55
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                  0.00000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                    23.00000
+Name: 13177, dtype: object

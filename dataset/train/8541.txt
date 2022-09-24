@@ -1,0 +1,21 @@
+ID                                    0xc437
+Delivery_person_ID             ALHRES20DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.494697
+Delivery_location_longitude        81.874492
+Order_Date                        15-02-2022
+Time_Orderd                            14:60
+Time_Order_picked                      15:15
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 8541, dtype: object

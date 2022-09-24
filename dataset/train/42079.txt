@@ -1,0 +1,21 @@
+ID                                    0xcde3
+Delivery_person_ID             KNPRES20DEL02
+Delivery_person_Age                    37.00
+Delivery_person_Ratings                 4.20
+Restaurant_latitude                    26.47
+Restaurant_longitude                   80.35
+Delivery_location_latitude             26.52
+Delivery_location_longitude            80.40
+Order_Date                        13-02-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:15
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       23.00
+Name: 42079, dtype: object

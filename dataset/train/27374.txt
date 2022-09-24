@@ -1,0 +1,21 @@
+ID                                     0xc804
+Delivery_person_ID             AURGRES15DEL01
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 19.878028
+Restaurant_longitude                75.317475
+Delivery_location_latitude          19.888028
+Delivery_location_longitude         75.327475
+Order_Date                         11-02-2022
+Time_Orderd                              8:60
+Time_Order_picked                        9:05
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    18.000000
+Name: 27374, dtype: object

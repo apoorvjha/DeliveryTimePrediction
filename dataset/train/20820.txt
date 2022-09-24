@@ -1,0 +1,21 @@
+ID                                       0x30e0
+Delivery_person_ID               PUNERES03DEL02
+Delivery_person_Age                   27.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   18.554382
+Restaurant_longitude                  73.798206
+Delivery_location_latitude            18.574382
+Delivery_location_longitude           73.818206
+Order_Date                           05-04-2022
+Time_Orderd                                9:35
+Time_Order_picked                          9:50
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      10.000000
+Name: 20820, dtype: object

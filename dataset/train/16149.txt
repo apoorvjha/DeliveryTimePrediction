@@ -1,0 +1,21 @@
+ID                                       0x4650
+Delivery_person_ID             RANCHIRES12DEL01
+Delivery_person_Age                       24.00
+Delivery_person_Ratings                    4.40
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.04
+Delivery_location_longitude                0.04
+Order_Date                           26-03-2022
+Time_Orderd                               13:60
+Time_Order_picked                         14:15
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             0
+Type_of_order                            Buffet
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        3.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          52.00
+Name: 16149, dtype: object

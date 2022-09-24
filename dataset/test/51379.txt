@@ -1,0 +1,20 @@
+ID                                       0x6516
+Delivery_person_ID                MYSRES15DEL01
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   12.352058
+Restaurant_longitude                  76.606650
+Delivery_location_latitude            12.362058
+Delivery_location_longitude           76.616650
+Order_Date                           03-04-2022
+Time_Orderd                               11:50
+Time_Order_picked                         11:60
+Weather conditions                        Windy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 5786, dtype: object

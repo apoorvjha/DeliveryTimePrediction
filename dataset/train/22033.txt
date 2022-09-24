@@ -1,0 +1,21 @@
+ID                                     0x47cf
+Delivery_person_ID             BANGRES16DEL01
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.029198
+Restaurant_longitude                77.570997
+Delivery_location_latitude          13.069198
+Delivery_location_longitude         77.610997
+Order_Date                         21-03-2022
+Time_Orderd                             13:25
+Time_Order_picked                       13:35
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    49.000000
+Name: 22033, dtype: object

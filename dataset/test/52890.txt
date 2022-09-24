@@ -1,0 +1,20 @@
+ID                                    0xcbd4
+Delivery_person_ID             GOARES13DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                15.506205
+Restaurant_longitude               73.766668
+Delivery_location_latitude         15.616205
+Delivery_location_longitude        73.876668
+Order_Date                        16-02-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:40
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 7297, dtype: object

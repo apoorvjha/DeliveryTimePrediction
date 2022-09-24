@@ -1,0 +1,21 @@
+ID                                    0xc441
+Delivery_person_ID             ALHRES01DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                25.454648
+Restaurant_longitude               81.834502
+Delivery_location_latitude         25.484648
+Delivery_location_longitude        81.864502
+Order_Date                        15-02-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:15
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   11.000000
+Name: 39045, dtype: object

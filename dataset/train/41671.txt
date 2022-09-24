@@ -1,0 +1,21 @@
+ID                                       0x4533
+Delivery_person_ID               INDORES19DEL02
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                3.800000
+Restaurant_latitude                   22.745536
+Restaurant_longitude                  75.893106
+Delivery_location_latitude            22.875536
+Delivery_location_longitude           76.023106
+Order_Date                           04-03-2022
+Time_Orderd                               22:55
+Time_Order_picked                         22:60
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      39.000000
+Name: 41671, dtype: object

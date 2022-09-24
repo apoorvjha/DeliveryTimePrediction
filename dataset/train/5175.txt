@@ -1,0 +1,21 @@
+ID                                     0x8f40
+Delivery_person_ID             INDORES13DEL01
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.745049
+Restaurant_longitude                75.892471
+Delivery_location_latitude          22.755049
+Delivery_location_longitude         75.902471
+Order_Date                         17-03-2022
+Time_Orderd                             10:20
+Time_Order_picked                       10:30
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    12.000000
+Name: 5175, dtype: object

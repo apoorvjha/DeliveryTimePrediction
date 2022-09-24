@@ -1,0 +1,21 @@
+ID                                       0x6bd5
+Delivery_person_ID                MYSRES14DEL01
+Delivery_person_Age                       33.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.07
+Delivery_location_longitude                0.07
+Order_Date                           10-03-2022
+Time_Orderd                               20:45
+Time_Order_picked                         20:50
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                    Yes
+City                              Metropolitian
+Time_taken (min)                          43.00
+Name: 24810, dtype: object

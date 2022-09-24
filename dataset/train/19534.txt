@@ -1,0 +1,21 @@
+ID                                    0xccfd
+Delivery_person_ID             ALHRES08DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                25.450329
+Restaurant_longitude               81.834279
+Delivery_location_latitude         25.580329
+Delivery_location_longitude        81.964279
+Order_Date                        18-02-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:60
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 19534, dtype: object

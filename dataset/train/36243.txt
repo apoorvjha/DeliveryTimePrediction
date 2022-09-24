@@ -1,0 +1,21 @@
+ID                                        0x6e7
+Delivery_person_ID               INDORES12DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                    22.74806
+Restaurant_longitude                   75.89340
+Delivery_location_latitude             22.87806
+Delivery_location_longitude            76.02340
+Order_Date                           16-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:05
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                     1.00000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                       25.00000
+Name: 36243, dtype: object

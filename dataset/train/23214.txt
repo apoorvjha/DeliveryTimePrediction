@@ -1,0 +1,21 @@
+ID                                     0x2811
+Delivery_person_ID             PUNERES15DEL01
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 18.636215
+Restaurant_longitude                73.751081
+Delivery_location_latitude          18.706215
+Delivery_location_longitude         73.821081
+Order_Date                         14-03-2022
+Time_Orderd                             18:60
+Time_Order_picked                       19:05
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    20.000000
+Name: 23214, dtype: object

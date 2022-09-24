@@ -1,0 +1,21 @@
+ID                                    0xb067
+Delivery_person_ID             VADRES11DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.308096
+Restaurant_longitude               73.167753
+Delivery_location_latitude         22.358096
+Delivery_location_longitude        73.217753
+Order_Date                        03-04-2022
+Time_Orderd                            22:20
+Time_Order_picked                      22:35
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 22553, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x7728
+Delivery_person_ID             MYSRES02DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.304569
+Restaurant_longitude               76.643622
+Delivery_location_latitude         12.364569
+Delivery_location_longitude        76.703622
+Order_Date                        09-03-2022
+Time_Orderd                            20:15
+Time_Order_picked                      20:25
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 41556, dtype: object

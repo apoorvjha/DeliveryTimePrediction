@@ -1,0 +1,21 @@
+ID                                    0xc67c
+Delivery_person_ID             KOLRES15DEL03
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.552672
+Restaurant_longitude               88.352885
+Delivery_location_latitude         22.612672
+Delivery_location_longitude        88.412885
+Order_Date                        11-02-2022
+Time_Orderd                            21:15
+Time_Order_picked                      21:20
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 41837, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x36a5
+Delivery_person_ID             MYSRES13DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                12.310972
+Restaurant_longitude               76.659264
+Delivery_location_latitude         12.360972
+Delivery_location_longitude        76.709264
+Order_Date                        13-03-2022
+Time_Orderd                            21:55
+Time_Order_picked                      22:05
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   13.000000
+Name: 13774, dtype: object

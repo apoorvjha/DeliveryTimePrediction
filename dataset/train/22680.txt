@@ -1,0 +1,21 @@
+ID                                      0x5444
+Delivery_person_ID             COIMBRES02DEL01
+Delivery_person_Age                  39.000000
+Delivery_person_Ratings               4.400000
+Restaurant_latitude                  11.022477
+Restaurant_longitude                 76.995667
+Delivery_location_latitude           11.132477
+Delivery_location_longitude          77.105667
+Order_Date                          02-04-2022
+Time_Orderd                              23:55
+Time_Order_picked                        24:10
+Weather conditions                         Fog
+Road_traffic_density                       Low
+Vehicle_condition                            2
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     35.000000
+Name: 22680, dtype: object

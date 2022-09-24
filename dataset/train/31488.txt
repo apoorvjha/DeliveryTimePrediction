@@ -1,0 +1,21 @@
+ID                                        0xbcb
+Delivery_person_ID                SURRES09DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   21.175975
+Restaurant_longitude                  72.795503
+Delivery_location_latitude            21.205975
+Delivery_location_longitude           72.825503
+Order_Date                           01-04-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:45
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      15.000000
+Name: 31488, dtype: object

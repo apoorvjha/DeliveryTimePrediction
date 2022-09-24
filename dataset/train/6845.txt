@@ -1,0 +1,21 @@
+ID                                     0x1964
+Delivery_person_ID             PUNERES05DEL03
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 18.543626
+Restaurant_longitude                73.905101
+Delivery_location_latitude          18.633626
+Delivery_location_longitude         73.995101
+Order_Date                         04-04-2022
+Time_Orderd                             18:50
+Time_Order_picked                       18:55
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    32.000000
+Name: 6845, dtype: object

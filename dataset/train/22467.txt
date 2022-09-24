@@ -1,0 +1,21 @@
+ID                                    0xafcb
+Delivery_person_ID             VADRES16DEL02
+Delivery_person_Age                    32.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.02
+Delivery_location_longitude             0.02
+Order_Date                        05-03-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:55
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       30.00
+Name: 22467, dtype: object

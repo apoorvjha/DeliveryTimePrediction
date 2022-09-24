@@ -1,0 +1,20 @@
+ID                                     0x18c9
+Delivery_person_ID             INDORES11DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 22.751234
+Restaurant_longitude                75.889490
+Delivery_location_latitude          22.881234
+Delivery_location_longitude         76.019490
+Order_Date                         12-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       20:60
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 3350, dtype: object

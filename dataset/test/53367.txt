@@ -1,0 +1,20 @@
+ID                                     0x532
+Delivery_person_ID             JAPRES16DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.849596
+Restaurant_longitude               75.800512
+Delivery_location_latitude         26.959596
+Delivery_location_longitude        75.910512
+Order_Date                        04-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      21:35
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 7774, dtype: object

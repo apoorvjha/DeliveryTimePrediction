@@ -1,0 +1,21 @@
+ID                                     0x3919
+Delivery_person_ID             INDORES15DEL01
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 22.760072
+Restaurant_longitude                75.892574
+Delivery_location_latitude          22.800072
+Delivery_location_longitude         75.932574
+Order_Date                         28-03-2022
+Time_Orderd                             15:20
+Time_Order_picked                       15:30
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    33.000000
+Name: 13995, dtype: object

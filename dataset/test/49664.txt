@@ -1,0 +1,20 @@
+ID                                     0x9353
+Delivery_person_ID             INDORES04DEL01
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 22.753659
+Restaurant_longitude                75.903365
+Delivery_location_latitude          22.763659
+Delivery_location_longitude         75.913365
+Order_Date                         21-03-2022
+Time_Orderd                              9:35
+Time_Order_picked                        9:45
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 4071, dtype: object

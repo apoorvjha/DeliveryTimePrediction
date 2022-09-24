@@ -1,0 +1,21 @@
+ID                                    0xd408
+Delivery_person_ID             ALHRES03DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                25.451517
+Restaurant_longitude               81.832616
+Delivery_location_latitude         25.471517
+Delivery_location_longitude        81.852616
+Order_Date                        11-02-2022
+Time_Orderd                             9:45
+Time_Order_picked                       9:55
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 15815, dtype: object

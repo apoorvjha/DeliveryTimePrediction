@@ -1,0 +1,21 @@
+ID                                    0x4cd5
+Delivery_person_ID             MYSRES06DEL03
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.323994
+Restaurant_longitude               76.626167
+Delivery_location_latitude         12.383994
+Delivery_location_longitude        76.686167
+Order_Date                        05-04-2022
+Time_Orderd                            19:35
+Time_Order_picked                      19:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                 NaN
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 28429, dtype: object

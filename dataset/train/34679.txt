@@ -1,0 +1,21 @@
+ID                                    0xd77a
+Delivery_person_ID             GOARES08DEL02
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                15.556561
+Restaurant_longitude               73.763633
+Delivery_location_latitude         15.606561
+Delivery_location_longitude        73.813633
+Order_Date                        17-02-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:35
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 34679, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xbfdf
+Delivery_person_ID             LUDHRES15DEL01
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 30.899584
+Restaurant_longitude                75.809346
+Delivery_location_latitude          30.969584
+Delivery_location_longitude         75.879346
+Order_Date                         12-02-2022
+Time_Orderd                             20:25
+Time_Order_picked                       20:30
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    34.000000
+Name: 3789, dtype: object

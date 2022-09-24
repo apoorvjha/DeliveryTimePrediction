@@ -1,0 +1,20 @@
+ID                                    0xdd05
+Delivery_person_ID             KOCRES05DEL01
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                 9.970717
+Restaurant_longitude               76.285447
+Delivery_location_latitude         10.010717
+Delivery_location_longitude        76.325447
+Order_Date                        15-02-2022
+Time_Orderd                            12:40
+Time_Order_picked                      12:55
+Weather conditions                Sandstorms
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1227, dtype: object

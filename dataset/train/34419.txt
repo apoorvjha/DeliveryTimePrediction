@@ -1,0 +1,21 @@
+ID                                     0x8928
+Delivery_person_ID             CHENRES04DEL03
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 13.029780
+Restaurant_longitude                80.208812
+Delivery_location_latitude          13.089780
+Delivery_location_longitude         80.268812
+Order_Date                         28-03-2022
+Time_Orderd                             18:40
+Time_Order_picked                       18:45
+Weather conditions                        Fog
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 34419, dtype: object

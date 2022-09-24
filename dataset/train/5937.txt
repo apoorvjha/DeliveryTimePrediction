@@ -1,0 +1,21 @@
+ID                                    0x603e
+Delivery_person_ID             SURRES20DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.152760
+Restaurant_longitude               72.778059
+Delivery_location_latitude         21.282760
+Delivery_location_longitude        72.908059
+Order_Date                        06-03-2022
+Time_Orderd                            22:15
+Time_Order_picked                      22:25
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 5937, dtype: object

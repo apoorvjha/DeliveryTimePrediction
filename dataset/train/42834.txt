@@ -1,0 +1,21 @@
+ID                                     0xff3
+Delivery_person_ID             HYDRES15DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.459710
+Restaurant_longitude               78.368855
+Delivery_location_latitude         17.489710
+Delivery_location_longitude        78.398855
+Order_Date                        13-03-2022
+Time_Orderd                            23:60
+Time_Order_picked                      24:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   15.000000
+Name: 42834, dtype: object

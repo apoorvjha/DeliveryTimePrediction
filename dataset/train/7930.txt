@@ -1,0 +1,21 @@
+ID                                    0x8ce9
+Delivery_person_ID             MYSRES09DEL03
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.323194
+Restaurant_longitude               76.630583
+Delivery_location_latitude         12.353194
+Delivery_location_longitude        76.660583
+Order_Date                        11-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      20:05
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 7930, dtype: object

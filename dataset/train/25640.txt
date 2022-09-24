@@ -1,0 +1,21 @@
+ID                                     0x8aba
+Delivery_person_ID             INDORES20DEL01
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.732225
+Restaurant_longitude                75.874765
+Delivery_location_latitude          22.772225
+Delivery_location_longitude         75.914765
+Order_Date                         01-03-2022
+Time_Orderd                             13:55
+Time_Order_picked                       14:05
+Weather conditions                     Cloudy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    21.000000
+Name: 25640, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x672a
+Delivery_person_ID             MYSRES04DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.308500
+Restaurant_longitude               76.665808
+Delivery_location_latitude         12.348500
+Delivery_location_longitude        76.705808
+Order_Date                        17-03-2022
+Time_Orderd                            14:40
+Time_Order_picked                      14:55
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   34.000000
+Name: 4046, dtype: object

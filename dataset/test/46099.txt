@@ -1,0 +1,20 @@
+ID                                    0xd72c
+Delivery_person_ID             KNPRES08DEL03
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        17-02-2022
+Time_Orderd                            23:55
+Time_Order_picked                      24:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Name: 506, dtype: object

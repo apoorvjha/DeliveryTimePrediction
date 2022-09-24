@@ -1,0 +1,21 @@
+ID                                     0xdc89
+Delivery_person_ID             AURGRES07DEL03
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.875908
+Restaurant_longitude                75.358888
+Delivery_location_latitude          19.965908
+Delivery_location_longitude         75.448888
+Order_Date                         14-02-2022
+Time_Orderd                             23:30
+Time_Order_picked                       23:40
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    18.000000
+Name: 44093, dtype: object

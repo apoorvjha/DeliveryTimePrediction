@@ -1,0 +1,20 @@
+ID                                      0x4010
+Delivery_person_ID             COIMBRES19DEL01
+Delivery_person_Age                  25.000000
+Delivery_person_Ratings               4.600000
+Restaurant_latitude                  11.022298
+Restaurant_longitude                 76.998349
+Delivery_location_latitude           11.132298
+Delivery_location_longitude          77.108349
+Order_Date                          31-03-2022
+Time_Orderd                              23:20
+Time_Order_picked                        23:30
+Weather conditions                      Stormy
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 1903, dtype: object

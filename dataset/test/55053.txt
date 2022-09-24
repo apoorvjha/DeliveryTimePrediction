@@ -1,0 +1,20 @@
+ID                                    0xbd4e
+Delivery_person_ID             VADRES01DEL03
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.397898
+Delivery_location_longitude        73.257788
+Order_Date                        04-04-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:45
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 9460, dtype: object

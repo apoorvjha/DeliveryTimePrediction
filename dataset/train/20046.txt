@@ -1,0 +1,21 @@
+ID                                     0xbde
+Delivery_person_ID             HYDRES14DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.426228
+Restaurant_longitude               78.407495
+Delivery_location_latitude         17.466228
+Delivery_location_longitude        78.447495
+Order_Date                        26-03-2022
+Time_Orderd                            13:55
+Time_Order_picked                      13:60
+Weather conditions                    Cloudy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 20046, dtype: object

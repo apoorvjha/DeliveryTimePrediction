@@ -1,0 +1,21 @@
+ID                                     0xd9df
+Delivery_person_ID             KNPRES010DEL03
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 26.477750
+Restaurant_longitude                80.351569
+Delivery_location_latitude          26.617750
+Delivery_location_longitude         80.491569
+Order_Date                         14-02-2022
+Time_Orderd                             21:50
+Time_Order_picked                       21:60
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    20.000000
+Name: 23367, dtype: object

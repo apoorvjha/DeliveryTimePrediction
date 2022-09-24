@@ -1,0 +1,21 @@
+ID                                     0x1b73
+Delivery_person_ID             PUNERES17DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.530963
+Restaurant_longitude                73.828972
+Delivery_location_latitude          18.540963
+Delivery_location_longitude         73.838972
+Order_Date                         03-04-2022
+Time_Orderd                             11:25
+Time_Order_picked                       11:40
+Weather conditions                      Sunny
+Road_traffic_density                     High
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 2834, dtype: object

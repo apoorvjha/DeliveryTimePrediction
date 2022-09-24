@@ -1,0 +1,21 @@
+ID                                    0xd426
+Delivery_person_ID             ALHRES01DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                25.454648
+Restaurant_longitude               81.834502
+Delivery_location_latitude         25.474648
+Delivery_location_longitude        81.854502
+Order_Date                        11-02-2022
+Time_Orderd                            11:40
+Time_Order_picked                      11:55
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 34650, dtype: object

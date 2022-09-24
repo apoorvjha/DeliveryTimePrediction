@@ -1,0 +1,21 @@
+ID                                       0xc300
+Delivery_person_ID               AURGRES06DEL03
+Delivery_person_Age                   27.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   19.874449
+Restaurant_longitude                  75.360232
+Delivery_location_latitude            19.904449
+Delivery_location_longitude           75.390232
+Order_Date                           13-02-2022
+Time_Orderd                               17:15
+Time_Order_picked                         17:30
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      25.000000
+Name: 39659, dtype: object

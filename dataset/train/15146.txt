@@ -1,0 +1,21 @@
+ID                                      0x8d5
+Delivery_person_ID             PUNERES19DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.563934
+Restaurant_longitude                73.915367
+Delivery_location_latitude          18.623935
+Delivery_location_longitude         73.975367
+Order_Date                         09-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       24:10
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                            Meal
+Type_of_vehicle                       bicycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 15146, dtype: object

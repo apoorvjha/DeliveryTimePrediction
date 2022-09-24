@@ -1,0 +1,21 @@
+ID                                    0x51a9
+Delivery_person_ID             VADRES15DEL03
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        02-04-2022
+Time_Orderd                            19:50
+Time_Order_picked                      20:05
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       15.00
+Name: 16990, dtype: object

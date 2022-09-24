@@ -1,0 +1,21 @@
+ID                                     0xc91a
+Delivery_person_ID             AURGRES18DEL03
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              3.900000
+Restaurant_latitude                 19.888716
+Restaurant_longitude                75.321461
+Delivery_location_latitude          19.978716
+Delivery_location_longitude         75.411461
+Order_Date                         18-02-2022
+Time_Orderd                             21:50
+Time_Order_picked                       21:60
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    43.000000
+Name: 1376, dtype: object

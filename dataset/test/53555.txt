@@ -1,0 +1,20 @@
+ID                                       0xbe9b
+Delivery_person_ID               CHENRES07DEL02
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   13.081878
+Restaurant_longitude                  80.248519
+Delivery_location_latitude            13.161878
+Delivery_location_longitude           80.328519
+Order_Date                           27-03-2022
+Time_Orderd                               19:20
+Time_Order_picked                         19:25
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                              Metropolitian
+Name: 7962, dtype: object

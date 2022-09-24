@@ -1,0 +1,21 @@
+ID                                    0xd19d
+Delivery_person_ID             GOARES17DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                15.496162
+Restaurant_longitude               73.825364
+Delivery_location_latitude         15.606162
+Delivery_location_longitude        73.935364
+Order_Date                        14-02-2022
+Time_Orderd                            22:35
+Time_Order_picked                      22:45
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   12.000000
+Name: 24557, dtype: object

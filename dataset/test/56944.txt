@@ -1,0 +1,20 @@
+ID                                    0x812e
+Delivery_person_ID             VADRES01DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.377898
+Delivery_location_longitude        73.237788
+Order_Date                        18-03-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:55
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 11351, dtype: object

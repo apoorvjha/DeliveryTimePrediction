@@ -1,0 +1,21 @@
+ID                                     0x1ea0
+Delivery_person_ID             BANGRES17DEL02
+Delivery_person_Age                 15.000000
+Delivery_person_Ratings              1.000000
+Restaurant_latitude                 12.972532
+Restaurant_longitude                77.608179
+Delivery_location_latitude          13.022532
+Delivery_location_longitude         77.658179
+Order_Date                         21-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       17:40
+Weather conditions                        NaN
+Road_traffic_density                      NaN
+Vehicle_condition                           3
+Type_of_order                          Drinks
+Type_of_vehicle                       bicycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 31277, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xe238
+Delivery_person_ID             KOCRES01DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                 9.979363
+Restaurant_longitude               76.285001
+Delivery_location_latitude         10.029363
+Delivery_location_longitude        76.335001
+Order_Date                        11-02-2022
+Time_Orderd                            18:45
+Time_Order_picked                      18:60
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 2336, dtype: object

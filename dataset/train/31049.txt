@@ -1,0 +1,21 @@
+ID                                    0xbf9b
+Delivery_person_ID             KOCRES03DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                10.020683
+Restaurant_longitude               76.310631
+Delivery_location_latitude         10.070683
+Delivery_location_longitude        76.360631
+Order_Date                        17-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   31.000000
+Name: 31049, dtype: object

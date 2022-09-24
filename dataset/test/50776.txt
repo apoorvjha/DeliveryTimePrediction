@@ -1,0 +1,20 @@
+ID                                    0xcfb9
+Delivery_person_ID             KOLRES09DEL03
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                22.515082
+Restaurant_longitude               88.367830
+Delivery_location_latitude         22.605082
+Delivery_location_longitude        88.457830
+Order_Date                        18-02-2022
+Time_Orderd                            21:20
+Time_Order_picked                      21:35
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 5183, dtype: object

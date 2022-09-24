@@ -1,0 +1,21 @@
+ID                                       0x26ba
+Delivery_person_ID               INDORES17DEL02
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   22.761226
+Restaurant_longitude                  75.887522
+Delivery_location_latitude            22.811226
+Delivery_location_longitude           75.937522
+Order_Date                           03-04-2022
+Time_Orderd                               18:15
+Time_Order_picked                         18:25
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      15.000000
+Name: 21036, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x8043
+Delivery_person_ID             MYSRES19DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.414022
+Delivery_location_longitude        76.698203
+Order_Date                        02-04-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:15
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   39.000000
+Name: 26162, dtype: object

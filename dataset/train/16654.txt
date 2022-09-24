@@ -1,0 +1,21 @@
+ID                                       0x5957
+Delivery_person_ID                JAPRES15DEL03
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   26.891191
+Restaurant_longitude                  75.802083
+Delivery_location_latitude            26.951191
+Delivery_location_longitude           75.862083
+Order_Date                           17-03-2022
+Time_Orderd                               18:60
+Time_Order_picked                         19:05
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      30.000000
+Name: 16654, dtype: object

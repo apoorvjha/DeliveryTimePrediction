@@ -1,0 +1,20 @@
+ID                                       0x6614
+Delivery_person_ID             RANCHIRES13DEL03
+Delivery_person_Age                   20.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                   23.374989
+Restaurant_longitude                  85.335486
+Delivery_location_latitude            23.404989
+Delivery_location_longitude           85.365486
+Order_Date                           15-03-2022
+Time_Orderd                               19:45
+Time_Order_picked                         19:60
+Weather conditions                   Sandstorms
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 1884, dtype: object

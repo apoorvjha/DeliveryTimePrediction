@@ -1,0 +1,21 @@
+ID                                     0x7489
+Delivery_person_ID             PUNERES18DEL01
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.593481
+Restaurant_longitude                73.785901
+Delivery_location_latitude          18.663481
+Delivery_location_longitude         73.855901
+Order_Date                         06-04-2022
+Time_Orderd                             19:60
+Time_Order_picked                       20:15
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                  Yes
+City                            Metropolitian
+Time_taken (min)                    44.000000
+Name: 28598, dtype: object

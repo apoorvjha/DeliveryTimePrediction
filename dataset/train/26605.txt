@@ -1,0 +1,21 @@
+ID                                    0xdaef
+Delivery_person_ID             AGRRES13DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                27.159795
+Restaurant_longitude               78.042990
+Delivery_location_latitude         27.229795
+Delivery_location_longitude        78.112990
+Order_Date                        12-02-2022
+Time_Orderd                            17:45
+Time_Order_picked                      17:55
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 26605, dtype: object

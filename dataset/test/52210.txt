@@ -1,0 +1,20 @@
+ID                                      0x630e
+Delivery_person_ID             COIMBRES09DEL02
+Delivery_person_Age                  20.000000
+Delivery_person_Ratings               4.700000
+Restaurant_latitude                  11.008638
+Restaurant_longitude                 76.984311
+Delivery_location_latitude           11.088638
+Delivery_location_longitude          77.064311
+Order_Date                          04-03-2022
+Time_Orderd                              17:10
+Time_Order_picked                        17:15
+Weather conditions                       Sunny
+Road_traffic_density                    Medium
+Vehicle_condition                            1
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Name: 6617, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0x2160
+Delivery_person_ID             JAPRES16DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                26.849596
+Restaurant_longitude               75.800512
+Delivery_location_latitude         26.979596
+Delivery_location_longitude        75.930512
+Order_Date                        23-03-2022
+Time_Orderd                            17:55
+Time_Order_picked                      18:10
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Name: 10058, dtype: object

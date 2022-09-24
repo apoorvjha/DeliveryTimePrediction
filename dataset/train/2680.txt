@@ -1,0 +1,21 @@
+ID                                       0xb424
+Delivery_person_ID                VADRES03DEL01
+Delivery_person_Age                       39.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                       22.32
+Restaurant_longitude                      73.17
+Delivery_location_latitude                22.43
+Delivery_location_longitude               73.28
+Order_Date                           06-03-2022
+Time_Orderd                               22:45
+Time_Order_picked                         22:60
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        1.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          25.00
+Name: 2680, dtype: object

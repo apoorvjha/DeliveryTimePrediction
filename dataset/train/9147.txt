@@ -1,0 +1,21 @@
+ID                                    0xc25a
+Delivery_person_ID             KNPRES05DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.479108
+Restaurant_longitude               80.315042
+Delivery_location_latitude         26.609108
+Delivery_location_longitude        80.445042
+Order_Date                        14-02-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:15
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 9147, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x69af
+Delivery_person_ID               CHENRES19DEL01
+Delivery_person_Age                   26.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   12.986047
+Restaurant_longitude                  80.218114
+Delivery_location_latitude            13.026047
+Delivery_location_longitude           80.258114
+Order_Date                           01-04-2022
+Time_Orderd                               13:25
+Time_Order_picked                         13:30
+Weather conditions                       Stormy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      29.000000
+Name: 20347, dtype: object

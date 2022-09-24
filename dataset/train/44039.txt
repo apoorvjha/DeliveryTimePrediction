@@ -1,0 +1,21 @@
+ID                                    0xd439
+Delivery_person_ID             ALHRES03DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.451517
+Restaurant_longitude               81.832616
+Delivery_location_latitude         25.581517
+Delivery_location_longitude        81.962616
+Order_Date                        14-02-2022
+Time_Orderd                            20:40
+Time_Order_picked                      20:45
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 44039, dtype: object

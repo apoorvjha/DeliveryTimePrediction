@@ -1,0 +1,21 @@
+ID                                    0xc8e3
+Delivery_person_ID             KOCRES14DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                10.027014
+Restaurant_longitude               76.308053
+Delivery_location_latitude         10.157014
+Delivery_location_longitude        76.438053
+Order_Date                        16-02-2022
+Time_Orderd                            22:35
+Time_Order_picked                      22:50
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   38.000000
+Name: 15870, dtype: object

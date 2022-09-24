@@ -1,0 +1,21 @@
+ID                                    0xc1bb
+Delivery_person_ID             GOARES11DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                15.544419
+Restaurant_longitude               73.755736
+Delivery_location_latitude         15.574419
+Delivery_location_longitude        73.785736
+Order_Date                        15-02-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:50
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   22.000000
+Name: 33941, dtype: object

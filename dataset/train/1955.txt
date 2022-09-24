@@ -1,0 +1,21 @@
+ID                                    0xdb9f
+Delivery_person_ID             AGRRES20DEL01
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                27.158822
+Restaurant_longitude               78.045359
+Delivery_location_latitude         27.168822
+Delivery_location_longitude        78.055359
+Order_Date                        15-02-2022
+Time_Orderd                            10:15
+Time_Order_picked                      10:30
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 1955, dtype: object

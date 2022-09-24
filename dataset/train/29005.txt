@@ -1,0 +1,21 @@
+ID                                     0xbf0b
+Delivery_person_ID             LUDHRES05DEL03
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -30.905562
+Restaurant_longitude               -75.832841
+Delivery_location_latitude          31.045562
+Delivery_location_longitude         75.972841
+Order_Date                         12-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       18:55
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    16.000000
+Name: 29005, dtype: object

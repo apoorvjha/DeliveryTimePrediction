@@ -1,0 +1,21 @@
+ID                                     0x9461
+Delivery_person_ID             VADRES010DEL03
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 22.310329
+Restaurant_longitude                73.169083
+Delivery_location_latitude          22.340329
+Delivery_location_longitude         73.199083
+Order_Date                         30-03-2022
+Time_Orderd                             20:35
+Time_Order_picked                       20:40
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    25.000000
+Name: 4124, dtype: object

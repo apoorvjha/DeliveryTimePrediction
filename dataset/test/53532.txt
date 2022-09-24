@@ -1,0 +1,20 @@
+ID                                    0x7475
+Delivery_person_ID             HYDRES18DEL03
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.450851
+Restaurant_longitude               78.379347
+Delivery_location_latitude         17.540851
+Delivery_location_longitude        78.469347
+Order_Date                        06-04-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:40
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 7939, dtype: object

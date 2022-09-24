@@ -1,0 +1,21 @@
+ID                                       0x3818
+Delivery_person_ID                JAPRES16DEL03
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                   26.849596
+Restaurant_longitude                  75.800512
+Delivery_location_latitude            26.909596
+Delivery_location_longitude           75.860512
+Order_Date                           01-04-2022
+Time_Orderd                               19:20
+Time_Order_picked                         19:30
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      11.000000
+Name: 6013, dtype: object

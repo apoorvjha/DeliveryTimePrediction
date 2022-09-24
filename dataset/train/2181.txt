@@ -1,0 +1,21 @@
+ID                                    0xdc29
+Delivery_person_ID             GOARES04DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                15.569600
+Restaurant_longitude               73.742294
+Delivery_location_latitude         15.589600
+Delivery_location_longitude        73.762294
+Order_Date                        11-02-2022
+Time_Orderd                             9:10
+Time_Order_picked                       9:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 2181, dtype: object

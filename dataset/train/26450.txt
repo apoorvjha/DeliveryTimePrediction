@@ -1,0 +1,21 @@
+ID                                     0x763d
+Delivery_person_ID             BANGRES18DEL02
+Delivery_person_Age                 31.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.913041
+Restaurant_longitude                77.683237
+Delivery_location_latitude          12.963041
+Delivery_location_longitude         77.733237
+Order_Date                         05-03-2022
+Time_Orderd                             20:45
+Time_Order_picked                       20:60
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  3.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    46.000000
+Name: 26450, dtype: object

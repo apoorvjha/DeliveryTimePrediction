@@ -1,0 +1,21 @@
+ID                                    0x1b71
+Delivery_person_ID             MYSRES08DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.347954
+Delivery_location_longitude        76.715169
+Order_Date                        01-04-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   12.000000
+Name: 907, dtype: object

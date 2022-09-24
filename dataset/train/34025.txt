@@ -1,0 +1,21 @@
+ID                                    0x1193
+Delivery_person_ID             MYSRES04DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.308500
+Restaurant_longitude               76.665808
+Delivery_location_latitude         12.328500
+Delivery_location_longitude        76.685808
+Order_Date                        17-03-2022
+Time_Orderd                             9:45
+Time_Order_picked                       9:55
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   18.000000
+Name: 34025, dtype: object

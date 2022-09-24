@@ -1,0 +1,21 @@
+ID                                    0xc39f
+Delivery_person_ID             KNPRES07DEL02
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             3.800000
+Restaurant_latitude                26.472001
+Restaurant_longitude               80.354002
+Delivery_location_latitude         26.552001
+Delivery_location_longitude        80.434002
+Order_Date                        16-02-2022
+Time_Orderd                            19:40
+Time_Order_picked                      19:50
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   35.000000
+Name: 40600, dtype: object

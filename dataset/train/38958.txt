@@ -1,0 +1,21 @@
+ID                                        0x507
+Delivery_person_ID               PUNERES17DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                  -18.530963
+Restaurant_longitude                 -73.828972
+Delivery_location_latitude            18.640963
+Delivery_location_longitude           73.938972
+Order_Date                           10-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         23:35
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      29.000000
+Name: 38958, dtype: object

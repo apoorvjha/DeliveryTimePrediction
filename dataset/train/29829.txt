@@ -1,0 +1,21 @@
+ID                                    0x21da
+Delivery_person_ID             VADRES13DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                22.310237
+Restaurant_longitude               73.158921
+Delivery_location_latitude         22.340237
+Delivery_location_longitude        73.188921
+Order_Date                        15-03-2022
+Time_Orderd                            22:10
+Time_Order_picked                      22:20
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   15.000000
+Name: 29829, dtype: object

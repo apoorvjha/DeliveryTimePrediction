@@ -1,0 +1,20 @@
+ID                                    0xc3be
+Delivery_person_ID             KNPRES20DEL03
+Delivery_person_Age                    30.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                    26.47
+Restaurant_longitude                   80.35
+Delivery_location_latitude             26.50
+Delivery_location_longitude            80.38
+Order_Date                        13-02-2022
+Time_Orderd                            22:15
+Time_Order_picked                      22:25
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 11084, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x4e1
+Delivery_person_ID             MYSRES17DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -12.326356
+Restaurant_longitude              -76.619103
+Delivery_location_latitude         12.376356
+Delivery_location_longitude        76.669103
+Order_Date                        24-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 39391, dtype: object

@@ -1,0 +1,20 @@
+ID                                       0xc034
+Delivery_person_ID               AURGRES08DEL01
+Delivery_person_Age                   33.000000
+Delivery_person_Ratings                5.000000
+Restaurant_latitude                  -19.876428
+Restaurant_longitude                  75.364792
+Delivery_location_latitude            19.886428
+Delivery_location_longitude           75.374792
+Order_Date                           11-02-2022
+Time_Orderd                                8:35
+Time_Order_picked                          8:50
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 8827, dtype: object

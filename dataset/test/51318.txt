@@ -1,0 +1,20 @@
+ID                                       0xb1e2
+Delivery_person_ID                VADRES19DEL03
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   22.311844
+Restaurant_longitude                  73.165081
+Delivery_location_latitude            22.341844
+Delivery_location_longitude           73.195081
+Order_Date                           03-03-2022
+Time_Orderd                               23:40
+Time_Order_picked                         23:50
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Name: 5725, dtype: object

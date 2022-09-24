@@ -1,0 +1,21 @@
+ID                                    0xb4d3
+Delivery_person_ID             JAPRES15DEL03
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                26.891191
+Restaurant_longitude               75.802083
+Delivery_location_latitude         27.031191
+Delivery_location_longitude        75.942083
+Order_Date                        12-03-2022
+Time_Orderd                            22:50
+Time_Order_picked                      23:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   28.000000
+Name: 23649, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xcabe
+Delivery_person_ID             AURGRES02DEL02
+Delivery_person_Age                     25.00
+Delivery_person_Ratings                  4.60
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.13
+Delivery_location_longitude              0.13
+Order_Date                         12-02-2022
+Time_Orderd                             19:55
+Time_Order_picked                       20:10
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                      3.00
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                        43.00
+Name: 32536, dtype: object

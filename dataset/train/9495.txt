@@ -1,0 +1,21 @@
+ID                                    0xb270
+Delivery_person_ID             VADRES14DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.391603
+Delivery_location_longitude        73.245012
+Order_Date                        14-03-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:45
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 9495, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xa59c
+Delivery_person_ID             MYSRES19DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.374022
+Delivery_location_longitude        76.658203
+Order_Date                        19-03-2022
+Time_Orderd                            13:60
+Time_Order_picked                      14:05
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   31.000000
+Name: 1934, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xafda
+Delivery_person_ID             BANGRES16DEL03
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 13.029198
+Restaurant_longitude                77.570997
+Delivery_location_latitude          13.059198
+Delivery_location_longitude         77.600997
+Order_Date                         17-03-2022
+Time_Orderd                             21:55
+Time_Order_picked                       22:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    12.000000
+Name: 32112, dtype: object

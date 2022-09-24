@@ -1,0 +1,21 @@
+ID                                    0x3197
+Delivery_person_ID             VADRES15DEL01
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        06-04-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:45
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       36.00
+Name: 42919, dtype: object

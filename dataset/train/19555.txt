@@ -1,0 +1,21 @@
+ID                                        0x623
+Delivery_person_ID             RANCHIRES04DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                  -23.359033
+Restaurant_longitude                  85.325347
+Delivery_location_latitude            23.439033
+Delivery_location_longitude           85.405347
+Order_Date                           27-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         18:40
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                             Snack
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      22.000000
+Name: 19555, dtype: object

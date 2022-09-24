@@ -1,0 +1,21 @@
+ID                                    0xd064
+Delivery_person_ID             DEHRES08DEL01
+Delivery_person_Age                37.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.429722
+Delivery_location_longitude        78.137079
+Order_Date                        16-02-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   46.000000
+Name: 2055, dtype: object

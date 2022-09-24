@@ -1,0 +1,20 @@
+ID                                     0x96d3
+Delivery_person_ID             CHENRES09DEL02
+Delivery_person_Age                 20.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 13.044694
+Restaurant_longitude                80.261470
+Delivery_location_latitude          13.094694
+Delivery_location_longitude         80.311470
+Order_Date                         17-03-2022
+Time_Orderd                             17:50
+Time_Order_picked                       17:55
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                                    Urban
+Name: 1146, dtype: object

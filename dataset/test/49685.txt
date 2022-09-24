@@ -1,0 +1,20 @@
+ID                                       0xddd0
+Delivery_person_ID                KOLRES03DEL02
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.200000
+Restaurant_latitude                   22.526461
+Restaurant_longitude                  88.364453
+Delivery_location_latitude            22.656461
+Delivery_location_longitude           88.494453
+Order_Date                           14-02-2022
+Time_Orderd                               17:15
+Time_Order_picked                         17:25
+Weather conditions                       Cloudy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4092, dtype: object

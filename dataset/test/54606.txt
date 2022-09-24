@@ -1,0 +1,20 @@
+ID                                       0x1382
+Delivery_person_ID                HYDRES18DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   17.450851
+Restaurant_longitude                  78.379347
+Delivery_location_latitude            17.460851
+Delivery_location_longitude           78.389347
+Order_Date                           13-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         11:05
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 9013, dtype: object

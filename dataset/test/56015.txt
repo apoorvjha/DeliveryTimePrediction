@@ -1,0 +1,20 @@
+ID                                    0xce31
+Delivery_person_ID             ALHRES12DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                25.443994
+Restaurant_longitude               81.860187
+Delivery_location_latitude         25.483994
+Delivery_location_longitude        81.900187
+Order_Date                        13-02-2022
+Time_Orderd                            15:25
+Time_Order_picked                      15:30
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 10422, dtype: object

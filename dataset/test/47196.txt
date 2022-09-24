@@ -1,0 +1,20 @@
+ID                                    0xb34e
+Delivery_person_ID             SURRES13DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                21.170096
+Restaurant_longitude               72.789122
+Delivery_location_latitude         21.210096
+Delivery_location_longitude        72.829122
+Order_Date                        26-03-2022
+Time_Orderd                            16:45
+Time_Order_picked                      16:55
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 1603, dtype: object

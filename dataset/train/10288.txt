@@ -1,0 +1,21 @@
+ID                                       0x490e
+Delivery_person_ID             RANCHIRES12DEL02
+Delivery_person_Age                       36.00
+Delivery_person_Ratings                    4.70
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.02
+Delivery_location_longitude                0.02
+Order_Date                           13-03-2022
+Time_Orderd                               11:50
+Time_Order_picked                         11:60
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                         scooter
+multiple_deliveries                        2.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          32.00
+Name: 10288, dtype: object

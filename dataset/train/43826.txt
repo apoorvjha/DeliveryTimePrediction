@@ -1,0 +1,21 @@
+ID                                    0x2886
+Delivery_person_ID             VADRES15DEL01
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 3.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.07
+Delivery_location_longitude             0.07
+Order_Date                        06-03-2022
+Time_Orderd                            22:55
+Time_Order_picked                      22:60
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       36.00
+Name: 43826, dtype: object

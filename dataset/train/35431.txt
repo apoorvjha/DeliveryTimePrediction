@@ -1,0 +1,21 @@
+ID                                    0xbf51
+Delivery_person_ID             BHPRES14DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.06
+Delivery_location_longitude             0.06
+Order_Date                        15-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:10
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       30.00
+Name: 35431, dtype: object

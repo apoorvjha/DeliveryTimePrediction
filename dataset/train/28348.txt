@@ -1,0 +1,21 @@
+ID                                       0xcfbc
+Delivery_person_ID                GOARES18DEL01
+Delivery_person_Age                   20.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   15.493950
+Restaurant_longitude                  73.827423
+Delivery_location_latitude            15.533950
+Delivery_location_longitude           73.867423
+Order_Date                           11-02-2022
+Time_Orderd                               15:40
+Time_Order_picked                         15:50
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      26.000000
+Name: 28348, dtype: object

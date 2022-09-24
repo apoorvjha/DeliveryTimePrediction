@@ -1,0 +1,21 @@
+ID                                    0x1bf2
+Delivery_person_ID             SURRES06DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                21.185047
+Restaurant_longitude               72.808590
+Delivery_location_latitude         21.295047
+Delivery_location_longitude        72.918590
+Order_Date                        10-03-2022
+Time_Orderd                            20:35
+Time_Order_picked                      20:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   34.000000
+Name: 43432, dtype: object

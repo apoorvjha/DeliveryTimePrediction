@@ -1,0 +1,21 @@
+ID                                    0xd0c5
+Delivery_person_ID             DEHRES04DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                30.340722
+Restaurant_longitude               78.060221
+Delivery_location_latitude         30.360722
+Delivery_location_longitude        78.080221
+Order_Date                        17-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      10:45
+Weather conditions                       NaN
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 13290, dtype: object

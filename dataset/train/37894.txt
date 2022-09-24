@@ -1,0 +1,21 @@
+ID                                     0xbf1a
+Delivery_person_ID             AURGRES09DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 19.874103
+Restaurant_longitude                75.368419
+Delivery_location_latitude          19.944103
+Delivery_location_longitude         75.438419
+Order_Date                         12-02-2022
+Time_Orderd                               NaN
+Time_Order_picked                       21:35
+Weather conditions                        NaN
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                  Yes
+City                            Metropolitian
+Time_taken (min)                    46.000000
+Name: 37894, dtype: object

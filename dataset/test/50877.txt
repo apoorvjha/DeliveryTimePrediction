@@ -1,0 +1,20 @@
+ID                                     0x1a33
+Delivery_person_ID             CHENRES15DEL02
+Delivery_person_Age                 36.000000
+Delivery_person_Ratings              3.600000
+Restaurant_latitude                 13.026286
+Restaurant_longitude                80.275235
+Delivery_location_latitude          13.106286
+Delivery_location_longitude         80.355235
+Order_Date                         23-03-2022
+Time_Orderd                             18:50
+Time_Order_picked                       18:55
+Weather conditions                     Stormy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 5284, dtype: object

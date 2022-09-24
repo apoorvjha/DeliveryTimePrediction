@@ -1,0 +1,21 @@
+ID                                    0x3757
+Delivery_person_ID             JAPRES11DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.902940
+Restaurant_longitude               75.793007
+Delivery_location_latitude         27.042940
+Delivery_location_longitude        75.933007
+Order_Date                        06-03-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:45
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 1796, dtype: object

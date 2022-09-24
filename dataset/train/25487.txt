@@ -1,0 +1,21 @@
+ID                                    0xc00d
+Delivery_person_ID             AGRRES01DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -27.161661
+Restaurant_longitude              -78.011544
+Delivery_location_latitude         27.171661
+Delivery_location_longitude        78.021544
+Order_Date                        15-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                       8:45
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 25487, dtype: object

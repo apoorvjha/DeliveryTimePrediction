@@ -1,0 +1,20 @@
+ID                                    0xc045
+Delivery_person_ID             DEHRES19DEL02
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude               -30.372202
+Restaurant_longitude               78.077151
+Delivery_location_latitude         30.392202
+Delivery_location_longitude        78.097151
+Order_Date                        17-02-2022
+Time_Orderd                            11:20
+Time_Order_picked                      11:30
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                 Yes
+City                           Metropolitian
+Name: 1576, dtype: object

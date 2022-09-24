@@ -1,0 +1,20 @@
+ID                                       0x645f
+Delivery_person_ID                JAPRES14DEL01
+Delivery_person_Age                   29.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   26.888420
+Restaurant_longitude                  75.800689
+Delivery_location_latitude            26.928420
+Delivery_location_longitude           75.840689
+Order_Date                           03-04-2022
+Time_Orderd                               13:40
+Time_Order_picked                         13:55
+Weather conditions                   Sandstorms
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 1177, dtype: object

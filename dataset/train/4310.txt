@@ -1,0 +1,21 @@
+ID                                       0xc0d1
+Delivery_person_ID                BHPRES08DEL03
+Delivery_person_Age                   30.000000
+Delivery_person_Ratings                4.500000
+Restaurant_latitude                  -23.232537
+Restaurant_longitude                  77.429845
+Delivery_location_latitude            23.292537
+Delivery_location_longitude           77.489845
+Order_Date                           11-02-2022
+Time_Orderd                               22:35
+Time_Order_picked                         22:50
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      20.000000
+Name: 4310, dtype: object

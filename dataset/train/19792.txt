@@ -1,0 +1,21 @@
+ID                                     0x7cea
+Delivery_person_ID             BANGRES08DEL03
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 12.906229
+Restaurant_longitude                77.596791
+Delivery_location_latitude          12.996229
+Delivery_location_longitude         77.686791
+Order_Date                         04-04-2022
+Time_Orderd                             17:50
+Time_Order_picked                       17:55
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    32.000000
+Name: 19792, dtype: object

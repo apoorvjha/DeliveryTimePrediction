@@ -1,0 +1,20 @@
+ID                                    0x493a
+Delivery_person_ID             JAPRES06DEL01
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.911927
+Restaurant_longitude               75.797282
+Delivery_location_latitude         26.921927
+Delivery_location_longitude        75.807282
+Order_Date                        28-03-2022
+Time_Orderd                            11:30
+Time_Order_picked                      11:45
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4001, dtype: object

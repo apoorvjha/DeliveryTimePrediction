@@ -1,0 +1,20 @@
+ID                                    0x3072
+Delivery_person_ID             MUMRES14DEL03
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.181300
+Restaurant_longitude               72.836191
+Delivery_location_latitude         19.241300
+Delivery_location_longitude        72.896191
+Order_Date                        11-03-2022
+Time_Orderd                            19:20
+Time_Order_picked                      19:30
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4862, dtype: object

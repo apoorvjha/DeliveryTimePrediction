@@ -1,0 +1,21 @@
+ID                                    0xd291
+Delivery_person_ID             GOARES12DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                15.516833
+Restaurant_longitude               73.768172
+Delivery_location_latitude         15.596833
+Delivery_location_longitude        73.848172
+Order_Date                        18-02-2022
+Time_Orderd                            21:25
+Time_Order_picked                      21:30
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   24.000000
+Name: 26050, dtype: object

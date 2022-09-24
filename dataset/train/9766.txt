@@ -1,0 +1,21 @@
+ID                                    0x80b7
+Delivery_person_ID             VADRES20DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                22.311358
+Restaurant_longitude               73.164798
+Delivery_location_latitude         22.371358
+Delivery_location_longitude        73.224798
+Order_Date                        17-03-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                    Stormy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   21.000000
+Name: 9766, dtype: object

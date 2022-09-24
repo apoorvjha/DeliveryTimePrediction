@@ -1,0 +1,21 @@
+ID                                       0x83be
+Delivery_person_ID             RANCHIRES12DEL02
+Delivery_person_Age                       25.00
+Delivery_person_Ratings                    4.70
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.02
+Delivery_location_longitude                0.02
+Order_Date                           15-03-2022
+Time_Orderd                               11:10
+Time_Order_picked                         11:20
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          11.00
+Name: 39420, dtype: object

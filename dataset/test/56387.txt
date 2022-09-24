@@ -1,0 +1,20 @@
+ID                                    0xd2ef
+Delivery_person_ID             AGRRES13DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.159795
+Restaurant_longitude               78.042990
+Delivery_location_latitude         27.189795
+Delivery_location_longitude        78.072990
+Order_Date                        15-02-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:40
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 10794, dtype: object

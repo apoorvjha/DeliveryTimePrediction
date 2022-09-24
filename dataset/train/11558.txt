@@ -1,0 +1,21 @@
+ID                                    0x6f46
+Delivery_person_ID             HYDRES17DEL03
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.541976
+Delivery_location_longitude        78.475883
+Order_Date                        04-04-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   26.000000
+Name: 11558, dtype: object

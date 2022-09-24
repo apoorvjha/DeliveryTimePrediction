@@ -1,0 +1,21 @@
+ID                                    0xc7b2
+Delivery_person_ID             DEHRES08DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                30.359722
+Restaurant_longitude               78.067079
+Delivery_location_latitude         30.449722
+Delivery_location_longitude        78.157079
+Order_Date                        16-02-2022
+Time_Orderd                            20:30
+Time_Order_picked                      20:45
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   44.000000
+Name: 14685, dtype: object

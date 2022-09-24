@@ -1,0 +1,21 @@
+ID                                    0xb351
+Delivery_person_ID             MYSRES19DEL03
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                12.334022
+Restaurant_longitude               76.618203
+Delivery_location_latitude         12.364022
+Delivery_location_longitude        76.648203
+Order_Date                        05-04-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:05
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 7294, dtype: object

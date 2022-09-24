@@ -1,0 +1,21 @@
+ID                                     0xa4f4
+Delivery_person_ID             PUNERES09DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.300000
+Restaurant_latitude                 18.536562
+Restaurant_longitude                73.896485
+Delivery_location_latitude          18.646562
+Delivery_location_longitude         74.006485
+Order_Date                         27-03-2022
+Time_Orderd                             19:30
+Time_Order_picked                       19:40
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    35.000000
+Name: 2014, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x6840
+Delivery_person_ID             INDORES12DEL03
+Delivery_person_Age                  37.00000
+Delivery_person_Ratings               4.20000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.83806
+Delivery_location_longitude          75.98340
+Order_Date                         31-03-2022
+Time_Orderd                             17:30
+Time_Order_picked                       17:45
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   2.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     45.00000
+Name: 26563, dtype: object

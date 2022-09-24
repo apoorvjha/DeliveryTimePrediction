@@ -1,0 +1,21 @@
+ID                                    0xc676
+Delivery_person_ID             DEHRES03DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.375259
+Delivery_location_longitude        78.093162
+Order_Date                        17-02-2022
+Time_Orderd                            16:35
+Time_Order_picked                      16:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 1952, dtype: object

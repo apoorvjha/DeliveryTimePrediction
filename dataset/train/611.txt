@@ -1,0 +1,21 @@
+ID                                    0xc355
+Delivery_person_ID             BHPRES20DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                23.235123
+Restaurant_longitude               77.398886
+Delivery_location_latitude         23.305123
+Delivery_location_longitude        77.468886
+Order_Date                        18-02-2022
+Time_Orderd                            18:10
+Time_Order_picked                      18:15
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   38.000000
+Name: 611, dtype: object

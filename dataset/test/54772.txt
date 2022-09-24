@@ -1,0 +1,20 @@
+ID                                     0x62a6
+Delivery_person_ID             INDORES07DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 22.722634
+Restaurant_longitude                75.886959
+Delivery_location_latitude          22.772634
+Delivery_location_longitude         75.936959
+Order_Date                         03-04-2022
+Time_Orderd                             22:45
+Time_Order_picked                       22:60
+Weather conditions                        Fog
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Name: 9179, dtype: object

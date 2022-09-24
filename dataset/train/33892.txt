@@ -1,0 +1,21 @@
+ID                                    0x163f
+Delivery_person_ID             VADRES12DEL02
+Delivery_person_Age                    24.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        06-03-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       21.00
+Name: 33892, dtype: object

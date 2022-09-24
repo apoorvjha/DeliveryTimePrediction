@@ -1,0 +1,21 @@
+ID                                    0x81ee
+Delivery_person_ID             HYDRES09DEL02
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.431668
+Restaurant_longitude               78.408321
+Delivery_location_latitude         17.481668
+Delivery_location_longitude        78.458321
+Order_Date                        21-03-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:55
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 42206, dtype: object

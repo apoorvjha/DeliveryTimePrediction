@@ -1,0 +1,21 @@
+ID                                    0xd963
+Delivery_person_ID             KOLRES11DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                22.577821
+Restaurant_longitude               88.400581
+Delivery_location_latitude         22.617821
+Delivery_location_longitude        88.440581
+Order_Date                        11-02-2022
+Time_Orderd                            14:50
+Time_Order_picked                      15:05
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   22.000000
+Name: 22077, dtype: object

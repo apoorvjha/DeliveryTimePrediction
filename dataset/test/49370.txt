@@ -1,0 +1,20 @@
+ID                                    0xc880
+Delivery_person_ID             BHPRES13DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                23.230791
+Restaurant_longitude               77.437020
+Delivery_location_latitude         23.360791
+Delivery_location_longitude        77.567020
+Order_Date                        12-02-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:40
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3777, dtype: object

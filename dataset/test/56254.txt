@@ -1,0 +1,20 @@
+ID                                     0x72e1
+Delivery_person_ID             PUNERES04DEL02
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.514210
+Restaurant_longitude                73.838429
+Delivery_location_latitude          18.534210
+Delivery_location_longitude         73.858429
+Order_Date                         30-03-2022
+Time_Orderd                             11:10
+Time_Order_picked                       11:20
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 10661, dtype: object

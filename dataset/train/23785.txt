@@ -1,0 +1,21 @@
+ID                                     0xcb8d
+Delivery_person_ID             LUDHRES07DEL01
+Delivery_person_Age                     32.00
+Delivery_person_Ratings                  4.90
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.07
+Delivery_location_longitude              0.07
+Order_Date                         16-02-2022
+Time_Orderd                             19:45
+Time_Order_picked                       19:50
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                      1.00
+Festival                                   No
+City                                    Urban
+Time_taken (min)                        37.00
+Name: 23785, dtype: object

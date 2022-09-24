@@ -1,0 +1,20 @@
+ID                                       0x26d7
+Delivery_person_ID                VADRES18DEL01
+Delivery_person_Age                       29.00
+Delivery_person_Ratings                    4.80
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           17-03-2022
+Time_Orderd                               10:60
+Time_Order_picked                         11:10
+Weather conditions                       Cloudy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                                      Urban
+Name: 4403, dtype: object

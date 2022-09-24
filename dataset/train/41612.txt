@@ -1,0 +1,21 @@
+ID                                     0x2bcd
+Delivery_person_ID             INDORES06DEL01
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.000000
+Restaurant_latitude                 22.728163
+Restaurant_longitude                75.884212
+Delivery_location_latitude          22.798163
+Delivery_location_longitude         75.954212
+Order_Date                         27-03-2022
+Time_Orderd                             21:15
+Time_Order_picked                       21:20
+Weather conditions                 Sandstorms
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    33.000000
+Name: 41612, dtype: object

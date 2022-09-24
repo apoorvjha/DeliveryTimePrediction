@@ -1,0 +1,20 @@
+ID                                       0x15a6
+Delivery_person_ID                JAPRES07DEL01
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                4.800000
+Restaurant_latitude                   26.766536
+Restaurant_longitude                  75.837333
+Delivery_location_latitude            26.806536
+Delivery_location_longitude           75.877333
+Order_Date                           24-03-2022
+Time_Orderd                               13:45
+Time_Order_picked                         13:55
+Weather conditions                        Sunny
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Name: 10434, dtype: object

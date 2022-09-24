@@ -1,0 +1,21 @@
+ID                                    0xc465
+Delivery_person_ID             BHPRES08DEL01
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                23.232537
+Restaurant_longitude               77.429845
+Delivery_location_latitude         23.272537
+Delivery_location_longitude        77.469845
+Order_Date                        13-02-2022
+Time_Orderd                            12:45
+Time_Order_picked                      12:50
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 44476, dtype: object

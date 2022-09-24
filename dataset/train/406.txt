@@ -1,0 +1,21 @@
+ID                                      0xbcb4
+Delivery_person_ID             COIMBRES19DEL02
+Delivery_person_Age                  24.000000
+Delivery_person_Ratings               4.900000
+Restaurant_latitude                  11.022298
+Restaurant_longitude                 76.998349
+Delivery_location_latitude           11.042298
+Delivery_location_longitude          77.018349
+Order_Date                          30-03-2022
+Time_Orderd                              11:60
+Time_Order_picked                        12:10
+Weather conditions                  Sandstorms
+Road_traffic_density                      High
+Vehicle_condition                            2
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     21.000000
+Name: 406, dtype: object

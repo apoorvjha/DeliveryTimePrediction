@@ -1,0 +1,21 @@
+ID                                    0x63b8
+Delivery_person_ID             VADRES07DEL02
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        20-03-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       27.00
+Name: 4246, dtype: object

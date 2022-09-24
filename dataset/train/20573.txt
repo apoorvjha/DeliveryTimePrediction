@@ -1,0 +1,21 @@
+ID                                    0xcb01
+Delivery_person_ID             ALHRES02DEL02
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                25.453436
+Restaurant_longitude               81.833167
+Delivery_location_latitude         25.473436
+Delivery_location_longitude        81.853167
+Order_Date                        11-02-2022
+Time_Orderd                            10:15
+Time_Order_picked                      10:30
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   15.000000
+Name: 20573, dtype: object

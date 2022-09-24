@@ -1,0 +1,21 @@
+ID                                    0x2d94
+Delivery_person_ID             VADRES08DEL02
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        31-03-2022
+Time_Orderd                            17:20
+Time_Order_picked                      17:30
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       22.00
+Name: 8477, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0x775e
+Delivery_person_ID                SURRES02DEL03
+Delivery_person_Age                   23.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   21.186608
+Restaurant_longitude                  72.794136
+Delivery_location_latitude            21.216608
+Delivery_location_longitude           72.824136
+Order_Date                           19-03-2022
+Time_Orderd                               21:20
+Time_Order_picked                         21:25
+Weather conditions                        Windy
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      16.000000
+Name: 13322, dtype: object

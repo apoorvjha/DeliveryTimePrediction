@@ -1,0 +1,21 @@
+ID                                       0xc312
+Delivery_person_ID               AGRRES010DEL03
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   27.163303
+Restaurant_longitude                  78.057044
+Delivery_location_latitude            27.303303
+Delivery_location_longitude           78.197044
+Order_Date                           18-02-2022
+Time_Orderd                               22:45
+Time_Order_picked                         22:50
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      25.000000
+Name: 43167, dtype: object

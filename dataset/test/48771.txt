@@ -1,0 +1,20 @@
+ID                                    0x801d
+Delivery_person_ID             HYDRES20DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                17.483216
+Restaurant_longitude               78.552111
+Delivery_location_latitude         17.563216
+Delivery_location_longitude        78.632111
+Order_Date                        04-04-2022
+Time_Orderd                            17:60
+Time_Order_picked                      18:15
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                                   Urban
+Name: 3178, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0x640b
+Delivery_person_ID             HYDRES17DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.531976
+Delivery_location_longitude        78.465883
+Order_Date                        25-03-2022
+Time_Orderd                            20:50
+Time_Order_picked                      21:05
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 42970, dtype: object

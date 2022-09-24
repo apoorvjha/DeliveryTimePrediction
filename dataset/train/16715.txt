@@ -1,0 +1,21 @@
+ID                                    0xbf79
+Delivery_person_ID             DEHRES03DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                30.335259
+Restaurant_longitude               78.053162
+Delivery_location_latitude         30.375259
+Delivery_location_longitude        78.093162
+Order_Date                        15-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      15:45
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   13.000000
+Name: 16715, dtype: object

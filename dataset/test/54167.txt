@@ -1,0 +1,20 @@
+ID                                       0xc1a0
+Delivery_person_ID               LUDHRES07DEL02
+Delivery_person_Age                       27.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.13
+Delivery_location_longitude                0.13
+Order_Date                           12-02-2022
+Time_Orderd                               23:55
+Time_Order_picked                         23:60
+Weather conditions                   Sandstorms
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                                      Urban
+Name: 8574, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0xe59
+Delivery_person_ID             JAPRES19DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.913726
+Restaurant_longitude               75.752820
+Delivery_location_latitude         26.943726
+Delivery_location_longitude        75.782820
+Order_Date                        05-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      17:25
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 30574, dtype: object

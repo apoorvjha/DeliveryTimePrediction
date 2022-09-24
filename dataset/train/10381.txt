@@ -1,0 +1,21 @@
+ID                                    0x1655
+Delivery_person_ID             MUMRES16DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                19.120083
+Restaurant_longitude               72.907385
+Delivery_location_latitude         19.190083
+Delivery_location_longitude        72.977385
+Order_Date                        06-04-2022
+Time_Orderd                            23:45
+Time_Order_picked                      23:55
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   23.000000
+Name: 10381, dtype: object

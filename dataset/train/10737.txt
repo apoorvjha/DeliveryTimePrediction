@@ -1,0 +1,21 @@
+ID                                    0x2d82
+Delivery_person_ID             HYDRES11DEL01
+Delivery_person_Age                31.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.430448
+Restaurant_longitude               78.418213
+Delivery_location_latitude         17.470448
+Delivery_location_longitude        78.458213
+Order_Date                        15-03-2022
+Time_Orderd                            16:55
+Time_Order_picked                      17:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   17.000000
+Name: 10737, dtype: object

@@ -1,0 +1,21 @@
+ID                                       0xc104
+Delivery_person_ID                KOLRES04DEL01
+Delivery_person_Age                   32.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                  -22.538731
+Restaurant_longitude                  88.364878
+Delivery_location_latitude            22.578731
+Delivery_location_longitude           88.404878
+Order_Date                           15-02-2022
+Time_Orderd                               15:25
+Time_Order_picked                         15:35
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      33.000000
+Name: 25373, dtype: object

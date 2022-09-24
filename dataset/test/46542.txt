@@ -1,0 +1,20 @@
+ID                                     0xa81
+Delivery_person_ID             HYDRES12DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.429585
+Restaurant_longitude               78.392621
+Delivery_location_latitude         17.469585
+Delivery_location_longitude        78.432621
+Order_Date                        11-03-2022
+Time_Orderd                            15:30
+Time_Order_picked                      15:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 949, dtype: object

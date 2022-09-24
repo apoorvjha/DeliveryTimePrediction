@@ -1,0 +1,21 @@
+ID                                     0x1369
+Delivery_person_ID             PUNERES02DEL02
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.551440
+Restaurant_longitude                73.804855
+Delivery_location_latitude          18.601440
+Delivery_location_longitude         73.854855
+Order_Date                         19-03-2022
+Time_Orderd                             21:20
+Time_Order_picked                       21:30
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    23.000000
+Name: 39013, dtype: object

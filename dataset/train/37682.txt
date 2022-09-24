@@ -1,0 +1,21 @@
+ID                                    0xc4a5
+Delivery_person_ID             ALHRES16DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                25.450377
+Restaurant_longitude               81.834236
+Delivery_location_latitude         25.530377
+Delivery_location_longitude        81.914236
+Order_Date                        14-02-2022
+Time_Orderd                            21:60
+Time_Order_picked                      22:10
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   34.000000
+Name: 37682, dtype: object

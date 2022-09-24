@@ -1,0 +1,20 @@
+ID                                     0xd60f
+Delivery_person_ID             AURGRES15DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 19.878028
+Restaurant_longitude                75.317475
+Delivery_location_latitude          19.958028
+Delivery_location_longitude         75.397475
+Order_Date                         12-02-2022
+Time_Orderd                             18:55
+Time_Order_picked                       19:10
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  2.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7829, dtype: object

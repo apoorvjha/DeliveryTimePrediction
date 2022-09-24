@@ -1,0 +1,21 @@
+ID                                     0x4063
+Delivery_person_ID             PUNERES13DEL03
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.400000
+Restaurant_latitude                 18.562450
+Restaurant_longitude                73.916619
+Delivery_location_latitude          18.622450
+Delivery_location_longitude         73.976619
+Order_Date                         19-03-2022
+Time_Orderd                             19:25
+Time_Order_picked                       19:40
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    32.000000
+Name: 1380, dtype: object

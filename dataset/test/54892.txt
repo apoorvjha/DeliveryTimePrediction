@@ -1,0 +1,20 @@
+ID                                       0xd7fe
+Delivery_person_ID                AGRRES17DEL01
+Delivery_person_Age                   36.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   27.157772
+Restaurant_longitude                  78.047250
+Delivery_location_latitude            27.197772
+Delivery_location_longitude           78.087250
+Order_Date                           13-02-2022
+Time_Orderd                               12:15
+Time_Order_picked                         12:25
+Weather conditions                       Stormy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 9299, dtype: object

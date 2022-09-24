@@ -1,0 +1,21 @@
+ID                                       0xd4b6
+Delivery_person_ID                AGRRES09DEL01
+Delivery_person_Age                       20.00
+Delivery_person_Ratings                    4.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           15-02-2022
+Time_Orderd                               10:60
+Time_Order_picked                         11:05
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                                      Urban
+Time_taken (min)                          14.00
+Name: 5526, dtype: object

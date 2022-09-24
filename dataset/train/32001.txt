@@ -1,0 +1,21 @@
+ID                                    0xd5fb
+Delivery_person_ID             AGRRES20DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                27.158822
+Restaurant_longitude               78.045359
+Delivery_location_latitude         27.288822
+Delivery_location_longitude        78.175359
+Order_Date                        14-02-2022
+Time_Orderd                            17:30
+Time_Order_picked                      17:40
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   13.000000
+Name: 32001, dtype: object

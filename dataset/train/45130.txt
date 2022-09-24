@@ -1,0 +1,21 @@
+ID                                      0xa097
+Delivery_person_ID             COIMBRES02DEL02
+Delivery_person_Age                  33.000000
+Delivery_person_Ratings               4.400000
+Restaurant_latitude                  11.022477
+Restaurant_longitude                 76.995667
+Delivery_location_latitude           11.102477
+Delivery_location_longitude          77.075667
+Order_Date                          12-03-2022
+Time_Orderd                              21:15
+Time_Order_picked                        21:20
+Weather conditions                       Windy
+Road_traffic_density                       Jam
+Vehicle_condition                            2
+Type_of_order                           Drinks
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     40.000000
+Name: 45130, dtype: object

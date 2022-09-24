@@ -1,0 +1,20 @@
+ID                                    0xc108
+Delivery_person_ID             AGRRES04DEL03
+Delivery_person_Age                50.000000
+Delivery_person_Ratings             6.000000
+Restaurant_latitude                27.195928
+Restaurant_longitude               77.998092
+Delivery_location_latitude         27.335928
+Delivery_location_longitude        78.138092
+Order_Date                        18-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      19:30
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                         Buffet
+Type_of_vehicle                      bicycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 5649, dtype: object

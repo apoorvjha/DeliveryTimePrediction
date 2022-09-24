@@ -1,0 +1,21 @@
+ID                                     0x425a
+Delivery_person_ID             PUNERES01DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.569156
+Restaurant_longitude                73.774723
+Delivery_location_latitude          18.619156
+Delivery_location_longitude         73.824723
+Order_Date                         05-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       21:05
+Weather conditions                     Cloudy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    24.000000
+Name: 17560, dtype: object

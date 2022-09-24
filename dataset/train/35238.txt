@@ -1,0 +1,21 @@
+ID                                    0x89fe
+Delivery_person_ID             SURRES01DEL02
+Delivery_person_Age                24.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                21.186438
+Restaurant_longitude               72.794115
+Delivery_location_latitude         21.266438
+Delivery_location_longitude        72.874115
+Order_Date                        31-03-2022
+Time_Orderd                            23:35
+Time_Order_picked                      23:45
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   27.000000
+Name: 35238, dtype: object

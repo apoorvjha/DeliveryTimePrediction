@@ -1,0 +1,21 @@
+ID                                    0x686d
+Delivery_person_ID             VADRES20DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                22.311358
+Restaurant_longitude               73.164798
+Delivery_location_latitude         22.371358
+Delivery_location_longitude        73.224798
+Order_Date                        09-03-2022
+Time_Orderd                            20:55
+Time_Order_picked                      21:10
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   11.000000
+Name: 26722, dtype: object

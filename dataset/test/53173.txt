@@ -1,0 +1,20 @@
+ID                                    0xc85e
+Delivery_person_ID             KOCRES04DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                 9.966783
+Restaurant_longitude               76.242981
+Delivery_location_latitude         10.026783
+Delivery_location_longitude        76.302981
+Order_Date                        15-02-2022
+Time_Orderd                            22:45
+Time_Order_picked                      22:60
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7580, dtype: object

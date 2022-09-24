@@ -1,0 +1,21 @@
+ID                                    0x7548
+Delivery_person_ID             VADRES20DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                22.311358
+Restaurant_longitude               73.164798
+Delivery_location_latitude         22.341358
+Delivery_location_longitude        73.194798
+Order_Date                        07-03-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:40
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   33.000000
+Name: 27099, dtype: object

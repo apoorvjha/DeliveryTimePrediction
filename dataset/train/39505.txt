@@ -1,0 +1,21 @@
+ID                                     0x395a
+Delivery_person_ID             CHENRES06DEL02
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 13.054347
+Restaurant_longitude                80.257221
+Delivery_location_latitude          13.134347
+Delivery_location_longitude         80.337221
+Order_Date                         29-03-2022
+Time_Orderd                             23:45
+Time_Order_picked                       23:55
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    22.000000
+Name: 39505, dtype: object

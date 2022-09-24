@@ -1,0 +1,21 @@
+ID                                     0xd7bc
+Delivery_person_ID             AURGRES16DEL01
+Delivery_person_Age                     23.00
+Delivery_person_Ratings                  4.70
+Restaurant_latitude                      0.00
+Restaurant_longitude                     0.00
+Delivery_location_latitude               0.11
+Delivery_location_longitude              0.11
+Order_Date                         12-02-2022
+Time_Orderd                             19:60
+Time_Order_picked                       20:15
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                      1.00
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                        26.00
+Name: 21215, dtype: object

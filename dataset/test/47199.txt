@@ -1,0 +1,20 @@
+ID                                    0xaedb
+Delivery_person_ID             SURRES06DEL02
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                21.185047
+Restaurant_longitude               72.808590
+Delivery_location_latitude         21.265047
+Delivery_location_longitude        72.888590
+Order_Date                        16-03-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:35
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                 Yes
+City                                   Urban
+Name: 1606, dtype: object

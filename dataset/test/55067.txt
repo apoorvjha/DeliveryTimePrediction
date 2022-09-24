@@ -1,0 +1,20 @@
+ID                                    0xca1f
+Delivery_person_ID             AGRRES19DEL02
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.20
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        14-02-2022
+Time_Orderd                            18:15
+Time_Order_picked                      18:25
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 9474, dtype: object

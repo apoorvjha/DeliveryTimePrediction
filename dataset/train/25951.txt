@@ -1,0 +1,21 @@
+ID                                    0x89c6
+Delivery_person_ID             MUMRES12DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                19.207222
+Restaurant_longitude               72.972281
+Delivery_location_latitude         19.247222
+Delivery_location_longitude        73.012281
+Order_Date                        17-03-2022
+Time_Orderd                            15:50
+Time_Order_picked                      16:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   14.000000
+Name: 25951, dtype: object

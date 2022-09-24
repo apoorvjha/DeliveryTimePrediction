@@ -1,0 +1,20 @@
+ID                                     0xc564
+Delivery_person_ID             LUDHRES15DEL03
+Delivery_person_Age                 24.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.899584
+Restaurant_longitude                75.809346
+Delivery_location_latitude          30.989584
+Delivery_location_longitude         75.899346
+Order_Date                         12-02-2022
+Time_Orderd                             22:55
+Time_Order_picked                       22:60
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7606, dtype: object

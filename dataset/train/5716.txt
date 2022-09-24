@@ -1,0 +1,21 @@
+ID                                    0x5688
+Delivery_person_ID             VADRES12DEL02
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        12-03-2022
+Time_Orderd                            18:40
+Time_Order_picked                      18:45
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       35.00
+Name: 5716, dtype: object

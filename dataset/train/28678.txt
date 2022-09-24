@@ -1,0 +1,21 @@
+ID                                    0xc8fb
+Delivery_person_ID             AGRRES14DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                27.161850
+Restaurant_longitude               78.040165
+Delivery_location_latitude         27.181850
+Delivery_location_longitude        78.060165
+Order_Date                        15-02-2022
+Time_Orderd                             8:15
+Time_Order_picked                       8:30
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   10.000000
+Name: 28678, dtype: object

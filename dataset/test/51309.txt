@@ -1,0 +1,20 @@
+ID                                      0xb422
+Delivery_person_ID             COIMBRES04DEL03
+Delivery_person_Age                  27.000000
+Delivery_person_Ratings               4.800000
+Restaurant_latitude                  11.024839
+Restaurant_longitude                 77.007003
+Delivery_location_latitude           11.084839
+Delivery_location_longitude          77.067003
+Order_Date                          28-03-2022
+Time_Orderd                              21:10
+Time_Order_picked                        21:25
+Weather conditions                      Cloudy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                           Drinks
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Name: 5716, dtype: object

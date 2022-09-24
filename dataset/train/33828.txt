@@ -1,0 +1,21 @@
+ID                                       0x139b
+Delivery_person_ID                VADRES20DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   22.311358
+Restaurant_longitude                  73.164798
+Delivery_location_latitude            22.341358
+Delivery_location_longitude           73.194798
+Order_Date                           03-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         18:05
+Weather conditions                   Sandstorms
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      24.000000
+Name: 33828, dtype: object

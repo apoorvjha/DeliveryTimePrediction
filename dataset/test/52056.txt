@@ -1,0 +1,20 @@
+ID                                    0xe031
+Delivery_person_ID             AGRRES01DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                27.161661
+Restaurant_longitude               78.011544
+Delivery_location_latitude         27.211661
+Delivery_location_longitude        78.061544
+Order_Date                        17-02-2022
+Time_Orderd                            21:60
+Time_Order_picked                      22:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 6463, dtype: object

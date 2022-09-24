@@ -1,0 +1,20 @@
+ID                                      0xaac9
+Delivery_person_ID             COIMBRES12DEL02
+Delivery_person_Age                  26.000000
+Delivery_person_Ratings               4.800000
+Restaurant_latitude                  11.000762
+Restaurant_longitude                 76.981876
+Delivery_location_latitude           11.080762
+Delivery_location_longitude          77.061876
+Order_Date                          18-03-2022
+Time_Orderd                              23:40
+Time_Order_picked                        23:55
+Weather conditions                         Fog
+Road_traffic_density                       Low
+Vehicle_condition                            2
+Type_of_order                             Meal
+Type_of_vehicle                        scooter
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 1734, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd3a8
+Delivery_person_ID             DEHRES05DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                30.346994
+Restaurant_longitude               78.062543
+Delivery_location_latitude         30.366994
+Delivery_location_longitude        78.082543
+Order_Date                        15-02-2022
+Time_Orderd                            10:60
+Time_Order_picked                      11:10
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   21.000000
+Name: 24191, dtype: object

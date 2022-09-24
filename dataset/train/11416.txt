@@ -1,0 +1,21 @@
+ID                                    0xa198
+Delivery_person_ID             VADRES01DEL03
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.307898
+Restaurant_longitude               73.167788
+Delivery_location_latitude         22.337898
+Delivery_location_longitude        73.197788
+Order_Date                        15-03-2022
+Time_Orderd                            20:50
+Time_Order_picked                      20:55
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   14.000000
+Name: 11416, dtype: object

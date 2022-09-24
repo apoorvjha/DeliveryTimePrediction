@@ -1,0 +1,21 @@
+ID                                       0x2328
+Delivery_person_ID             RANCHIRES09DEL02
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.351058
+Restaurant_longitude                  85.325731
+Delivery_location_latitude            23.431058
+Delivery_location_longitude           85.405731
+Order_Date                           18-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         18:05
+Weather conditions                        Sunny
+Road_traffic_density                     Medium
+Vehicle_condition                             0
+Type_of_order                            Drinks
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      32.000000
+Name: 16279, dtype: object

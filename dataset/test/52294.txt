@@ -1,0 +1,20 @@
+ID                                     0xcd65
+Delivery_person_ID             LUDHRES12DEL02
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.500000
+Restaurant_latitude                 30.893244
+Restaurant_longitude                75.821817
+Delivery_location_latitude          30.913244
+Delivery_location_longitude         75.841817
+Order_Date                         13-02-2022
+Time_Orderd                             11:60
+Time_Order_picked                       12:15
+Weather conditions                     Stormy
+Road_traffic_density                     High
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 6701, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x9418
+Delivery_person_ID             PUNERES15DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.636215
+Restaurant_longitude                73.751081
+Delivery_location_latitude          18.686215
+Delivery_location_longitude         73.801081
+Order_Date                         05-03-2022
+Time_Orderd                             18:20
+Time_Order_picked                       18:30
+Weather conditions                      Windy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    20.000000
+Name: 34524, dtype: object

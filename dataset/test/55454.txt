@@ -1,0 +1,20 @@
+ID                                    0x17f2
+Delivery_person_ID             JAPRES02DEL02
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                26.914142
+Restaurant_longitude               75.805704
+Delivery_location_latitude         26.934142
+Delivery_location_longitude        75.825704
+Order_Date                        30-03-2022
+Time_Orderd                             9:20
+Time_Order_picked                       9:35
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 9861, dtype: object

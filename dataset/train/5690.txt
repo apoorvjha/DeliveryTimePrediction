@@ -1,0 +1,21 @@
+ID                                     0x771a
+Delivery_person_ID             PUNERES15DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 18.636215
+Restaurant_longitude                73.751081
+Delivery_location_latitude          18.686215
+Delivery_location_longitude         73.801081
+Order_Date                         15-03-2022
+Time_Orderd                             23:30
+Time_Order_picked                       23:35
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    18.000000
+Name: 5690, dtype: object

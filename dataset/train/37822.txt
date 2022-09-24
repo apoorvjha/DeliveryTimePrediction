@@ -1,0 +1,21 @@
+ID                                     0x7318
+Delivery_person_ID             BANGRES20DEL02
+Delivery_person_Age                 21.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.972161
+Restaurant_longitude                77.596014
+Delivery_location_latitude          12.992161
+Delivery_location_longitude         77.616014
+Order_Date                         30-03-2022
+Time_Orderd                              9:30
+Time_Order_picked                        9:35
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                       NaN
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    19.000000
+Name: 37822, dtype: object

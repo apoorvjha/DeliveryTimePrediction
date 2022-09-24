@@ -1,0 +1,20 @@
+ID                                      0xee6
+Delivery_person_ID             INDORES07DEL01
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.000000
+Restaurant_latitude                 22.722634
+Restaurant_longitude                75.886959
+Delivery_location_latitude          22.732634
+Delivery_location_longitude         75.896959
+Order_Date                         05-04-2022
+Time_Orderd                              8:55
+Time_Order_picked                        9:05
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                      NaN
+Name: 1492, dtype: object

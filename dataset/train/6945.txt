@@ -1,0 +1,21 @@
+ID                                    0xd855
+Delivery_person_ID             KNPRES06DEL02
+Delivery_person_Age                    29.00
+Delivery_person_Ratings                 5.00
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        14-02-2022
+Time_Orderd                            23:20
+Time_Order_picked                      23:25
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       24.00
+Name: 6945, dtype: object

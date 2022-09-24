@@ -1,0 +1,20 @@
+ID                                     0x568b
+Delivery_person_ID             CHENRES13DEL02
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              5.000000
+Restaurant_latitude                 13.027018
+Restaurant_longitude                80.254791
+Delivery_location_latitude          13.157018
+Delivery_location_longitude         80.384791
+Order_Date                         08-03-2022
+Time_Orderd                             21:10
+Time_Order_picked                       21:25
+Weather conditions                      Sunny
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 10693, dtype: object

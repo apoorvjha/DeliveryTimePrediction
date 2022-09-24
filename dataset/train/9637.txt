@@ -1,0 +1,21 @@
+ID                                    0xbdf2
+Delivery_person_ID             JAPRES18DEL02
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.913987
+Restaurant_longitude               75.752891
+Delivery_location_latitude         26.993987
+Delivery_location_longitude        75.832891
+Order_Date                        06-03-2022
+Time_Orderd                            18:60
+Time_Order_picked                      19:05
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   33.000000
+Name: 9637, dtype: object

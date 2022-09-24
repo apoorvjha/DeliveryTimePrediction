@@ -1,0 +1,21 @@
+ID                                    0xa015
+Delivery_person_ID             SURRES19DEL03
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.400000
+Restaurant_latitude                21.149669
+Restaurant_longitude               72.772629
+Delivery_location_latitude         21.239669
+Delivery_location_longitude        72.862629
+Order_Date                        02-03-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:45
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 2.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   39.000000
+Name: 2777, dtype: object

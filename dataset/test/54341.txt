@@ -1,0 +1,20 @@
+ID                                       0xc217
+Delivery_person_ID                ALHRES13DEL01
+Delivery_person_Age                   24.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   25.451646
+Restaurant_longitude                  81.832796
+Delivery_location_latitude            25.561646
+Delivery_location_longitude           81.942796
+Order_Date                           14-02-2022
+Time_Orderd                               22:35
+Time_Order_picked                         22:45
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 8748, dtype: object

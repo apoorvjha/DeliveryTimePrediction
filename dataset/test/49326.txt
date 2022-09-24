@@ -1,0 +1,20 @@
+ID                                    0x5144
+Delivery_person_ID             MYSRES13DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                12.310972
+Restaurant_longitude               76.659264
+Delivery_location_latitude         12.320972
+Delivery_location_longitude        76.669264
+Order_Date                        09-03-2022
+Time_Orderd                            11:55
+Time_Order_picked                      12:10
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                 Yes
+City                              Semi-Urban
+Name: 3733, dtype: object

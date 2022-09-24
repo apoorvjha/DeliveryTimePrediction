@@ -1,0 +1,20 @@
+ID                                    0xd3a1
+Delivery_person_ID             BHPRES03DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.000000
+Restaurant_latitude                23.214294
+Restaurant_longitude               77.435361
+Delivery_location_latitude         23.234294
+Delivery_location_longitude        77.455361
+Order_Date                        17-02-2022
+Time_Orderd                             8:35
+Time_Order_picked                       8:45
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 5107, dtype: object

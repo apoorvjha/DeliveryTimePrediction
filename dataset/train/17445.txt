@@ -1,0 +1,21 @@
+ID                                    0xabae
+Delivery_person_ID             MUMRES19DEL02
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                19.131141
+Restaurant_longitude               72.813074
+Delivery_location_latitude         19.211140
+Delivery_location_longitude        72.893074
+Order_Date                        18-03-2022
+Time_Orderd                            21:40
+Time_Order_picked                      21:50
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   40.000000
+Name: 17445, dtype: object

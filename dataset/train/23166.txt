@@ -1,0 +1,21 @@
+ID                                        0x740
+Delivery_person_ID             RANCHIRES20DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.399250
+Restaurant_longitude                  85.390464
+Delivery_location_latitude            23.459250
+Delivery_location_longitude           85.450464
+Order_Date                           17-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:50
+Weather conditions                          NaN
+Road_traffic_density                        NaN
+Vehicle_condition                             3
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                      Urban
+Time_taken (min)                      25.000000
+Name: 23166, dtype: object

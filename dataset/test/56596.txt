@@ -1,0 +1,20 @@
+ID                                       0x1b69
+Delivery_person_ID             RANCHIRES20DEL01
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.399250
+Restaurant_longitude                  85.390464
+Delivery_location_latitude            23.509250
+Delivery_location_longitude           85.500464
+Order_Date                           25-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         22:50
+Weather conditions                       Stormy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Name: 11003, dtype: object

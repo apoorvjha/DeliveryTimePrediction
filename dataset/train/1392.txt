@@ -1,0 +1,21 @@
+ID                                      0x76e
+Delivery_person_ID             PUNERES05DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.543626
+Restaurant_longitude                73.905101
+Delivery_location_latitude          18.563626
+Delivery_location_longitude         73.925101
+Order_Date                         11-03-2022
+Time_Orderd                              8:55
+Time_Order_picked                        8:60
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                            Meal
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 1392, dtype: object

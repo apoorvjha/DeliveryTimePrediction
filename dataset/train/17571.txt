@@ -1,0 +1,21 @@
+ID                                     0x8055
+Delivery_person_ID             INDORES12DEL01
+Delivery_person_Age                  28.00000
+Delivery_person_Ratings               4.70000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.81806
+Delivery_location_longitude          75.96340
+Order_Date                         25-03-2022
+Time_Orderd                             20:50
+Time_Order_picked                       20:55
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   1.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     28.00000
+Name: 17571, dtype: object

@@ -1,0 +1,21 @@
+ID                                      0x8177
+Delivery_person_ID             COIMBRES12DEL03
+Delivery_person_Age                  26.000000
+Delivery_person_Ratings               4.700000
+Restaurant_latitude                  11.000762
+Restaurant_longitude                 76.981876
+Delivery_location_latitude           11.090762
+Delivery_location_longitude          77.071876
+Order_Date                          02-04-2022
+Time_Orderd                              23:45
+Time_Order_picked                        23:60
+Weather conditions                  Sandstorms
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Drinks
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   1.000000
+Festival                                    No
+City                                     Urban
+Time_taken (min)                     15.000000
+Name: 22511, dtype: object

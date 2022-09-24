@@ -1,0 +1,20 @@
+ID                                    0x3355
+Delivery_person_ID             MYSRES14DEL03
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.03
+Delivery_location_longitude             0.03
+Order_Date                        15-03-2022
+Time_Orderd                            20:25
+Time_Order_picked                      20:40
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Name: 7678, dtype: object

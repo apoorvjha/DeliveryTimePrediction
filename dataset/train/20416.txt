@@ -1,0 +1,21 @@
+ID                                    0xd470
+Delivery_person_ID             BHPRES20DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                23.235123
+Restaurant_longitude               77.398886
+Delivery_location_latitude         23.275123
+Delivery_location_longitude        77.438886
+Order_Date                        17-02-2022
+Time_Orderd                            13:40
+Time_Order_picked                      13:45
+Weather conditions                     Windy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   13.000000
+Name: 20416, dtype: object

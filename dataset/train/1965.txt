@@ -1,0 +1,21 @@
+ID                                     0x7cc1
+Delivery_person_ID             BANGRES11DEL01
+Delivery_person_Age                 27.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 12.934365
+Restaurant_longitude                77.616155
+Delivery_location_latitude          13.044365
+Delivery_location_longitude         77.726155
+Order_Date                         27-03-2022
+Time_Orderd                             20:10
+Time_Order_picked                       20:15
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    28.000000
+Name: 1965, dtype: object

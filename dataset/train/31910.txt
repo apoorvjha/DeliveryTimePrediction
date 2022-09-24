@@ -1,0 +1,21 @@
+ID                                    0xda6b
+Delivery_person_ID             AGRRES05DEL03
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                27.201725
+Restaurant_longitude               78.007553
+Delivery_location_latitude         27.291725
+Delivery_location_longitude        78.097553
+Order_Date                        14-02-2022
+Time_Orderd                            23:10
+Time_Order_picked                      23:25
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   18.000000
+Name: 31910, dtype: object

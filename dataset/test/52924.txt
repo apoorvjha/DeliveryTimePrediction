@@ -1,0 +1,20 @@
+ID                                    0xddc7
+Delivery_person_ID             KOCRES20DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                 9.979186
+Restaurant_longitude               76.317361
+Delivery_location_latitude         10.029186
+Delivery_location_longitude        76.367361
+Order_Date                        13-02-2022
+Time_Orderd                            22:55
+Time_Order_picked                      22:60
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7331, dtype: object

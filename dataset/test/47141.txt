@@ -1,0 +1,20 @@
+ID                                     0x96a
+Delivery_person_ID             MYSRES15DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.352058
+Restaurant_longitude               76.606650
+Delivery_location_latitude         12.382058
+Delivery_location_longitude        76.636650
+Order_Date                        30-03-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:40
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 1548, dtype: object

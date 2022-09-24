@@ -1,0 +1,20 @@
+ID                                    0x97e9
+Delivery_person_ID             VADRES07DEL03
+Delivery_person_Age                    23.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        04-03-2022
+Time_Orderd                            19:25
+Time_Order_picked                      19:40
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 7630, dtype: object

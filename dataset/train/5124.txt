@@ -1,0 +1,21 @@
+ID                                    0x764c
+Delivery_person_ID             JAPRES08DEL02
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.910262
+Restaurant_longitude               75.783013
+Delivery_location_latitude         27.040262
+Delivery_location_longitude        75.913013
+Order_Date                        04-03-2022
+Time_Orderd                            18:50
+Time_Order_picked                      19:05
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   30.000000
+Name: 5124, dtype: object

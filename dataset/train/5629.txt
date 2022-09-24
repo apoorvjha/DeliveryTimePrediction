@@ -1,0 +1,21 @@
+ID                                       0x712
+Delivery_person_ID             COIMBRES15DEL01
+Delivery_person_Age                        NaN
+Delivery_person_Ratings                    NaN
+Restaurant_latitude                  11.006686
+Restaurant_longitude                 76.951736
+Delivery_location_latitude           11.116686
+Delivery_location_longitude          77.061736
+Order_Date                          18-03-2022
+Time_Orderd                                NaN
+Time_Order_picked                        19:55
+Weather conditions                      Cloudy
+Road_traffic_density                       Jam
+Vehicle_condition                            1
+Type_of_order                             Meal
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     47.000000
+Name: 5629, dtype: object

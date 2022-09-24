@@ -1,0 +1,20 @@
+ID                                    0xcc70
+Delivery_person_ID             KOCRES07DEL01
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                 9.985697
+Restaurant_longitude               76.281128
+Delivery_location_latitude         10.055697
+Delivery_location_longitude        76.351128
+Order_Date                        18-02-2022
+Time_Orderd                            19:30
+Time_Order_picked                      19:35
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7396, dtype: object

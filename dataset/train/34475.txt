@@ -1,0 +1,21 @@
+ID                                      0x94b
+Delivery_person_ID             PUNERES07DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 18.546947
+Restaurant_longitude                73.900626
+Delivery_location_latitude          18.586947
+Delivery_location_longitude         73.940626
+Order_Date                         13-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       14:10
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    22.000000
+Name: 34475, dtype: object

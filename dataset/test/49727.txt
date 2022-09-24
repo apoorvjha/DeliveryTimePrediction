@@ -1,0 +1,20 @@
+ID                                       0x1b6c
+Delivery_person_ID             RANCHIRES20DEL03
+Delivery_person_Age                         NaN
+Delivery_person_Ratings                     NaN
+Restaurant_latitude                   23.399250
+Restaurant_longitude                  85.390464
+Delivery_location_latitude            23.489250
+Delivery_location_longitude           85.480464
+Order_Date                           20-03-2022
+Time_Orderd                                 NaN
+Time_Order_picked                         21:40
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             1
+Type_of_order                             Snack
+Type_of_vehicle                      motorcycle
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Name: 4134, dtype: object

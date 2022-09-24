@@ -1,0 +1,20 @@
+ID                                    0x71c4
+Delivery_person_ID             HYDRES02DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.412330
+Restaurant_longitude               78.449654
+Delivery_location_latitude         17.502330
+Delivery_location_longitude        78.539654
+Order_Date                        31-03-2022
+Time_Orderd                            19:60
+Time_Order_picked                      20:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                 Yes
+City                              Semi-Urban
+Name: 3844, dtype: object

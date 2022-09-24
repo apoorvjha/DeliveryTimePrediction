@@ -1,0 +1,21 @@
+ID                                       0x3839
+Delivery_person_ID               BANGRES03DEL01
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                   12.979166
+Restaurant_longitude                  77.640709
+Delivery_location_latitude            13.019166
+Delivery_location_longitude           77.680709
+Order_Date                           21-03-2022
+Time_Orderd                               15:40
+Time_Order_picked                         15:50
+Weather conditions                       Stormy
+Road_traffic_density                     Medium
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      33.000000
+Name: 37591, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xd3fd
+Delivery_person_ID             GOARES05DEL02
+Delivery_person_Age                    20.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        18-02-2022
+Time_Orderd                            22:60
+Time_Order_picked                      23:05
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     0.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       16.00
+Name: 5133, dtype: object

@@ -1,0 +1,21 @@
+ID                                     0x4c1d
+Delivery_person_ID             BANGRES04DEL02
+Delivery_person_Age                 35.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.980410
+Restaurant_longitude                77.640489
+Delivery_location_latitude          13.000410
+Delivery_location_longitude         77.660489
+Order_Date                         01-04-2022
+Time_Orderd                             10:40
+Time_Order_picked                       10:45
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Drinks
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    15.000000
+Name: 40455, dtype: object

@@ -1,0 +1,21 @@
+ID                                    0xc95e
+Delivery_person_ID             KNPRES06DEL01
+Delivery_person_Age                    21.00
+Delivery_person_Ratings                 4.10
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        15-02-2022
+Time_Orderd                            14:10
+Time_Order_picked                      14:25
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       53.00
+Name: 7866, dtype: object

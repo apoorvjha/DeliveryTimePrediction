@@ -1,0 +1,20 @@
+ID                                    0x1580
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    23.00
+Delivery_person_Ratings                 4.70
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        20-03-2022
+Time_Orderd                            21:30
+Time_Order_picked                      21:35
+Weather conditions                    Stormy
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 9076, dtype: object

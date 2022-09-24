@@ -1,0 +1,20 @@
+ID                                    0x4b0f
+Delivery_person_ID             MUMRES18DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                19.109300
+Restaurant_longitude               72.825451
+Delivery_location_latitude         19.219300
+Delivery_location_longitude        72.935451
+Order_Date                        18-03-2022
+Time_Orderd                            17:50
+Time_Order_picked                      17:55
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 1822, dtype: object

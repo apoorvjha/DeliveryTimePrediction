@@ -1,0 +1,21 @@
+ID                                    0x7297
+Delivery_person_ID             VADRES14DEL02
+Delivery_person_Age                32.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                22.311603
+Restaurant_longitude               73.165012
+Delivery_location_latitude         22.441603
+Delivery_location_longitude        73.295012
+Order_Date                        06-03-2022
+Time_Orderd                            22:25
+Time_Order_picked                      22:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Time_taken (min)                   16.000000
+Name: 5108, dtype: object

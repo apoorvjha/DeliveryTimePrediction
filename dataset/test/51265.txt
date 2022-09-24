@@ -1,0 +1,20 @@
+ID                                    0xd4ee
+Delivery_person_ID             AGRRES18DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.161694
+Restaurant_longitude               78.034714
+Delivery_location_latitude         27.241694
+Delivery_location_longitude        78.114714
+Order_Date                        12-02-2022
+Time_Orderd                            23:55
+Time_Order_picked                      23:60
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5672, dtype: object

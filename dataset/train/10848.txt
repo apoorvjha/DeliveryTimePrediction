@@ -1,0 +1,21 @@
+ID                                     0xc297
+Delivery_person_ID             AURGRES18DEL01
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              3.700000
+Restaurant_latitude                 19.888716
+Restaurant_longitude                75.321461
+Delivery_location_latitude          19.998716
+Delivery_location_longitude         75.431461
+Order_Date                         18-02-2022
+Time_Orderd                             21:30
+Time_Order_picked                       21:40
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    34.000000
+Name: 10848, dtype: object

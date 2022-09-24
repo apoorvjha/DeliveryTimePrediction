@@ -1,0 +1,21 @@
+ID                                     0x753
+Delivery_person_ID             MUMRES11DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                18.994237
+Restaurant_longitude               72.825553
+Delivery_location_latitude         19.014237
+Delivery_location_longitude        72.845553
+Order_Date                        01-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      11:60
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   26.000000
+Name: 11316, dtype: object

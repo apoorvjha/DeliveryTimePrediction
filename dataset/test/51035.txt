@@ -1,0 +1,20 @@
+ID                                     0x2995
+Delivery_person_ID             PUNERES19DEL02
+Delivery_person_Age                 39.000000
+Delivery_person_Ratings              4.900000
+Restaurant_latitude                 18.563934
+Restaurant_longitude                73.915367
+Delivery_location_latitude          18.693935
+Delivery_location_longitude         74.045367
+Order_Date                         27-03-2022
+Time_Orderd                             21:15
+Time_Order_picked                       21:25
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 5442, dtype: object

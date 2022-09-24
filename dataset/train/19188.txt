@@ -1,0 +1,21 @@
+ID                                    0x4563
+Delivery_person_ID             HYDRES13DEL01
+Delivery_person_Age                25.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                17.431477
+Restaurant_longitude               78.400350
+Delivery_location_latitude         17.471477
+Delivery_location_longitude        78.440350
+Order_Date                        28-03-2022
+Time_Orderd                            12:25
+Time_Order_picked                      12:30
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   20.000000
+Name: 19188, dtype: object

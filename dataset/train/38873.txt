@@ -1,0 +1,21 @@
+ID                                    0x5633
+Delivery_person_ID             SURRES02DEL02
+Delivery_person_Age                30.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                21.186608
+Restaurant_longitude               72.794136
+Delivery_location_latitude         21.236608
+Delivery_location_longitude        72.844136
+Order_Date                        17-03-2022
+Time_Orderd                            23:60
+Time_Order_picked                      24:15
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 38873, dtype: object

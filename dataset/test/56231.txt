@@ -1,0 +1,20 @@
+ID                                      0xd4c
+Delivery_person_ID             CHENRES08DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 13.022394
+Restaurant_longitude                80.242439
+Delivery_location_latitude          13.092394
+Delivery_location_longitude         80.312439
+Order_Date                         10-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       23:40
+Weather conditions                      Sunny
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 10638, dtype: object

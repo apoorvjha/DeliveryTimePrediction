@@ -1,0 +1,20 @@
+ID                                      0x147e
+Delivery_person_ID             COIMBRES04DEL01
+Delivery_person_Age                  25.000000
+Delivery_person_Ratings               4.100000
+Restaurant_latitude                  11.024839
+Restaurant_longitude                 77.007003
+Delivery_location_latitude           11.034839
+Delivery_location_longitude          77.017003
+Order_Date                          01-04-2022
+Time_Orderd                               9:10
+Time_Order_picked                         9:20
+Weather conditions                      Stormy
+Road_traffic_density                       Low
+Vehicle_condition                            0
+Type_of_order                           Buffet
+Type_of_vehicle                     motorcycle
+multiple_deliveries                   0.000000
+Festival                                    No
+City                             Metropolitian
+Name: 8352, dtype: object

@@ -1,0 +1,20 @@
+ID                                     0x38cb
+Delivery_person_ID             INDORES12DEL03
+Delivery_person_Age                  26.00000
+Delivery_person_Ratings               4.80000
+Restaurant_latitude                  22.74806
+Restaurant_longitude                 75.89340
+Delivery_location_latitude           22.80806
+Delivery_location_longitude          75.95340
+Order_Date                         01-03-2022
+Time_Orderd                             18:45
+Time_Order_picked                       18:60
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   0.00000
+Festival                                   No
+City                            Metropolitian
+Name: 7153, dtype: object

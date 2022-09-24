@@ -1,0 +1,20 @@
+ID                                    0x8f63
+Delivery_person_ID             HYDRES16DEL02
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.440827
+Restaurant_longitude               78.393391
+Delivery_location_latitude         17.460827
+Delivery_location_longitude        78.413391
+Order_Date                        01-03-2022
+Time_Orderd                             9:60
+Time_Order_picked                      10:15
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 602, dtype: object

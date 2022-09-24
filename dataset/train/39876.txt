@@ -1,0 +1,21 @@
+ID                                    0xddcf
+Delivery_person_ID             DEHRES13DEL01
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                30.366322
+Restaurant_longitude               78.070453
+Delivery_location_latitude         30.376322
+Delivery_location_longitude        78.080453
+Order_Date                        13-02-2022
+Time_Orderd                            11:55
+Time_Order_picked                      12:05
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 39876, dtype: object

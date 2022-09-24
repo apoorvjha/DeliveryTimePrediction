@@ -1,0 +1,20 @@
+ID                                       0xaadc
+Delivery_person_ID             RANCHIRES01DEL03
+Delivery_person_Age                   31.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   23.416792
+Restaurant_longitude                  85.316842
+Delivery_location_latitude            23.506792
+Delivery_location_longitude           85.406842
+Order_Date                           18-03-2022
+Time_Orderd                               22:40
+Time_Order_picked                         22:55
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                         scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 6356, dtype: object

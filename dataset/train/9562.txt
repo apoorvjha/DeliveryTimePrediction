@@ -1,0 +1,21 @@
+ID                                    0xc01b
+Delivery_person_ID             GOARES18DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude               -15.493950
+Restaurant_longitude              -73.827423
+Delivery_location_latitude         15.563950
+Delivery_location_longitude        73.897423
+Order_Date                        16-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      22:05
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                           Meal
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   19.000000
+Name: 9562, dtype: object

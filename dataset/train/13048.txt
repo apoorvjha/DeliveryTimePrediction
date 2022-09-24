@@ -1,0 +1,21 @@
+ID                                    0x2969
+Delivery_person_ID             SURRES06DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                21.185047
+Restaurant_longitude               72.808590
+Delivery_location_latitude         21.255047
+Delivery_location_longitude        72.878590
+Order_Date                        06-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:25
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   21.000000
+Name: 13048, dtype: object

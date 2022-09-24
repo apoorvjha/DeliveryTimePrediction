@@ -1,0 +1,21 @@
+ID                                    0x458a
+Delivery_person_ID             VADRES02DEL02
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.40
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        12-03-2022
+Time_Orderd                            18:30
+Time_Order_picked                      18:45
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       35.00
+Name: 22579, dtype: object

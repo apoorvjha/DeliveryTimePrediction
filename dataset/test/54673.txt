@@ -1,0 +1,20 @@
+ID                                     0xc4a1
+Delivery_person_ID             LUDHRES03DEL02
+Delivery_person_Age                 28.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 30.887220
+Restaurant_longitude                75.804893
+Delivery_location_latitude          30.937220
+Delivery_location_longitude         75.854893
+Order_Date                         11-02-2022
+Time_Orderd                             18:15
+Time_Order_picked                       18:20
+Weather conditions                     Cloudy
+Road_traffic_density                   Medium
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 9080, dtype: object

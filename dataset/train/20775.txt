@@ -1,0 +1,21 @@
+ID                                    0xbf7e
+Delivery_person_ID             KNPRES12DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                26.492106
+Restaurant_longitude               80.327797
+Delivery_location_latitude         26.622106
+Delivery_location_longitude        80.457797
+Order_Date                        14-02-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:40
+Weather conditions                       NaN
+Road_traffic_density                     NaN
+Vehicle_condition                          3
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   41.000000
+Name: 20775, dtype: object

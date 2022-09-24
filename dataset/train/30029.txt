@@ -1,0 +1,21 @@
+ID                                    0xe149
+Delivery_person_ID             ALHRES16DEL03
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                25.450377
+Restaurant_longitude               81.834236
+Delivery_location_latitude         25.480377
+Delivery_location_longitude        81.864236
+Order_Date                        13-02-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:45
+Weather conditions                       Fog
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   29.000000
+Name: 30029, dtype: object

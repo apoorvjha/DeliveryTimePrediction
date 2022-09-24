@@ -1,0 +1,20 @@
+ID                                    0x9421
+Delivery_person_ID             HYDRES08DEL03
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.438263
+Restaurant_longitude               78.397865
+Delivery_location_latitude         17.528263
+Delivery_location_longitude        78.487865
+Order_Date                        10-03-2022
+Time_Orderd                            18:35
+Time_Order_picked                      18:50
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 7756, dtype: object

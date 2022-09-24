@@ -1,0 +1,20 @@
+ID                                    0xdef2
+Delivery_person_ID             AGRRES18DEL01
+Delivery_person_Age                20.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                27.161694
+Restaurant_longitude               78.034714
+Delivery_location_latitude         27.171694
+Delivery_location_longitude        78.044714
+Order_Date                        15-02-2022
+Time_Orderd                             9:35
+Time_Order_picked                       9:40
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 7171, dtype: object

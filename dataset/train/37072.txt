@@ -1,0 +1,21 @@
+ID                                       0xde18
+Delivery_person_ID                KOCRES20DEL01
+Delivery_person_Age                   34.000000
+Delivery_person_Ratings                4.600000
+Restaurant_latitude                    9.979186
+Restaurant_longitude                  76.317361
+Delivery_location_latitude             9.989186
+Delivery_location_longitude           76.327361
+Order_Date                           13-02-2022
+Time_Orderd                               11:30
+Time_Order_picked                         11:45
+Weather conditions                          Fog
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      38.000000
+Name: 37072, dtype: object

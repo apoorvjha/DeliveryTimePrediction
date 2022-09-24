@@ -1,0 +1,21 @@
+ID                                       0x210a
+Delivery_person_ID                HYDRES19DEL02
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                   17.458998
+Restaurant_longitude                  78.500366
+Delivery_location_latitude            17.588998
+Delivery_location_longitude           78.630366
+Order_Date                           18-03-2022
+Time_Orderd                               20:30
+Time_Order_picked                         20:35
+Weather conditions                          Fog
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    2.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      39.000000
+Name: 25228, dtype: object

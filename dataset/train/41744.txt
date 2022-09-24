@@ -1,0 +1,21 @@
+ID                                     0x757b
+Delivery_person_ID             INDORES08DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 22.725748
+Restaurant_longitude                75.898497
+Delivery_location_latitude          22.835748
+Delivery_location_longitude         76.008497
+Order_Date                         18-03-2022
+Time_Orderd                             17:35
+Time_Order_picked                       17:50
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    19.000000
+Name: 41744, dtype: object

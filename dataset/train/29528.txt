@@ -1,0 +1,21 @@
+ID                                     0x6b2d
+Delivery_person_ID             PUNERES16DEL03
+Delivery_person_Age                 30.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 18.536718
+Restaurant_longitude                73.830327
+Delivery_location_latitude          18.596719
+Delivery_location_longitude         73.890327
+Order_Date                         05-04-2022
+Time_Orderd                             19:60
+Time_Order_picked                       20:10
+Weather conditions                      Windy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    30.000000
+Name: 29528, dtype: object

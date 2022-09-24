@@ -1,0 +1,21 @@
+ID                                    0xcacf
+Delivery_person_ID             ALHRES20DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.100000
+Restaurant_latitude                25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.584697
+Delivery_location_longitude        81.964492
+Order_Date                        16-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   33.000000
+Name: 32990, dtype: object

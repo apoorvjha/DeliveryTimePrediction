@@ -1,0 +1,20 @@
+ID                                     0xe180
+Delivery_person_ID             AURGRES18DEL01
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 19.888716
+Restaurant_longitude                75.321461
+Delivery_location_latitude          19.928716
+Delivery_location_longitude         75.361461
+Order_Date                         13-02-2022
+Time_Orderd                             15:15
+Time_Order_picked                       15:30
+Weather conditions                      Sunny
+Road_traffic_density                   Medium
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7710, dtype: object

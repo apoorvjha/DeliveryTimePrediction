@@ -1,0 +1,20 @@
+ID                                     0x92fb
+Delivery_person_ID             CHENRES16DEL02
+Delivery_person_Age                 23.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 13.049645
+Restaurant_longitude                80.242268
+Delivery_location_latitude          13.069645
+Delivery_location_longitude         80.262268
+Order_Date                         07-03-2022
+Time_Orderd                             10:50
+Time_Order_picked                       10:55
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                            Meal
+Type_of_vehicle                       scooter
+multiple_deliveries                       NaN
+Festival                                   No
+City                                    Urban
+Name: 5451, dtype: object

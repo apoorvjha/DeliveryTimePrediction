@@ -1,0 +1,21 @@
+ID                                       0xdbc9
+Delivery_person_ID                KOLRES18DEL01
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   22.569367
+Restaurant_longitude                  88.433187
+Delivery_location_latitude            22.679367
+Delivery_location_longitude           88.543187
+Order_Date                           14-02-2022
+Time_Orderd                               22:60
+Time_Order_picked                         23:15
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                              Meal
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      28.000000
+Name: 37536, dtype: object

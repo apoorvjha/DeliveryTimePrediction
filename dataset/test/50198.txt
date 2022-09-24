@@ -1,0 +1,20 @@
+ID                                    0xcbaa
+Delivery_person_ID             KOCRES14DEL01
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                10.027014
+Restaurant_longitude               76.308053
+Delivery_location_latitude         10.097014
+Delivery_location_longitude        76.378053
+Order_Date                        16-02-2022
+Time_Orderd                            22:15
+Time_Order_picked                      22:30
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 4605, dtype: object

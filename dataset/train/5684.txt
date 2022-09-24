@@ -1,0 +1,21 @@
+ID                                        0x7e7
+Delivery_person_ID               PUNERES08DEL01
+Delivery_person_Age                    31.00000
+Delivery_person_Ratings                 4.70000
+Restaurant_latitude                    18.53408
+Restaurant_longitude                   73.89852
+Delivery_location_latitude             18.64408
+Delivery_location_longitude            74.00852
+Order_Date                           27-03-2022
+Time_Orderd                               21:10
+Time_Order_picked                         21:20
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                     1.00000
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                       28.00000
+Name: 5684, dtype: object

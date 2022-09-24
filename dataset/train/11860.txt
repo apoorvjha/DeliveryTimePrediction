@@ -1,0 +1,21 @@
+ID                                     0xb89
+Delivery_person_ID             JAPRES14DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.500000
+Restaurant_latitude                26.888420
+Restaurant_longitude               75.800689
+Delivery_location_latitude         26.928420
+Delivery_location_longitude        75.840689
+Order_Date                        19-03-2022
+Time_Orderd                            13:25
+Time_Order_picked                      13:40
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   43.000000
+Name: 11860, dtype: object

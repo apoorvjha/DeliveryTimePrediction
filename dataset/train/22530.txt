@@ -1,0 +1,21 @@
+ID                                    0x232d
+Delivery_person_ID             SURRES12DEL02
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                21.183434
+Restaurant_longitude               72.814492
+Delivery_location_latitude         21.313434
+Delivery_location_longitude        72.944492
+Order_Date                        14-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      23:50
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   20.000000
+Name: 22530, dtype: object

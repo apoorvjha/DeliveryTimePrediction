@@ -1,0 +1,20 @@
+ID                                       0x62f0
+Delivery_person_ID                MYSRES02DEL03
+Delivery_person_Age                   38.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   12.304569
+Restaurant_longitude                  76.643622
+Delivery_location_latitude            12.334569
+Delivery_location_longitude           76.673622
+Order_Date                           07-03-2022
+Time_Orderd                               22:25
+Time_Order_picked                         22:30
+Weather conditions                        Sunny
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 758, dtype: object

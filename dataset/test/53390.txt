@@ -1,0 +1,20 @@
+ID                                    0xceb3
+Delivery_person_ID             DEHRES11DEL03
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 3.10
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        18-02-2022
+Time_Orderd                            23:30
+Time_Order_picked                      23:45
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 7797, dtype: object

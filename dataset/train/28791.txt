@@ -1,0 +1,21 @@
+ID                                    0xc5bc
+Delivery_person_ID             ALHRES20DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                25.454697
+Restaurant_longitude               81.834492
+Delivery_location_latitude         25.564697
+Delivery_location_longitude        81.944492
+Order_Date                        16-02-2022
+Time_Orderd                            21:35
+Time_Order_picked                      21:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   25.000000
+Name: 28791, dtype: object

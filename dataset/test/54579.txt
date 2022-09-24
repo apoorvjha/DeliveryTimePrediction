@@ -1,0 +1,20 @@
+ID                                     0x1553
+Delivery_person_ID             PUNERES03DEL01
+Delivery_person_Age                 26.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.554382
+Restaurant_longitude                73.798206
+Delivery_location_latitude          18.564382
+Delivery_location_longitude         73.808206
+Order_Date                         03-04-2022
+Time_Orderd                             11:45
+Time_Order_picked                       11:50
+Weather conditions                      Windy
+Road_traffic_density                     High
+Vehicle_condition                           0
+Type_of_order                          Drinks
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 8986, dtype: object

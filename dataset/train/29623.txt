@@ -1,0 +1,21 @@
+ID                                    0x396a
+Delivery_person_ID             JAPRES18DEL03
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                26.913987
+Restaurant_longitude               75.752891
+Delivery_location_latitude         26.943987
+Delivery_location_longitude        75.782891
+Order_Date                        28-03-2022
+Time_Orderd                            18:20
+Time_Order_picked                      18:25
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   31.000000
+Name: 29623, dtype: object

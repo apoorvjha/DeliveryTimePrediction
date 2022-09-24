@@ -1,0 +1,21 @@
+ID                                      0x92e
+Delivery_person_ID             CHENRES09DEL02
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                 13.044694
+Restaurant_longitude                80.261470
+Delivery_location_latitude          13.174694
+Delivery_location_longitude         80.391470
+Order_Date                         10-03-2022
+Time_Orderd                               NaN
+Time_Order_picked                       22:45
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    38.000000
+Name: 9135, dtype: object

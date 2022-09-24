@@ -1,0 +1,20 @@
+ID                                     0xd763
+Delivery_person_ID             AURGRES09DEL03
+Delivery_person_Age                 32.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.874103
+Restaurant_longitude                75.368419
+Delivery_location_latitude          19.964103
+Delivery_location_longitude         75.458419
+Order_Date                         14-02-2022
+Time_Orderd                             23:30
+Time_Order_picked                       23:45
+Weather conditions                      Sunny
+Road_traffic_density                      Low
+Vehicle_condition                           0
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Name: 2894, dtype: object

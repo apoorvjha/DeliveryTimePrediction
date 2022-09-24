@@ -1,0 +1,21 @@
+ID                                       0x94bb
+Delivery_person_ID               INDORES04DEL02
+Delivery_person_Age                   37.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   22.753659
+Restaurant_longitude                  75.903365
+Delivery_location_latitude            22.803659
+Delivery_location_longitude           75.953365
+Order_Date                           13-03-2022
+Time_Orderd                               21:35
+Time_Order_picked                         21:45
+Weather conditions                        Sunny
+Road_traffic_density                        Jam
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                         NaN
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                      20.000000
+Name: 26943, dtype: object

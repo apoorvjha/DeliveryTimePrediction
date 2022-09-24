@@ -1,0 +1,20 @@
+ID                                      0x193b
+Delivery_person_ID             COIMBRES20DEL01
+Delivery_person_Age                  22.000000
+Delivery_person_Ratings               5.000000
+Restaurant_latitude                  10.994136
+Restaurant_longitude                 76.963303
+Delivery_location_latitude           11.004136
+Delivery_location_longitude          76.973303
+Order_Date                          26-03-2022
+Time_Orderd                               8:45
+Time_Order_picked                         8:60
+Weather conditions                       Sunny
+Road_traffic_density                       Low
+Vehicle_condition                            2
+Type_of_order                            Snack
+Type_of_vehicle                        scooter
+multiple_deliveries                   1.000000
+Festival                                    No
+City                             Metropolitian
+Name: 9603, dtype: object

@@ -1,0 +1,20 @@
+ID                                    0xbf64
+Delivery_person_ID             DEHRES18DEL01
+Delivery_person_Age                    37.00
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        17-02-2022
+Time_Orderd                            11:45
+Time_Order_picked                      11:55
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                     2.00
+Festival                                  No
+City                           Metropolitian
+Name: 3840, dtype: object

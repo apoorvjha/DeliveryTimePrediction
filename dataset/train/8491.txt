@@ -1,0 +1,21 @@
+ID                                     0xdd51
+Delivery_person_ID             AURGRES12DEL03
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 19.879631
+Restaurant_longitude                75.323403
+Delivery_location_latitude          19.969631
+Delivery_location_longitude         75.413403
+Order_Date                         12-02-2022
+Time_Orderd                             19:10
+Time_Order_picked                       19:15
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           1
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  2.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    45.000000
+Name: 8491, dtype: object

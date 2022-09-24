@@ -1,0 +1,21 @@
+ID                                     0xb3f
+Delivery_person_ID             VADRES15DEL01
+Delivery_person_Age                    27.00
+Delivery_person_Ratings                 3.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.01
+Delivery_location_longitude             0.01
+Order_Date                        01-03-2022
+Time_Orderd                            11:60
+Time_Order_picked                      12:15
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     3.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       44.00
+Name: 4514, dtype: object

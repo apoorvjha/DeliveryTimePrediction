@@ -1,0 +1,21 @@
+ID                                    0x8262
+Delivery_person_ID             MYSRES17DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.326356
+Restaurant_longitude               76.619103
+Delivery_location_latitude         12.336356
+Delivery_location_longitude        76.629103
+Order_Date                        26-03-2022
+Time_Orderd                            10:30
+Time_Order_picked                      10:40
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   19.000000
+Name: 1997, dtype: object

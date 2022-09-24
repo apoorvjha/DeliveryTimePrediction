@@ -1,0 +1,20 @@
+ID                                    0xa506
+Delivery_person_ID             MYSRES04DEL03
+Delivery_person_Age                35.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                12.308500
+Restaurant_longitude               76.665808
+Delivery_location_latitude         12.368500
+Delivery_location_longitude        76.725808
+Order_Date                        13-03-2022
+Time_Orderd                            23:55
+Time_Order_picked                      24:05
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 3332, dtype: object

@@ -1,0 +1,20 @@
+ID                                       0x8810
+Delivery_person_ID               PUNERES15DEL01
+Delivery_person_Age                   39.000000
+Delivery_person_Ratings                4.400000
+Restaurant_latitude                   18.636215
+Restaurant_longitude                  73.751081
+Delivery_location_latitude            18.676215
+Delivery_location_longitude           73.791081
+Order_Date                           26-03-2022
+Time_Orderd                               14:55
+Time_Order_picked                         14:60
+Weather conditions                        Windy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Drinks
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                              Metropolitian
+Name: 7087, dtype: object

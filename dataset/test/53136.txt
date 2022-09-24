@@ -1,0 +1,20 @@
+ID                                     0xcf43
+Delivery_person_ID             AURGRES07DEL02
+Delivery_person_Age                 33.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 19.875908
+Restaurant_longitude                75.358888
+Delivery_location_latitude          19.925908
+Delivery_location_longitude         75.408888
+Order_Date                         15-02-2022
+Time_Orderd                             19:15
+Time_Order_picked                       19:20
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 7543, dtype: object

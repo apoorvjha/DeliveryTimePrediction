@@ -1,0 +1,21 @@
+ID                                       0x472f
+Delivery_person_ID                VADRES17DEL01
+Delivery_person_Age                       23.00
+Delivery_person_Ratings                    4.90
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           24-03-2022
+Time_Orderd                               11:10
+Time_Order_picked                         11:25
+Weather conditions                       Cloudy
+Road_traffic_density                       High
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                        0.00
+Festival                                     No
+City                              Metropolitian
+Time_taken (min)                          29.00
+Name: 29436, dtype: object

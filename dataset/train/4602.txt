@@ -1,0 +1,21 @@
+ID                                     0x6c4
+Delivery_person_ID             MYSRES08DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.297954
+Restaurant_longitude               76.665169
+Delivery_location_latitude         12.357954
+Delivery_location_longitude        76.725169
+Order_Date                        21-03-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:50
+Weather conditions                     Sunny
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   13.000000
+Name: 4602, dtype: object

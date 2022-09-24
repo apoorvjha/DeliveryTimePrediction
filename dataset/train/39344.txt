@@ -1,0 +1,21 @@
+ID                                     0xd630
+Delivery_person_ID             LUDHRES06DEL02
+Delivery_person_Age                 34.000000
+Delivery_person_Ratings              4.600000
+Restaurant_latitude                 30.895204
+Restaurant_longitude                75.822103
+Delivery_location_latitude          30.915204
+Delivery_location_longitude         75.842103
+Order_Date                         17-02-2022
+Time_Orderd                             10:60
+Time_Order_picked                       11:05
+Weather conditions                     Stormy
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    24.000000
+Name: 39344, dtype: object

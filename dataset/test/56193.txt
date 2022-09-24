@@ -1,0 +1,20 @@
+ID                                    0xde1e
+Delivery_person_ID             KOCRES13DEL03
+Delivery_person_Age                36.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                 9.991703
+Restaurant_longitude               76.293136
+Delivery_location_latitude         10.021703
+Delivery_location_longitude        76.323136
+Order_Date                        11-02-2022
+Time_Orderd                            22:40
+Time_Order_picked                      22:55
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 10600, dtype: object

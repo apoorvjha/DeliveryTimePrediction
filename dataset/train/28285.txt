@@ -1,0 +1,21 @@
+ID                                    0xda06
+Delivery_person_ID             ALHRES07DEL01
+Delivery_person_Age                22.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                25.449659
+Restaurant_longitude               81.839744
+Delivery_location_latitude         25.559659
+Delivery_location_longitude        81.949744
+Order_Date                        14-02-2022
+Time_Orderd                            17:35
+Time_Order_picked                      17:50
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   31.000000
+Name: 28285, dtype: object

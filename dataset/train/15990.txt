@@ -1,0 +1,21 @@
+ID                                    0x4d6b
+Delivery_person_ID             SURRES17DEL02
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             5.000000
+Restaurant_latitude                21.149569
+Restaurant_longitude               72.772697
+Delivery_location_latitude         21.279569
+Delivery_location_longitude        72.902697
+Order_Date                        02-04-2022
+Time_Orderd                            19:55
+Time_Order_picked                      19:60
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   15.000000
+Name: 15990, dtype: object

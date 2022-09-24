@@ -1,0 +1,20 @@
+ID                                    0xc46b
+Delivery_person_ID             GOARES13DEL02
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                15.506205
+Restaurant_longitude               73.766668
+Delivery_location_latitude         15.636205
+Delivery_location_longitude        73.896668
+Order_Date                        14-02-2022
+Time_Orderd                            22:30
+Time_Order_picked                      22:45
+Weather conditions                    Cloudy
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 205, dtype: object

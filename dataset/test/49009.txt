@@ -1,0 +1,20 @@
+ID                                    0x8541
+Delivery_person_ID             HYDRES17DEL01
+Delivery_person_Age                29.000000
+Delivery_person_Ratings             4.900000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.491976
+Delivery_location_longitude        78.425883
+Order_Date                        05-04-2022
+Time_Orderd                            12:30
+Time_Order_picked                      12:45
+Weather conditions                     Sunny
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 3416, dtype: object

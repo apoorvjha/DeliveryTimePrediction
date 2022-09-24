@@ -1,0 +1,21 @@
+ID                                    0x7843
+Delivery_person_ID             HYDRES17DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.521976
+Delivery_location_longitude        78.455883
+Order_Date                        29-03-2022
+Time_Orderd                            17:25
+Time_Order_picked                      17:30
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 3.000000
+Festival                                 Yes
+City                           Metropolitian
+Time_taken (min)                   45.000000
+Name: 4226, dtype: object

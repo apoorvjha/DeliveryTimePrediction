@@ -1,0 +1,20 @@
+ID                                    0xda61
+Delivery_person_ID             ALHRES18DEL01
+Delivery_person_Age                28.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                25.450317
+Restaurant_longitude               81.831681
+Delivery_location_latitude         25.520317
+Delivery_location_longitude        81.901681
+Order_Date                        18-02-2022
+Time_Orderd                            18:20
+Time_Order_picked                      18:35
+Weather conditions                     Windy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 2.000000
+Festival                                  No
+City                           Metropolitian
+Name: 8469, dtype: object

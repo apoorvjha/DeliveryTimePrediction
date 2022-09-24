@@ -1,0 +1,21 @@
+ID                                    0xa141
+Delivery_person_ID             JAPRES05DEL01
+Delivery_person_Age                38.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                26.905287
+Restaurant_longitude               75.794592
+Delivery_location_latitude         26.945287
+Delivery_location_longitude        75.834592
+Order_Date                        28-03-2022
+Time_Orderd                            15:35
+Time_Order_picked                      15:50
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   26.000000
+Name: 5028, dtype: object

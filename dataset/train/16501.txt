@@ -1,0 +1,21 @@
+ID                                     0x87d
+Delivery_person_ID             MUMRES06DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                19.055831
+Restaurant_longitude               72.833984
+Delivery_location_latitude         19.095831
+Delivery_location_longitude        72.873984
+Order_Date                        05-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      13:40
+Weather conditions                    Stormy
+Road_traffic_density                    High
+Vehicle_condition                          0
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   38.000000
+Name: 16501, dtype: object

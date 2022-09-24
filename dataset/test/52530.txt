@@ -1,0 +1,20 @@
+ID                                       0x7676
+Delivery_person_ID             RANCHIRES03DEL01
+Delivery_person_Age                       38.00
+Delivery_person_Ratings                    4.60
+Restaurant_latitude                        0.00
+Restaurant_longitude                       0.00
+Delivery_location_latitude                 0.01
+Delivery_location_longitude                0.01
+Order_Date                           05-04-2022
+Time_Orderd                                9:55
+Time_Order_picked                         10:10
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             1
+Type_of_order                              Meal
+Type_of_vehicle                      motorcycle
+multiple_deliveries                        0.00
+Festival                                     No
+City                              Metropolitian
+Name: 6937, dtype: object

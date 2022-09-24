@@ -1,0 +1,20 @@
+ID                                    0x8a0b
+Delivery_person_ID             HYDRES17DEL03
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                17.451976
+Restaurant_longitude               78.385883
+Delivery_location_latitude         17.481976
+Delivery_location_longitude        78.415883
+Order_Date                        21-03-2022
+Time_Orderd                            19:45
+Time_Order_picked                      19:60
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Name: 5031, dtype: object

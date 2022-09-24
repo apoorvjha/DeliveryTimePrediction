@@ -1,0 +1,21 @@
+ID                                    0xdf04
+Delivery_person_ID             DEHRES20DEL02
+Delivery_person_Age                    31.00
+Delivery_person_Ratings                 4.50
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.08
+Delivery_location_longitude             0.08
+Order_Date                        16-02-2022
+Time_Orderd                            19:20
+Time_Order_picked                      19:30
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       33.00
+Name: 32461, dtype: object

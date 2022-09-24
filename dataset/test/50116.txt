@@ -1,0 +1,20 @@
+ID                                    0xdad3
+Delivery_person_ID             GOARES12DEL01
+Delivery_person_Age                27.000000
+Delivery_person_Ratings             4.300000
+Restaurant_latitude                15.516833
+Restaurant_longitude               73.768172
+Delivery_location_latitude         15.526833
+Delivery_location_longitude        73.778172
+Order_Date                        15-02-2022
+Time_Orderd                            11:10
+Time_Order_picked                      11:15
+Weather conditions                       Fog
+Road_traffic_density                    High
+Vehicle_condition                          1
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                           Metropolitian
+Name: 4523, dtype: object

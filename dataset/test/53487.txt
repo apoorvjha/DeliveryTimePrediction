@@ -1,0 +1,20 @@
+ID                                    0xc65d
+Delivery_person_ID             KNPRES02DEL01
+Delivery_person_Age                39.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                26.471617
+Restaurant_longitude               80.313564
+Delivery_location_latitude         26.581617
+Delivery_location_longitude        80.423564
+Order_Date                        12-02-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:60
+Weather conditions                     Windy
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                     NaN
+Name: 7894, dtype: object

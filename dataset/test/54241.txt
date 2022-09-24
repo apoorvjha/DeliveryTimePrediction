@@ -1,0 +1,20 @@
+ID                                     0x8e75
+Delivery_person_ID             PUNERES15DEL01
+Delivery_person_Age                 25.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 18.636215
+Restaurant_longitude                73.751081
+Delivery_location_latitude          18.646215
+Delivery_location_longitude         73.761081
+Order_Date                         05-04-2022
+Time_Orderd                             10:55
+Time_Order_picked                       11:10
+Weather conditions                 Sandstorms
+Road_traffic_density                      Low
+Vehicle_condition                           2
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  0.000000
+Festival                                   No
+City                            Metropolitian
+Name: 8648, dtype: object

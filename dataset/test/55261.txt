@@ -1,0 +1,20 @@
+ID                                    0xcc3b
+Delivery_person_ID             ALHRES04DEL01
+Delivery_person_Age                    39.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.11
+Delivery_location_longitude             0.11
+Order_Date                        16-02-2022
+Time_Orderd                            21:35
+Time_Order_picked                      21:45
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 9668, dtype: object

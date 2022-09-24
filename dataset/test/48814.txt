@@ -1,0 +1,20 @@
+ID                                    0x9e68
+Delivery_person_ID             VADRES03DEL01
+Delivery_person_Age                    26.00
+Delivery_person_Ratings                 4.80
+Restaurant_latitude                    22.32
+Restaurant_longitude                   73.17
+Delivery_location_latitude             22.39
+Delivery_location_longitude            73.24
+Order_Date                        29-03-2022
+Time_Orderd                            19:50
+Time_Order_picked                      19:55
+Weather conditions                Sandstorms
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Name: 3221, dtype: object

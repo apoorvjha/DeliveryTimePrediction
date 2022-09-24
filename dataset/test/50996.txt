@@ -1,0 +1,20 @@
+ID                                     0x8c9c
+Delivery_person_ID             BANGRES19DEL03
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.914264
+Restaurant_longitude                77.678400
+Delivery_location_latitude          12.974264
+Delivery_location_longitude         77.738400
+Order_Date                         24-03-2022
+Time_Orderd                             17:35
+Time_Order_picked                       17:40
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Name: 5403, dtype: object

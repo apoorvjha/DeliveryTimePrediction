@@ -1,0 +1,21 @@
+ID                                       0xb9d2
+Delivery_person_ID                SURRES13DEL01
+Delivery_person_Age                   23.000000
+Delivery_person_Ratings                4.900000
+Restaurant_latitude                   21.170096
+Restaurant_longitude                  72.789122
+Delivery_location_latitude            21.180096
+Delivery_location_longitude           72.799122
+Order_Date                           11-03-2022
+Time_Orderd                                9:35
+Time_Order_picked                          9:50
+Weather conditions                        Windy
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                            Buffet
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    1.000000
+Festival                                     No
+City                                        NaN
+Time_taken (min)                      12.000000
+Name: 13576, dtype: object

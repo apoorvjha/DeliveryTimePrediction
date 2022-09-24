@@ -1,0 +1,20 @@
+ID                                       0xa8ed
+Delivery_person_ID                VADRES11DEL03
+Delivery_person_Age                   27.000000
+Delivery_person_Ratings                4.700000
+Restaurant_latitude                   22.308096
+Restaurant_longitude                  73.167753
+Delivery_location_latitude            22.398096
+Delivery_location_longitude           73.257753
+Order_Date                           04-04-2022
+Time_Orderd                               23:50
+Time_Order_picked                         23:60
+Weather conditions                          Fog
+Road_traffic_density                        Low
+Vehicle_condition                             2
+Type_of_order                             Snack
+Type_of_vehicle                electric_scooter
+multiple_deliveries                    0.000000
+Festival                                     No
+City                                      Urban
+Name: 6558, dtype: object

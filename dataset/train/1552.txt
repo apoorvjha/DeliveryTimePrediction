@@ -1,0 +1,21 @@
+ID                                     0x5c3d
+Delivery_person_ID             BANGRES09DEL02
+Delivery_person_Age                 29.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.934179
+Restaurant_longitude                77.615797
+Delivery_location_latitude          13.014179
+Delivery_location_longitude         77.695797
+Order_Date                         31-03-2022
+Time_Orderd                             18:40
+Time_Order_picked                       18:55
+Weather conditions                 Sandstorms
+Road_traffic_density                   Medium
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    26.000000
+Name: 1552, dtype: object

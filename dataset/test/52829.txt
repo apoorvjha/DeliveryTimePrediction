@@ -1,0 +1,20 @@
+ID                                    0xd8b1
+Delivery_person_ID             GOARES05DEL03
+Delivery_person_Age                    38.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.09
+Delivery_location_longitude             0.09
+Order_Date                        12-02-2022
+Time_Orderd                            23:15
+Time_Order_picked                      23:25
+Weather conditions                     Windy
+Road_traffic_density                     Low
+Vehicle_condition                          0
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     0.00
+Festival                                  No
+City                           Metropolitian
+Name: 7236, dtype: object

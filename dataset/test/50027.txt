@@ -1,0 +1,20 @@
+ID                                    0xda96
+Delivery_person_ID             GOARES13DEL01
+Delivery_person_Age                33.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                15.506205
+Restaurant_longitude               73.766668
+Delivery_location_latitude         15.576205
+Delivery_location_longitude        73.836668
+Order_Date                        16-02-2022
+Time_Orderd                            22:50
+Time_Order_picked                      23:05
+Weather conditions                     Sunny
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                     NaN
+Name: 4434, dtype: object

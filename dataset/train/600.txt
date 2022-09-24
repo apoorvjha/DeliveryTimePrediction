@@ -1,0 +1,21 @@
+ID                                    0xe282
+Delivery_person_ID             AGRRES12DEL03
+Delivery_person_Age                34.000000
+Delivery_person_Ratings             4.200000
+Restaurant_latitude                27.165108
+Restaurant_longitude               78.015053
+Delivery_location_latitude         27.195108
+Delivery_location_longitude        78.045053
+Order_Date                        17-02-2022
+Time_Orderd                            17:40
+Time_Order_picked                      17:45
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          0
+Type_of_order                           Meal
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   37.000000
+Name: 600, dtype: object

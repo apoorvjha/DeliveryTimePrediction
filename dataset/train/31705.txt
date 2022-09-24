@@ -1,0 +1,21 @@
+ID                                    0xcdda
+Delivery_person_ID             GOARES12DEL02
+Delivery_person_Age                23.000000
+Delivery_person_Ratings             4.800000
+Restaurant_latitude                15.516833
+Restaurant_longitude               73.768172
+Delivery_location_latitude         15.646833
+Delivery_location_longitude        73.898172
+Order_Date                        16-02-2022
+Time_Orderd                            18:10
+Time_Order_picked                      18:20
+Weather conditions                    Stormy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                   24.000000
+Name: 31705, dtype: object

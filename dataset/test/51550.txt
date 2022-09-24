@@ -1,0 +1,20 @@
+ID                                     0x4ee
+Delivery_person_ID             MYSRES15DEL03
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                12.352058
+Restaurant_longitude               76.606650
+Delivery_location_latitude         12.412058
+Delivery_location_longitude        76.666650
+Order_Date                        17-03-2022
+Time_Orderd                              NaN
+Time_Order_picked                      18:20
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                         Buffet
+Type_of_vehicle                   motorcycle
+multiple_deliveries                 1.000000
+Festival                                  No
+City                           Metropolitian
+Name: 5957, dtype: object

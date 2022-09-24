@@ -1,0 +1,21 @@
+ID                                     0xdebb
+Delivery_person_ID             AGRRES010DEL01
+Delivery_person_Age                 38.000000
+Delivery_person_Ratings              4.700000
+Restaurant_latitude                 27.163303
+Restaurant_longitude                78.057044
+Delivery_location_latitude          27.233303
+Delivery_location_longitude         78.127044
+Order_Date                         18-02-2022
+Time_Orderd                             22:45
+Time_Order_picked                       22:50
+Weather conditions                      Windy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                    motorcycle
+multiple_deliveries                  1.000000
+Festival                                   No
+City                                    Urban
+Time_taken (min)                    28.000000
+Name: 141, dtype: object

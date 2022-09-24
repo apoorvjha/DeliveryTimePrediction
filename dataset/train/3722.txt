@@ -1,0 +1,21 @@
+ID                                    0x165e
+Delivery_person_ID             MYSRES14DEL02
+Delivery_person_Age                    25.00
+Delivery_person_Ratings                 4.90
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.13
+Delivery_location_longitude             0.13
+Order_Date                        04-04-2022
+Time_Orderd                            21:60
+Time_Order_picked                      22:10
+Weather conditions                     Sunny
+Road_traffic_density                     Jam
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                      scooter
+multiple_deliveries                     1.00
+Festival                                  No
+City                           Metropolitian
+Time_taken (min)                       12.00
+Name: 3722, dtype: object

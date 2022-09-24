@@ -1,0 +1,21 @@
+ID                                      0x48e
+Delivery_person_ID             PUNERES06DEL01
+Delivery_person_Age                       NaN
+Delivery_person_Ratings                   NaN
+Restaurant_latitude                -18.546258
+Restaurant_longitude               -73.904337
+Delivery_location_latitude          18.616258
+Delivery_location_longitude         73.974337
+Order_Date                         06-04-2022
+Time_Orderd                               NaN
+Time_Order_picked                       19:55
+Weather conditions                        Fog
+Road_traffic_density                      Jam
+Vehicle_condition                           2
+Type_of_order                           Snack
+Type_of_vehicle                       scooter
+multiple_deliveries                  2.000000
+Festival                                  Yes
+City                            Metropolitian
+Time_taken (min)                    47.000000
+Name: 15034, dtype: object

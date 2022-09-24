@@ -1,0 +1,21 @@
+ID                                     0xb51b
+Delivery_person_ID             PUNERES08DEL02
+Delivery_person_Age                  38.00000
+Delivery_person_Ratings               4.40000
+Restaurant_latitude                  18.53408
+Restaurant_longitude                 73.89852
+Delivery_location_latitude           18.66408
+Delivery_location_longitude          74.02852
+Order_Date                         25-03-2022
+Time_Orderd                             21:15
+Time_Order_picked                       21:30
+Weather conditions                     Stormy
+Road_traffic_density                      Jam
+Vehicle_condition                           0
+Type_of_order                           Snack
+Type_of_vehicle                    motorcycle
+multiple_deliveries                   0.00000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                     43.00000
+Name: 25366, dtype: object

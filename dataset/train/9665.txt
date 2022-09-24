@@ -1,0 +1,21 @@
+ID                                     0x3263
+Delivery_person_ID             BANGRES13DEL01
+Delivery_person_Age                 37.000000
+Delivery_person_Ratings              4.800000
+Restaurant_latitude                 12.935662
+Restaurant_longitude                77.614130
+Delivery_location_latitude          12.945662
+Delivery_location_longitude         77.624130
+Order_Date                         05-03-2022
+Time_Orderd                              8:50
+Time_Order_picked                        8:60
+Weather conditions                     Cloudy
+Road_traffic_density                      Low
+Vehicle_condition                           1
+Type_of_order                          Buffet
+Type_of_vehicle                       scooter
+multiple_deliveries                  1.000000
+Festival                                   No
+City                            Metropolitian
+Time_taken (min)                    16.000000
+Name: 9665, dtype: object

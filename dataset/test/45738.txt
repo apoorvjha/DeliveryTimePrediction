@@ -1,0 +1,20 @@
+ID                                    0x602b
+Delivery_person_ID             VADRES17DEL02
+Delivery_person_Age                    32.00
+Delivery_person_Ratings                 4.20
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.05
+Delivery_location_longitude             0.05
+Order_Date                        17-03-2022
+Time_Orderd                            19:10
+Time_Order_picked                      19:20
+Weather conditions                       Fog
+Road_traffic_density                     Jam
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                     2.00
+Festival                                  No
+City                           Metropolitian
+Name: 145, dtype: object

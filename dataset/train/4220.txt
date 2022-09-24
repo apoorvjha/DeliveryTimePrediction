@@ -1,0 +1,21 @@
+ID                                      0x9882
+Delivery_person_ID             PUNERES010DEL01
+Delivery_person_Age                  31.000000
+Delivery_person_Ratings               3.500000
+Restaurant_latitude                  18.539299
+Restaurant_longitude                 73.897902
+Delivery_location_latitude           18.649299
+Delivery_location_longitude          74.007902
+Order_Date                          14-03-2022
+Time_Orderd                              21:30
+Time_Order_picked                        21:40
+Weather conditions                  Sandstorms
+Road_traffic_density                       Jam
+Vehicle_condition                            2
+Type_of_order                           Buffet
+Type_of_vehicle                        scooter
+multiple_deliveries                   2.000000
+Festival                                    No
+City                             Metropolitian
+Time_taken (min)                     35.000000
+Name: 4220, dtype: object

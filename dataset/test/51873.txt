@@ -1,0 +1,20 @@
+ID                                     0x713
+Delivery_person_ID             HYDRES20DEL01
+Delivery_person_Age                      NaN
+Delivery_person_Ratings                  NaN
+Restaurant_latitude                17.483216
+Restaurant_longitude               78.552111
+Delivery_location_latitude         17.523216
+Delivery_location_longitude        78.592111
+Order_Date                        01-04-2022
+Time_Orderd                              NaN
+Time_Order_picked                      17:05
+Weather conditions                Sandstorms
+Road_traffic_density                  Medium
+Vehicle_condition                          2
+Type_of_order                         Drinks
+Type_of_vehicle                   motorcycle
+multiple_deliveries                      NaN
+Festival                                  No
+City                           Metropolitian
+Name: 6280, dtype: object

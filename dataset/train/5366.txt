@@ -1,0 +1,21 @@
+ID                                    0xdc64
+Delivery_person_ID             AGRRES09DEL01
+Delivery_person_Age                    28.00
+Delivery_person_Ratings                 4.60
+Restaurant_latitude                     0.00
+Restaurant_longitude                    0.00
+Delivery_location_latitude              0.04
+Delivery_location_longitude             0.04
+Order_Date                        17-02-2022
+Time_Orderd                            15:15
+Time_Order_picked                      15:25
+Weather conditions                    Cloudy
+Road_traffic_density                  Medium
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                   motorcycle
+multiple_deliveries                     1.00
+Festival                                  No
+City                                   Urban
+Time_taken (min)                       14.00
+Name: 5366, dtype: object

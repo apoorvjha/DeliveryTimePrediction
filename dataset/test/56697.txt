@@ -1,0 +1,20 @@
+ID                                    0x559b
+Delivery_person_ID             MYSRES12DEL02
+Delivery_person_Age                26.000000
+Delivery_person_Ratings             4.700000
+Restaurant_latitude                12.284747
+Restaurant_longitude               76.625861
+Delivery_location_latitude         12.304747
+Delivery_location_longitude        76.645861
+Order_Date                        24-03-2022
+Time_Orderd                            10:50
+Time_Order_picked                      11:05
+Weather conditions                Sandstorms
+Road_traffic_density                     Low
+Vehicle_condition                          2
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 0.000000
+Festival                                  No
+City                                   Urban
+Name: 11104, dtype: object

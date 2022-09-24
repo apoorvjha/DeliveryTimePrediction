@@ -1,0 +1,21 @@
+ID                                    0xd2de
+Delivery_person_ID             ALHRES13DEL01
+Delivery_person_Age                21.000000
+Delivery_person_Ratings             4.600000
+Restaurant_latitude                25.451646
+Restaurant_longitude               81.832796
+Delivery_location_latitude         25.521646
+Delivery_location_longitude        81.902796
+Order_Date                        18-02-2022
+Time_Orderd                            22:50
+Time_Order_picked                      23:05
+Weather conditions                       Fog
+Road_traffic_density                     Low
+Vehicle_condition                          1
+Type_of_order                          Snack
+Type_of_vehicle                      scooter
+multiple_deliveries                 1.000000
+Festival                                  No
+City                                   Urban
+Time_taken (min)                   21.000000
+Name: 18922, dtype: object
